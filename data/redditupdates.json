@@ -54,6 +54,30 @@
           "published": "2026-07-23T05:02:16+00:00"
         }
       ]
+    },
+    "top scoring links : ExperiencedDevs": {
+      "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
+      "fetched_at": "2026-07-23T23:29:07.657491+00:00",
+      "items": [
+        {
+          "title": "Beyond 10+ years of experience, how do you actually build and maintain a strong professional network?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v4lcsl/beyond_10_years_of_experience_how_do_you_actually/",
+          "author": "/u/Majestic-Taro-6903",
+          "published": "2026-07-23T17:55:38+00:00"
+        },
+        {
+          "title": "Have you ever taken legal action against a client who didn't pay you?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v4hu51/have_you_ever_taken_legal_action_against_a_client/",
+          "author": "/u/No_Comedian7332",
+          "published": "2026-07-23T15:52:14+00:00"
+        },
+        {
+          "title": "Failed Interview but they are going to steal my ideas",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v3wyt9/failed_interview_but_they_are_going_to_steal_my/",
+          "author": "/u/Toxic_Biohazard",
+          "published": "2026-07-22T23:34:16+00:00"
+        }
+      ]
     }
   }
 }
