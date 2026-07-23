@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "key": "reddittext",
+      "title": "Reddit Text",
+      "feeds": [
+        {
+          "name": "top scoring links : AskIndia",
+          "url": "https://old.reddit.com/r/AskIndia/top.rss?limit=5",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "AskReddit: search results - nsfw:no",
+          "url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : Frugal_Ind",
+          "url": "https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : delhi",
+          "url": "https://old.reddit.com/r/delhi/top.rss?limit=5",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : FIRE_Ind",
+          "url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : hopeposting",
+          "url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : LifeProTips",
+          "url": "https://old.reddit.com/r/lifeprotips/top/.rss?limit=5",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : malelivingspace",
+          "url": "https://old.reddit.com/r/malelivingspace/top.rss?limit=2",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : ProgrammerHumor",
+          "url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
+          "category": "Reddit Text"
+        },
+        {
+          "name": "top scoring links : Android",
+          "url": "https://old.reddit.com/r/android/top.rss?limit=3",
+          "category": "Reddit Text"
+        }
+      ]
+    },
+    {
+      "key": "redditupdates",
+      "title": "Updates",
+      "feeds": [
+        {
+          "name": "top scoring links : developersIndia",
+          "url": "https://old.reddit.com/r/developersIndia/top.rss?t=day&limit=8",
+          "category": "Updates"
+        },
+        {
+          "name": "top scoring links : ExperiencedDevs",
+          "url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
+          "category": "Updates"
+        },
+        {
+          "name": "top scoring links : LeetcodeDesi",
+          "url": "https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&limit=5",
+          "category": "Updates"
+        }
+      ]
+    }
+  ]
+}

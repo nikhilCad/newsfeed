@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>RSS dashboard feeds</title>
+    <dateCreated>Wed, 22 Jul 2026 21:05:44 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Reddit Text" title="Reddit Text">
+      <outline text="top scoring links : AskIndia" title="top scoring links : AskIndia" type="rss" xmlUrl="https://old.reddit.com/r/AskIndia/top.rss?limit=5" category="Reddit Text"/>
+      <outline text="AskReddit: search results - nsfw:no" title="AskReddit: search results - nsfw:no" type="rss" xmlUrl="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3" category="Reddit Text"/>
+      <outline text="top scoring links : Frugal_Ind" title="top scoring links : Frugal_Ind" type="rss" xmlUrl="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5" category="Reddit Text"/>
+      <outline text="top scoring links : delhi" title="top scoring links : delhi" type="rss" xmlUrl="https://old.reddit.com/r/delhi/top.rss?limit=5" category="Reddit Text"/>
+      <outline text="top scoring links : FIRE_Ind" title="top scoring links : FIRE_Ind" type="rss" xmlUrl="https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1" category="Reddit Text"/>
+      <outline text="top scoring links : hopeposting" title="top scoring links : hopeposting" type="rss" xmlUrl="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2" category="Reddit Text"/>
+      <outline text="top scoring links : LifeProTips" title="top scoring links : LifeProTips" type="rss" xmlUrl="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5" category="Reddit Text"/>
+      <outline text="top scoring links : malelivingspace" title="top scoring links : malelivingspace" type="rss" xmlUrl="https://old.reddit.com/r/malelivingspace/top.rss?limit=2" category="Reddit Text"/>
+      <outline text="top scoring links : ProgrammerHumor" title="top scoring links : ProgrammerHumor" type="rss" xmlUrl="https://old.reddit.com/r/programmerhumor/top.rss?limit=3" category="Reddit Text"/>
+      <outline text="top scoring links : Android" title="top scoring links : Android" type="rss" xmlUrl="https://old.reddit.com/r/android/top.rss?limit=3" category="Reddit Text"/>
+    </outline>
+    <outline text="Updates" title="Updates">
+      <outline text="top scoring links : developersIndia" title="top scoring links : developersIndia" type="rss" xmlUrl="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8" category="Updates"/>
+      <outline text="top scoring links : ExperiencedDevs" title="top scoring links : ExperiencedDevs" type="rss" xmlUrl="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3" category="Updates"/>
+      <outline text="top scoring links : LeetcodeDesi" title="top scoring links : LeetcodeDesi" type="rss" xmlUrl="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5" category="Updates"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,55 @@
+name: Refresh Reddit feeds
+
+# Reddit now rate-limits to ~1 request/minute, so we refresh one of the 13
+# feeds in feeds.json every 5 minutes, twice a day, spending 60 minutes each
+# time to cycle through all of them:
+#   - 04:00-05:00 IST == 22:30-23:30 UTC (previous day)
+#   - 16:00-17:00 IST == 10:30-11:30 UTC
+# scripts/fetch_feed.py figures out which feed to fetch from the run's
+# current time, so no state needs to be passed between runs.
+on:
+  schedule:
+    - cron: "30-59/5 22 * * *"
+    - cron: "0-30/5 23 * * *"
+    - cron: "30-59/5 10 * * *"
+    - cron: "0-30/5 11 * * *"
+  workflow_dispatch:
+    inputs:
+      feed_index:
+        description: "Feed index to fetch (0-12), for manual testing"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-reddit-feeds
+  cancel-in-progress: false
+
+jobs:
+  refresh-one-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch one feed
+        env:
+          FEED_INDEX: ${{ github.event.inputs.feed_index }}
+        run: python3 scripts/fetch_feed.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Refresh reddit feed data"
+            git pull --rebase origin main
+            git push
+          fi

@@ -1,0 +1,59 @@
+{
+  "category": "Updates",
+  "feeds": {
+    "top scoring links : developersIndia": {
+      "source_url": "https://old.reddit.com/r/developersIndia/top.rss?t=day&limit=8&feed=1ecdf2189e32f4ad020bc2576c4c22ca5a27aac7&user=Putrid_Sandwich_5805",
+      "fetched_at": "2026-07-23T16:05:33.533529+00:00",
+      "items": [
+        {
+          "title": "Returned from the US and ended up in a classic \"Lala\" company. Big mistake?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v3legp/returned_from_the_us_and_ended_up_in_a_classic/",
+          "author": "/u/Chance_Square8906",
+          "published": "2026-07-22T16:37:11+00:00"
+        },
+        {
+          "title": "My interviewer asked me to write Dijkstra's algorithm in Java",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v4aehf/my_interviewer_asked_me_to_write_dijkstras/",
+          "author": "/u/AcrobaticAd3489",
+          "published": "2026-07-23T10:50:21+00:00"
+        },
+        {
+          "title": "Have you ever had the sting of a missed opportunity?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v45bt6/have_you_ever_had_the_sting_of_a_missed/",
+          "author": "/u/Possibility-Puzzled",
+          "published": "2026-07-23T06:07:45+00:00"
+        },
+        {
+          "title": "What is worst thing you have ever seen at \"lala company\"?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v3m8n7/what_is_worst_thing_you_have_ever_seen_at_lala/",
+          "author": "/u/VariationLivid3193",
+          "published": "2026-07-22T17:05:57+00:00"
+        },
+        {
+          "title": "What workplace philosophy has stayed with you over the years?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v3lw6v/what_workplace_philosophy_has_stayed_with_you/",
+          "author": "/u/Ecstatic_Jicama_1482",
+          "published": "2026-07-22T16:54:27+00:00"
+        },
+        {
+          "title": "Did anyone lie in an interview to get selected ?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v4earw/did_anyone_lie_in_an_interview_to_get_selected/",
+          "author": "/u/skrull-07",
+          "published": "2026-07-23T13:42:15+00:00"
+        },
+        {
+          "title": "Bench Period almost over and going into Loss of Pay",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v46a2h/bench_period_almost_over_and_going_into_loss_of/",
+          "author": "/u/Important-Run1088",
+          "published": "2026-07-23T07:00:20+00:00"
+        },
+        {
+          "title": "How to slack off work,to prep for better opportunities",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v4439m/how_to_slack_off_workto_prep_for_better/",
+          "author": "/u/Single_Estimate_3190",
+          "published": "2026-07-23T05:02:16+00:00"
+        }
+      ]
+    }
+  }
+}
