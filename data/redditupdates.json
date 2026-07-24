@@ -78,6 +78,42 @@
           "published": "2026-07-22T23:34:16+00:00"
         }
       ]
+    },
+    "top scoring links : LeetcodeDesi": {
+      "source_url": "https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&limit=5",
+      "fetched_at": "2026-07-24T23:33:55.522778+00:00",
+      "items": [
+        {
+          "title": "Opinion needed please 🙏 🙏",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v53dzx/opinion_needed_please/",
+          "author": "/u/Medical-Potential979",
+          "published": "2026-07-24T06:35:39+00:00"
+        },
+        {
+          "title": "Mindf*cked myself doing LCA",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v5hxt0/mindfcked_myself_doing_lca/",
+          "author": "/u/rupees_cash",
+          "published": "2026-07-24T17:26:07+00:00"
+        },
+        {
+          "title": "Best Resources for OOPS, CN",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v5bnl9/best_resources_for_oops_cn/",
+          "author": "/u/Successful-Prize-591",
+          "published": "2026-07-24T13:37:12+00:00"
+        },
+        {
+          "title": "Kotak SDE 2 Interview insights (Rounds 2 & 3)",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v53qof/kotak_sde_2_interview_insights_rounds_2_3/",
+          "author": "/u/Big-Plum-2547",
+          "published": "2026-07-24T06:54:26+00:00"
+        },
+        {
+          "title": "Placements start next month. Feeling a bit lost about what to do next.",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v5b5l7/placements_start_next_month_feeling_a_bit_lost/",
+          "author": "/u/Screaming_in_Binary",
+          "published": "2026-07-24T13:17:23+00:00"
+        }
+      ]
     }
   }
 }
