@@ -96,6 +96,42 @@
           "published": "2026-07-25T13:53:37+00:00"
         }
       ]
+    },
+    "top scoring links : delhi": {
+      "source_url": "https://old.reddit.com/r/delhi/top.rss?limit=5",
+      "fetched_at": "2026-07-25T14:56:16.565562+00:00",
+      "items": [
+        {
+          "title": "Uttar Pradesh Police Raids CJP Protester Mohammad Junaid's Home! Junaid, from the CJP, has been arranging food, drinks, and water for the protesters since the very first day of the Jantar Mantar protest-demonstration. during the raid, Junaid's father and minor brother were arrested",
+          "link": "https://old.reddit.com/r/delhi/comments/1v5iwdh/uttar_pradesh_police_raids_cjp_protester_mohammad/",
+          "author": "/u/NotHereToLove",
+          "published": "2026-07-24T18:00:10+00:00"
+        },
+        {
+          "title": "Cockroach Janta Party withdraws its nationwide agitation with immediate effect [Megathread]",
+          "link": "https://old.reddit.com/r/delhi/comments/1v66zrl/cockroach_janta_party_withdraws_its_nationwide/",
+          "author": "/u/india-mods",
+          "published": "2026-07-25T12:23:46+00:00"
+        },
+        {
+          "title": "CJP PROTEST ISN'T OVER YET",
+          "link": "https://old.reddit.com/r/delhi/comments/1v63tts/cjp_protest_isnt_over_yet/",
+          "author": "/u/orang3muffin",
+          "published": "2026-07-25T09:38:45+00:00"
+        },
+        {
+          "title": "Dharmendra Pradhan has resigned",
+          "link": "https://old.reddit.com/r/delhi/comments/1v6325u/dharmendra_pradhan_has_resigned/",
+          "author": "/u/Plastic_Many393",
+          "published": "2026-07-25T08:56:25+00:00"
+        },
+        {
+          "title": "Pradhan Finally Resigned!!",
+          "link": "https://old.reddit.com/r/delhi/comments/1v62zuh/pradhan_finally_resigned/",
+          "author": "/u/allitriedweretaken",
+          "published": "2026-07-25T08:52:41+00:00"
+        }
+      ]
     }
   }
 }
