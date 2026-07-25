@@ -2,38 +2,38 @@
   "category": "Reddit Text",
   "feeds": {
     "top scoring links : AskIndia": {
-      "source_url": "https://old.reddit.com/r/AskIndia/top.rss?limit=5&feed=1ecdf2189e32f4ad020bc2576c4c22ca5a27aac7&user=Putrid_Sandwich_5805",
-      "fetched_at": "2026-07-23T16:05:32.665545+00:00",
+      "source_url": "https://old.reddit.com/r/AskIndia/top.rss?limit=5",
+      "fetched_at": "2026-07-25T09:38:33.140090+00:00",
       "items": [
         {
-          "title": "Can someone ask for Nitin Gadkari's resignation? Bigest Bhadwa after EduMinister",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v3rxtd/can_someone_ask_for_nitin_gadkaris_resignation/",
-          "author": "/u/Forward_River610",
-          "published": "2026-07-22T20:21:38+00:00"
+          "title": "Why do many NRIs love NaMo?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v5ij2w/why_do_many_nris_love_namo/",
+          "author": "/u/PhaseStreet9860",
+          "published": "2026-07-24T17:47:12+00:00"
         },
         {
-          "title": "Have you started socially boycotting BJP supporters?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v473si/have_you_started_socially_boycotting_bjp/",
-          "author": "/u/ravzzy",
-          "published": "2026-07-23T07:46:44+00:00"
+          "title": "If the Education Minister's resignation has no impact, why have the post?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v5ahec/if_the_education_ministers_resignation_has_no/",
+          "author": "/u/think_big_0",
+          "published": "2026-07-24T12:50:20+00:00"
         },
         {
-          "title": "Will BJP/RSS facing downfall like Congress 10 years back?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v46025/will_bjprss_facing_downfall_like_congress_10/",
-          "author": "/u/Venkie2Maybach",
-          "published": "2026-07-23T06:44:58+00:00"
+          "title": "Why are brown people going abroad called immigrants but white people are expats?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v5xtlb/why_are_brown_people_going_abroad_called/",
+          "author": "/u/donut_man88",
+          "published": "2026-07-25T04:13:36+00:00"
         },
         {
-          "title": "Why has Prime Minister Narendra Modi remained silent on the CJP protests?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v415m4/why_has_prime_minister_narendra_modi_remained/",
-          "author": "/u/Blocker03",
-          "published": "2026-07-23T02:39:35+00:00"
+          "title": "Forget the Politics - Do You Still Trust Delhi Police?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v585pi/forget_the_politics_do_you_still_trust_delhi/",
+          "author": "/u/Curious-Journalist76",
+          "published": "2026-07-24T11:01:57+00:00"
         },
         {
-          "title": "Why does no one ask if BJP is funded, despite having massive financial backing?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v3w0ps/why_does_no_one_ask_if_bjp_is_funded_despite/",
-          "author": "/u/TurbofanTyrant",
-          "published": "2026-07-22T22:55:12+00:00"
+          "title": "Do you think people will remember when it’s time to vote?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v5mtqh/do_you_think_people_will_remember_when_its_time/",
+          "author": "/u/S4DH033",
+          "published": "2026-07-24T20:21:04+00:00"
         }
       ]
     }
