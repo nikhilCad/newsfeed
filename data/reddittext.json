@@ -144,6 +144,24 @@
           "published": "2026-07-25T15:58:26+00:00"
         }
       ]
+    },
+    "top scoring links : hopeposting": {
+      "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
+      "fetched_at": "2026-07-25T16:48:35.596439+00:00",
+      "items": [
+        {
+          "title": "Given what I have now, I like my odds of winning.",
+          "link": "https://old.reddit.com/r/hopeposting/comments/1v5o8gl/given_what_i_have_now_i_like_my_odds_of_winning/",
+          "author": "/u/Unusual_Ant7476",
+          "published": "2026-07-24T21:12:32+00:00"
+        },
+        {
+          "title": "Speaking from experience of course",
+          "link": "https://old.reddit.com/r/hopeposting/comments/1v5k4uo/speaking_from_experience_of_course/",
+          "author": "/u/best_plutonium_box",
+          "published": "2026-07-24T18:44:02+00:00"
+        }
+      ]
     }
   }
 }
