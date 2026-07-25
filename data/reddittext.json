@@ -132,6 +132,18 @@
           "published": "2026-07-25T08:52:41+00:00"
         }
       ]
+    },
+    "top scoring links : FIRE_Ind": {
+      "source_url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
+      "fetched_at": "2026-07-25T16:13:25.445600+00:00",
+      "items": [
+        {
+          "title": "An update on the anonymized AMAs and podcast series!",
+          "link": "https://old.reddit.com/r/FIRE_Ind/comments/1v6c2nl/an_update_on_the_anonymized_amas_and_podcast/",
+          "author": "/u/snakysour",
+          "published": "2026-07-25T15:58:26+00:00"
+        }
+      ]
     }
   }
 }
