@@ -186,6 +186,24 @@
           "published": "2026-07-25T07:37:56+00:00"
         }
       ]
+    },
+    "top scoring links : malelivingspace": {
+      "source_url": "https://old.reddit.com/r/malelivingspace/top.rss?limit=2",
+      "fetched_at": "2026-07-25T18:56:12.381776+00:00",
+      "items": [
+        {
+          "title": "31M, Single, 1Year",
+          "link": "https://old.reddit.com/r/malelivingspace/comments/1v63hf0/31m_single_1year/",
+          "author": "/u/Andytranfilms",
+          "published": "2026-07-25T09:19:42+00:00"
+        },
+        {
+          "title": "33M, Single 1.5 Years in my new place",
+          "link": "https://old.reddit.com/r/malelivingspace/comments/1v68s9n/33m_single_15_years_in_my_new_place/",
+          "author": "/u/DeloBoys",
+          "published": "2026-07-25T13:43:22+00:00"
+        }
+      ]
     }
   }
 }
