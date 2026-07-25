@@ -204,6 +204,30 @@
           "published": "2026-07-25T13:43:22+00:00"
         }
       ]
+    },
+    "top scoring links : ProgrammerHumor": {
+      "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
+      "fetched_at": "2026-07-25T23:36:53.132603+00:00",
+      "items": [
+        {
+          "title": "sheSaidOrMeOrTheRubberDuck",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v5wiha/shesaidormeortherubberduck/",
+          "author": "/u/vinishkapoor",
+          "published": "2026-07-25T03:09:55+00:00"
+        },
+        {
+          "title": "inheritedTechDebt",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v6ahq9/inheritedtechdebt/",
+          "author": "/u/vinishkapoor",
+          "published": "2026-07-25T14:53:38+00:00"
+        },
+        {
+          "title": "soundsLegit",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v65b84/soundslegit/",
+          "author": "/u/acchnAsquare",
+          "published": "2026-07-25T11:00:19+00:00"
+        }
+      ]
     }
   }
 }
