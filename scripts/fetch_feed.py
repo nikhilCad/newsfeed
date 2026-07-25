@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 """Fetch exactly one Reddit feed and merge it into data/<category>.json.
 
-Reddit now rate-limits to ~1 request/minute, so a full refresh of all 13
-feeds in feeds.json is spread across a 60-minute window, one feed every 5
-minutes. .github/workflows/refresh-reddit-feeds.yml schedules this script to
-run only inside two such windows per day (4:00-5:00 and 16:00-17:00 IST).
+Reddit rate-limits to ~1 request/minute, so .github/workflows/refresh-reddit-feeds.yml
+runs this script every 40 minutes, and each run fetches just the next feed in
+feeds.json (round-robin). Which feed that is comes from data/fetch_state.json
+(the index of the last feed fetched), not from wall-clock time -- GitHub's
+schedule trigger is best-effort and runs get delayed or dropped, so deriving
+the slot from "what time is it" caused most runs to either fetch the wrong
+feed or silently no-op. Advancing a persisted counter instead means every run
+that actually fires does useful work, in order, regardless of when it lands.
 
-Which feed to fetch is derived purely from the current time -- slot N is
-(minutes since the window started) // 5 -- so no counter/state file has to
-be carried between runs. Pass FEED_INDEX to override this for manual testing.
+Pass FEED_INDEX to fetch a specific feed by index for manual testing --
+this does not touch or advance the persisted state.
 
 Usage:
     python3 scripts/fetch_feed.py
@@ -18,22 +21,15 @@ import json
 import os
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
-IST = timezone(timedelta(hours=5, minutes=30))
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
 USER_AGENT = "newsfeed-reddit-bridge/1.0"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FEEDS_JSON = os.path.join(ROOT, "feeds.json")
 DATA_DIR = os.path.join(ROOT, "data")
-
-SLOT_MINUTES = 5
-NUM_FEEDS = 13
-WINDOW_STARTS_MIN = {
-    "morning": 4 * 60,   # 04:00 IST
-    "evening": 16 * 60,  # 16:00 IST
-}
+STATE_PATH = os.path.join(DATA_DIR, "fetch_state.json")
 
 
 def load_feeds():
@@ -49,13 +45,18 @@ def flatten(feeds):
     return order
 
 
-def current_slot(now_ist):
-    minutes_of_day = now_ist.hour * 60 + now_ist.minute
-    for window_start in WINDOW_STARTS_MIN.values():
-        offset = minutes_of_day - window_start
-        if 0 <= offset < NUM_FEEDS * SLOT_MINUTES:
-            return offset // SLOT_MINUTES
-    return None
+def load_next_index():
+    if os.path.exists(STATE_PATH):
+        with open(STATE_PATH) as f:
+            return json.load(f).get("next_index", 0)
+    return 0
+
+
+def save_next_index(index):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(STATE_PATH, "w") as f:
+        json.dump({"next_index": index}, f, indent=2)
+        f.write("\n")
 
 
 def fetch_atom(url):
@@ -110,17 +111,8 @@ def main():
     order = flatten(feeds)
 
     override = os.environ.get("FEED_INDEX")
-    if override:
-        slot = int(override)
-    else:
-        slot = current_slot(datetime.now(IST))
-        if slot is None:
-            print("Not inside a refresh window; nothing to do.")
-            return
-
-    if slot >= len(order):
-        print(f"Slot {slot} out of range (only {len(order)} feeds); nothing to do.")
-        return
+    advance_state = not override
+    slot = int(override) % len(order) if override else load_next_index() % len(order)
 
     category_key, feed = order[slot]
     category_title = next(c["title"] for c in feeds["categories"] if c["key"] == category_key)
@@ -130,6 +122,9 @@ def main():
     items = parse_entries(xml_text)
     update_category_file(category_key, category_title, feed["name"], feed["url"], items)
     print(f"Saved {len(items)} items for '{feed['name']}' into data/{category_key}.json")
+
+    if advance_state:
+        save_next_index((slot + 1) % len(order))
 
 
 if __name__ == "__main__":

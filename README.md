@@ -10,16 +10,15 @@
 
 ## How it works
 
-- `latest_feeds.opml` - source list of reddit feeds, edit this to add/remove feeds
-- `scripts/opml_to_json.py` - converts the OPML into `feeds.json` (flat ordered list, 13 feeds)
-- `scripts/fetch_feed.py` - fetches exactly one feed per run (reddit rate-limits to ~1 req/min), picks which one from the current IST time, merges result into `data/reddittext.json` or `data/redditupdates.json`
-- `.github/workflows/refresh-reddit-feeds.yml` - cron, fires every 5 min during 04:00-05:00 and 16:00-17:00 IST (13 runs per window = all feeds), commits `data/` changes to `main`
+- `latest_feeds.opml` - source list of reddit feeds (kept for reference; edit `feeds.json` directly to add/remove feeds)
+- `feeds.json` - flat ordered list of feeds (13 total) that `scripts/fetch_feed.py` walks through
+- `scripts/fetch_feed.py` - fetches exactly one feed per run (reddit rate-limits to ~1 req/min), picking which one via a round-robin counter in `data/fetch_state.json` (not wall-clock time - GitHub's schedule trigger is best-effort and runs get delayed/dropped, so time-derived slots caused most runs to silently no-op). Merges the result into `data/reddittext.json` or `data/redditupdates.json`
+- `.github/workflows/refresh-reddit-feeds.yml` - cron, fires every 40 minutes all day (36 runs/day, ~2.7x through all 13 feeds), commits `data/` changes to `main`
 - `blogs.py` - single server for all three endpoints. The reddit routes read `data/*.json` from `raw.githubusercontent.com` (60s cache), not from the local checkout - so it doesn't need a redeploy every time the cron job commits.
 
 ## Run locally
 
 ```
-python3 scripts/opml_to_json.py          # regenerate feeds.json after editing the OPML
 FEED_INDEX=0 python3 scripts/fetch_feed.py # fetch a specific feed by index (0-12), for testing
 python3 blogs.py                          # serve on :8000 (set PORT to change)
 ```
