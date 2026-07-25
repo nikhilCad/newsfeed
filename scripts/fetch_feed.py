@@ -63,7 +63,27 @@ def fetch_atom(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=20) as resp:
         charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="replace")
+        content_type = resp.headers.get_content_type()
+        return resp.read().decode(charset, errors="replace"), content_type
+
+
+def describe_parse_error(xml_text, content_type, error):
+    line, col = error.position
+    lines = xml_text.splitlines() or [xml_text]
+    bad_line = lines[line - 1] if 0 < line <= len(lines) else xml_text
+    snippet = bad_line[max(0, col - 80):col + 80]
+    pointer = " " * min(col, 80) + "^"
+    return (
+        f"Failed to parse feed as XML at line {line}, column {col}: {error}\n"
+        f"Response Content-Type: {content_type}\n"
+        f"Context around error:\n{snippet}\n{pointer}\n"
+        f"First 200 chars of raw response: {xml_text[:200]!r}\n"
+        "This is usually not a bug in the feed itself -- Reddit occasionally serves "
+        "a rate-limit/interstitial HTML page instead of the RSS/Atom feed (shared-IP "
+        "runners like GitHub Actions hit this more than a home IP would). Check the "
+        "Content-Type and snippet above: if it looks like HTML rather than XML, this "
+        "run just needs to be retried later rather than the parser fixed."
+    )
 
 
 def parse_entries(xml_text):
@@ -118,8 +138,11 @@ def main():
     category_title = next(c["title"] for c in feeds["categories"] if c["key"] == category_key)
 
     print(f"Slot {slot}: fetching '{feed['name']}' ({feed['url']})")
-    xml_text = fetch_atom(feed["url"])
-    items = parse_entries(xml_text)
+    xml_text, content_type = fetch_atom(feed["url"])
+    try:
+        items = parse_entries(xml_text)
+    except ET.ParseError as e:
+        raise SystemExit(describe_parse_error(xml_text, content_type, e)) from e
     update_category_file(category_key, category_title, feed["name"], feed["url"], items)
     print(f"Saved {len(items)} items for '{feed['name']}' into data/{category_key}.json")
 
