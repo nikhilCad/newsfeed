@@ -36,6 +36,30 @@
           "published": "2026-07-24T20:21:04+00:00"
         }
       ]
+    },
+    "AskReddit: search results - nsfw:no": {
+      "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
+      "fetched_at": "2026-07-25T13:06:32.440716+00:00",
+      "items": [
+        {
+          "title": "If your username is your cause of death, how would you die?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v5c3cb/if_your_username_is_your_cause_of_death_how_would/",
+          "author": "/u/MinDexterity",
+          "published": "2026-07-24T13:54:47+00:00"
+        },
+        {
+          "title": "What are some of the scariest internet rabbit holes you've gone down?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v5v29t/what_are_some_of_the_scariest_internet_rabbit/",
+          "author": "/u/Working_Cap5680",
+          "published": "2026-07-25T02:02:02+00:00"
+        },
+        {
+          "title": "What’s a fitness lie everyone believes?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v5fqdu/whats_a_fitness_lie_everyone_believes/",
+          "author": "/u/modern_kebab",
+          "published": "2026-07-24T16:08:24+00:00"
+        }
+      ]
     }
   }
 }
