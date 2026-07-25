@@ -162,6 +162,30 @@
           "published": "2026-07-24T18:44:02+00:00"
         }
       ]
+    },
+    "top scoring links : LifeProTips": {
+      "source_url": "https://old.reddit.com/r/lifeprotips/top/.rss?limit=5",
+      "fetched_at": "2026-07-25T17:36:10.448961+00:00",
+      "items": [
+        {
+          "title": "LPT: Pay attention to who gets excited when good things happen to you.",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v5lxmd/lpt_pay_attention_to_who_gets_excited_when_good/",
+          "author": "/u/gamersecret2",
+          "published": "2026-07-24T19:48:33+00:00"
+        },
+        {
+          "title": "LPT: Close your basement door",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v5nt2e/lpt_close_your_basement_door/",
+          "author": "/u/rcmaehl",
+          "published": "2026-07-24T20:56:55+00:00"
+        },
+        {
+          "title": "LPT: Easily restore rusted or damaged bolt threads using a single cut section of a matching nut.",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v61pgc/lpt_easily_restore_rusted_or_damaged_bolt_threads/",
+          "author": "/u/FitnessChamp777",
+          "published": "2026-07-25T07:37:56+00:00"
+        }
+      ]
     }
   }
 }
