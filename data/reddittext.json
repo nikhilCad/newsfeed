@@ -228,6 +228,30 @@
           "published": "2026-07-25T11:00:19+00:00"
         }
       ]
+    },
+    "top scoring links : Android": {
+      "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
+      "fetched_at": "2026-07-26T07:46:38.939726+00:00",
+      "items": [
+        {
+          "title": "US government targets Cop City protester over phone operating system",
+          "link": "https://old.reddit.com/r/Android/comments/1v6614j/us_government_targets_cop_city_protester_over/",
+          "author": "/u/caliber",
+          "published": "2026-07-25T11:37:13+00:00"
+        },
+        {
+          "title": "The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan",
+          "link": "https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/",
+          "author": "/u/FragmentedChicken",
+          "published": "2026-07-26T02:12:56+00:00"
+        },
+        {
+          "title": "OnePlus N6x's battery capacity confirmed",
+          "link": "https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/",
+          "author": "/u/ximi-moment",
+          "published": "2026-07-25T18:00:54+00:00"
+        }
+      ]
     }
   }
 }
