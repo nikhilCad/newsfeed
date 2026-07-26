@@ -3,14 +3,8 @@
   "feeds": {
     "top scoring links : AskIndia": {
       "source_url": "https://old.reddit.com/r/AskIndia/top.rss?limit=5",
-      "fetched_at": "2026-07-26T14:57:47.675378+00:00",
+      "fetched_at": "2026-07-26T18:35:10.210932+00:00",
       "items": [
-        {
-          "title": "Can never understand how people are still having kids in current conditions",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v6tcrh/can_never_understand_how_people_are_still_having/",
-          "author": "/u/Strong-Quality7050",
-          "published": "2026-07-26T04:18:05+00:00"
-        },
         {
           "title": "Why is there no accountability of media in India for showing fake news?",
           "link": "https://old.reddit.com/r/AskIndia/comments/1v6vfqh/why_is_there_no_accountability_of_media_in_india/",
@@ -18,10 +12,10 @@
           "published": "2026-07-26T06:06:59+00:00"
         },
         {
-          "title": "Is FCRA bill good for India? Why BJP supporters want it? Asking as a genz.",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v6jrxr/is_fcra_bill_good_for_india_why_bjp_supporters/",
-          "author": "/u/Alternative-Corgi653",
-          "published": "2026-07-25T20:58:40+00:00"
+          "title": "Can never understand how people are still having kids in current conditions",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v6tcrh/can_never_understand_how_people_are_still_having/",
+          "author": "/u/Strong-Quality7050",
+          "published": "2026-07-26T04:18:05+00:00"
         },
         {
           "title": "Why have Indians on Reddit started acting as if they did not elect the PM?",
@@ -34,18 +28,24 @@
           "link": "https://old.reddit.com/r/AskIndia/comments/1v6x2yb/why_was_japan_able_to_end_its_caste_system_while/",
           "author": "/u/New-Tart-3811",
           "published": "2026-07-26T07:38:14+00:00"
+        },
+        {
+          "title": "Is FCRA bill good for India? Why BJP supporters want it? Asking as a genz.",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v6jrxr/is_fcra_bill_good_for_india_why_bjp_supporters/",
+          "author": "/u/Alternative-Corgi653",
+          "published": "2026-07-25T20:58:40+00:00"
         }
       ]
     },
     "AskReddit: search results - nsfw:no": {
       "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
-      "fetched_at": "2026-07-26T16:14:57.567057+00:00",
+      "fetched_at": "2026-07-26T18:44:42.641159+00:00",
       "items": [
         {
-          "title": "You get $10,000,000 but you can only actively surf the internet for 30 minutes a day for the rest of your life. Would you accept this, and if so, how would you manage your time?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v6zdnh/you_get_10000000_but_you_can_only_actively_surf/",
-          "author": "/u/Super_Designer7952",
-          "published": "2026-07-26T09:47:46+00:00"
+          "title": "If you could instantly swap the US President out for literally anyone else overnight, who would you pick?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/",
+          "author": "/u/333ghosts",
+          "published": "2026-07-25T23:35:15+00:00"
         },
         {
           "title": "What personality trait is secretly exhausting to be around?",
@@ -54,226 +54,10 @@
           "published": "2026-07-25T20:24:41+00:00"
         },
         {
-          "title": "If you could instantly swap the US President out for literally anyone else overnight, who would you pick?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/",
-          "author": "/u/333ghosts",
-          "published": "2026-07-25T23:35:15+00:00"
-        }
-      ]
-    },
-    "top scoring links : Frugal_Ind": {
-      "source_url": "https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5",
-      "fetched_at": "2026-07-25T14:13:48.448290+00:00",
-      "items": [
-        {
-          "title": "What's one task you'd happily pay someone ₹500 to do for you?",
-          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v5cm6u/whats_one_task_youd_happily_pay_someone_500_to_do/",
-          "author": "/u/Sea-Tourist8966",
-          "published": "2026-07-24T14:14:35+00:00"
-        },
-        {
-          "title": "Read it somewhere and have been following it since, \"you can afford something only if it can buy it twice\"",
-          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v5y7jf/read_it_somewhere_and_have_been_following_it/",
-          "author": "/u/Playful_Sample_8689",
-          "published": "2026-07-25T04:33:04+00:00"
-        },
-        {
-          "title": "Caresmith electric toothbrush: brush heads discontinued, handle still being sold !!!!!",
-          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v5zd4e/caresmith_electric_toothbrush_brush_heads/",
-          "author": "/u/LiveAdagio2698",
-          "published": "2026-07-25T05:32:49+00:00"
-        },
-        {
-          "title": "To print study materials in bulk. Like > 5k pages rn. In future more awaits. Was thinking of buying a printer but the cost benefit analysis...",
-          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v699h3/to_print_study_materials_in_bulk_like_5k_pages_rn/",
-          "author": "/u/Somewhat_a_believer",
-          "published": "2026-07-25T14:03:13+00:00"
-        },
-        {
-          "title": "Do you know that cooking on induction is usually cheaper than cooking on gas?",
-          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v6910y/do_you_know_that_cooking_on_induction_is_usually/",
-          "author": "/u/Somewhat_a_believer",
-          "published": "2026-07-25T13:53:37+00:00"
-        }
-      ]
-    },
-    "top scoring links : delhi": {
-      "source_url": "https://old.reddit.com/r/delhi/top.rss?limit=5",
-      "fetched_at": "2026-07-25T14:56:16.565562+00:00",
-      "items": [
-        {
-          "title": "Uttar Pradesh Police Raids CJP Protester Mohammad Junaid's Home! Junaid, from the CJP, has been arranging food, drinks, and water for the protesters since the very first day of the Jantar Mantar protest-demonstration. during the raid, Junaid's father and minor brother were arrested",
-          "link": "https://old.reddit.com/r/delhi/comments/1v5iwdh/uttar_pradesh_police_raids_cjp_protester_mohammad/",
-          "author": "/u/NotHereToLove",
-          "published": "2026-07-24T18:00:10+00:00"
-        },
-        {
-          "title": "Cockroach Janta Party withdraws its nationwide agitation with immediate effect [Megathread]",
-          "link": "https://old.reddit.com/r/delhi/comments/1v66zrl/cockroach_janta_party_withdraws_its_nationwide/",
-          "author": "/u/india-mods",
-          "published": "2026-07-25T12:23:46+00:00"
-        },
-        {
-          "title": "CJP PROTEST ISN'T OVER YET",
-          "link": "https://old.reddit.com/r/delhi/comments/1v63tts/cjp_protest_isnt_over_yet/",
-          "author": "/u/orang3muffin",
-          "published": "2026-07-25T09:38:45+00:00"
-        },
-        {
-          "title": "Dharmendra Pradhan has resigned",
-          "link": "https://old.reddit.com/r/delhi/comments/1v6325u/dharmendra_pradhan_has_resigned/",
-          "author": "/u/Plastic_Many393",
-          "published": "2026-07-25T08:56:25+00:00"
-        },
-        {
-          "title": "Pradhan Finally Resigned!!",
-          "link": "https://old.reddit.com/r/delhi/comments/1v62zuh/pradhan_finally_resigned/",
-          "author": "/u/allitriedweretaken",
-          "published": "2026-07-25T08:52:41+00:00"
-        }
-      ]
-    },
-    "top scoring links : FIRE_Ind": {
-      "source_url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
-      "fetched_at": "2026-07-25T16:13:25.445600+00:00",
-      "items": [
-        {
-          "title": "An update on the anonymized AMAs and podcast series!",
-          "link": "https://old.reddit.com/r/FIRE_Ind/comments/1v6c2nl/an_update_on_the_anonymized_amas_and_podcast/",
-          "author": "/u/snakysour",
-          "published": "2026-07-25T15:58:26+00:00"
-        }
-      ]
-    },
-    "top scoring links : hopeposting": {
-      "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
-      "fetched_at": "2026-07-25T16:48:35.596439+00:00",
-      "items": [
-        {
-          "title": "Given what I have now, I like my odds of winning.",
-          "link": "https://old.reddit.com/r/hopeposting/comments/1v5o8gl/given_what_i_have_now_i_like_my_odds_of_winning/",
-          "author": "/u/Unusual_Ant7476",
-          "published": "2026-07-24T21:12:32+00:00"
-        },
-        {
-          "title": "Speaking from experience of course",
-          "link": "https://old.reddit.com/r/hopeposting/comments/1v5k4uo/speaking_from_experience_of_course/",
-          "author": "/u/best_plutonium_box",
-          "published": "2026-07-24T18:44:02+00:00"
-        }
-      ]
-    },
-    "top scoring links : LifeProTips": {
-      "source_url": "https://old.reddit.com/r/lifeprotips/top/.rss?limit=5",
-      "fetched_at": "2026-07-25T17:36:10.448961+00:00",
-      "items": [
-        {
-          "title": "LPT: Pay attention to who gets excited when good things happen to you.",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v5lxmd/lpt_pay_attention_to_who_gets_excited_when_good/",
-          "author": "/u/gamersecret2",
-          "published": "2026-07-24T19:48:33+00:00"
-        },
-        {
-          "title": "LPT: Close your basement door",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v5nt2e/lpt_close_your_basement_door/",
-          "author": "/u/rcmaehl",
-          "published": "2026-07-24T20:56:55+00:00"
-        },
-        {
-          "title": "LPT: Easily restore rusted or damaged bolt threads using a single cut section of a matching nut.",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v61pgc/lpt_easily_restore_rusted_or_damaged_bolt_threads/",
-          "author": "/u/FitnessChamp777",
-          "published": "2026-07-25T07:37:56+00:00"
-        }
-      ]
-    },
-    "top scoring links : malelivingspace": {
-      "source_url": "https://old.reddit.com/r/malelivingspace/top.rss?limit=2",
-      "fetched_at": "2026-07-25T18:56:12.381776+00:00",
-      "items": [
-        {
-          "title": "31M, Single, 1Year",
-          "link": "https://old.reddit.com/r/malelivingspace/comments/1v63hf0/31m_single_1year/",
-          "author": "/u/Andytranfilms",
-          "published": "2026-07-25T09:19:42+00:00"
-        },
-        {
-          "title": "33M, Single 1.5 Years in my new place",
-          "link": "https://old.reddit.com/r/malelivingspace/comments/1v68s9n/33m_single_15_years_in_my_new_place/",
-          "author": "/u/DeloBoys",
-          "published": "2026-07-25T13:43:22+00:00"
-        }
-      ]
-    },
-    "top scoring links : ProgrammerHumor": {
-      "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
-      "fetched_at": "2026-07-25T23:36:53.132603+00:00",
-      "items": [
-        {
-          "title": "sheSaidOrMeOrTheRubberDuck",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v5wiha/shesaidormeortherubberduck/",
-          "author": "/u/vinishkapoor",
-          "published": "2026-07-25T03:09:55+00:00"
-        },
-        {
-          "title": "inheritedTechDebt",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v6ahq9/inheritedtechdebt/",
-          "author": "/u/vinishkapoor",
-          "published": "2026-07-25T14:53:38+00:00"
-        },
-        {
-          "title": "soundsLegit",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v65b84/soundslegit/",
-          "author": "/u/acchnAsquare",
-          "published": "2026-07-25T11:00:19+00:00"
-        }
-      ]
-    },
-    "top scoring links : Android": {
-      "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
-      "fetched_at": "2026-07-26T07:46:38.939726+00:00",
-      "items": [
-        {
-          "title": "US government targets Cop City protester over phone operating system",
-          "link": "https://old.reddit.com/r/Android/comments/1v6614j/us_government_targets_cop_city_protester_over/",
-          "author": "/u/caliber",
-          "published": "2026-07-25T11:37:13+00:00"
-        },
-        {
-          "title": "The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan",
-          "link": "https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/",
-          "author": "/u/FragmentedChicken",
-          "published": "2026-07-26T02:12:56+00:00"
-        },
-        {
-          "title": "OnePlus N6x's battery capacity confirmed",
-          "link": "https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/",
-          "author": "/u/ximi-moment",
-          "published": "2026-07-25T18:00:54+00:00"
-        }
-      ]
-    },
-    "AskReddit: search results - nsfw:no": {
-      "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
-      "fetched_at": "2026-07-26T17:04:31.541273+00:00",
-      "items": [
-        {
-          "title": "You get $10,000,000 but you can only actively surf the internet for 30 minutes a day for the rest of your life. Would you accept this, and if so, how would you manage your time?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v6zdnh/you_get_10000000_but_you_can_only_actively_surf/",
-          "author": "/u/Super_Designer7952",
-          "published": "2026-07-26T09:47:46+00:00"
-        },
-        {
-          "title": "What personality trait is secretly exhausting to be around?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ixs1/what_personality_trait_is_secretly_exhausting_to/",
-          "author": "/u/These_Masterpiece_60",
-          "published": "2026-07-25T20:24:41+00:00"
-        },
-        {
-          "title": "If you could instantly swap the US President out for literally anyone else overnight, who would you pick?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/",
-          "author": "/u/333ghosts",
-          "published": "2026-07-25T23:35:15+00:00"
+          "title": "What’s a sign outside of bed that hints someone’s excellent in bed?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v75s9z/whats_a_sign_outside_of_bed_that_hints_someones/",
+          "author": "/u/littlebabymira",
+          "published": "2026-07-26T14:42:49+00:00"
         }
       ]
     },
@@ -298,6 +82,155 @@
           "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v6siix/advice_needed_folks_best_use_of_packages/",
           "author": "/u/Character_Rain_7015",
           "published": "2026-07-26T03:36:26+00:00"
+        }
+      ]
+    },
+    "top scoring links : delhi": {
+      "source_url": "https://old.reddit.com/r/delhi/top.rss?limit=5",
+      "fetched_at": "2026-07-26T17:12:45.595848+00:00",
+      "items": [
+        {
+          "title": "Fighting propganda with propganda",
+          "link": "https://old.reddit.com/r/delhi/comments/1v6y04b/fighting_propganda_with_propganda/",
+          "author": "/u/RossTheLionTamer",
+          "published": "2026-07-26T08:30:29+00:00"
+        },
+        {
+          "title": "Some Satyam Pandat national president of a random RW outfit by the name of Hindu Veer Sena has beaten two young men for supporting CJP and participating in the protest. Video attached below",
+          "link": "https://old.reddit.com/r/delhi/comments/1v6er91/some_satyam_pandat_national_president_of_a_random/",
+          "author": "/u/JesusBhadana",
+          "published": "2026-07-25T17:42:45+00:00"
+        },
+        {
+          "title": "Rahul Gandhi has written a letter to Amit Shah demanding accountability on who ordered the barbaric assualt on students on 20th July",
+          "link": "https://old.reddit.com/r/delhi/comments/1v6w0gu/rahul_gandhi_has_written_a_letter_to_amit_shah/",
+          "author": "/u/JesusBhadana",
+          "published": "2026-07-26T06:38:51+00:00"
+        },
+        {
+          "title": "A crackdown on independent media will be coming soon",
+          "link": "https://old.reddit.com/r/delhi/comments/1v6rynw/a_crackdown_on_independent_media_will_be_coming/",
+          "author": "/u/RossTheLionTamer",
+          "published": "2026-07-26T03:08:52+00:00"
+        },
+        {
+          "title": "It cell has successfully planted the time bomb",
+          "link": "https://old.reddit.com/r/delhi/comments/1v77664/it_cell_has_successfully_planted_the_time_bomb/",
+          "author": "/u/pussykillerbro",
+          "published": "2026-07-26T15:35:24+00:00"
+        }
+      ]
+    },
+    "top scoring links : FIRE_Ind": {
+      "source_url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
+      "fetched_at": "2026-07-26T17:19:41.087043+00:00",
+      "items": []
+    },
+    "top scoring links : hopeposting": {
+      "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
+      "fetched_at": "2026-07-26T17:27:47.507581+00:00",
+      "items": [
+        {
+          "title": "I'd kill you to ❤️",
+          "link": "https://old.reddit.com/r/hopeposting/comments/1v733yq/id_kill_you_to/",
+          "author": "/u/best_plutonium_box",
+          "published": "2026-07-26T12:53:35+00:00"
+        },
+        {
+          "title": "this morning i opened two gifts and they were my eyes 🌹",
+          "link": "https://old.reddit.com/r/hopeposting/comments/1v6yao8/this_morning_i_opened_two_gifts_and_they_were_my/",
+          "author": "/u/kikytxt",
+          "published": "2026-07-26T08:47:16+00:00"
+        }
+      ]
+    },
+    "top scoring links : LifeProTips": {
+      "source_url": "https://old.reddit.com/r/lifeprotips/top/.rss?limit=5",
+      "fetched_at": "2026-07-26T17:36:40.962207+00:00",
+      "items": [
+        {
+          "title": "LPT: If you spend more time writing up your meeting notes than the meeting itself, stop taking notes during the call and record it instead. The real work happens in the first 10 minutes after the meeting ends, not during.",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v6mivd/lpt_if_you_spend_more_time_writing_up_your/",
+          "author": "/u/IntelligentHome4267",
+          "published": "2026-07-25T22:53:57+00:00"
+        },
+        {
+          "title": "LPT: Want your fruit to last longer in the fridge? When you get home from the store, soak them in a mixture of vinegar and water for five minutes then dry thoroughly. They will last much longer without getting moldy.",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v74l97/lpt_want_your_fruit_to_last_longer_in_the_fridge/",
+          "author": "/u/dump_cakes",
+          "published": "2026-07-26T13:56:16+00:00"
+        },
+        {
+          "title": "LPT: People pleaser? Edit the short cut for the word \"sorry\" in your keyboard to \"thank you\"",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v6l8sm/lpt_people_pleaser_edit_the_short_cut_for_the/",
+          "author": "/u/grass-whore",
+          "published": "2026-07-25T21:59:17+00:00"
+        }
+      ]
+    },
+    "top scoring links : malelivingspace": {
+      "source_url": "https://old.reddit.com/r/malelivingspace/top.rss?limit=2",
+      "fetched_at": "2026-07-26T17:42:55.523451+00:00",
+      "items": [
+        {
+          "title": "Peak single guy living",
+          "link": "https://old.reddit.com/r/malelivingspace/comments/1v6m3uj/peak_single_guy_living/",
+          "author": "/u/Geminyi",
+          "published": "2026-07-25T22:35:40+00:00"
+        },
+        {
+          "title": "27M Engineer After 2.5y in CNY",
+          "link": "https://old.reddit.com/r/malelivingspace/comments/1v72wop/27m_engineer_after_25y_in_cny/",
+          "author": "/u/JBarber99",
+          "published": "2026-07-26T12:44:39+00:00"
+        }
+      ]
+    },
+    "top scoring links : ProgrammerHumor": {
+      "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
+      "fetched_at": "2026-07-26T17:48:10.005078+00:00",
+      "items": [
+        {
+          "title": "ture",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v6spa0/ture/",
+          "author": "/u/Throwawyhelpadvice55",
+          "published": "2026-07-26T03:45:56+00:00"
+        },
+        {
+          "title": "myCoworkerIsAlsoMe",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v75z7x/mycoworkerisalsome/",
+          "author": "/u/vinishkapoor",
+          "published": "2026-07-26T14:50:10+00:00"
+        },
+        {
+          "title": "refactorCode",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/",
+          "author": "/u/Redox_RDX",
+          "published": "2026-07-26T16:37:17+00:00"
+        }
+      ]
+    },
+    "top scoring links : Android": {
+      "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
+      "fetched_at": "2026-07-26T17:57:02.452218+00:00",
+      "items": [
+        {
+          "title": "The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan",
+          "link": "https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/",
+          "author": "/u/FragmentedChicken",
+          "published": "2026-07-26T02:12:56+00:00"
+        },
+        {
+          "title": "[Android Authority] This app gives Android the automatic dark mode feature it desperately needs",
+          "link": "https://old.reddit.com/r/Android/comments/1v71jqs/android_authority_this_app_gives_android_the/",
+          "author": "/u/xLexip",
+          "published": "2026-07-26T11:41:22+00:00"
+        },
+        {
+          "title": "OnePlus N6x's battery capacity confirmed",
+          "link": "https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/",
+          "author": "/u/ximi-moment",
+          "published": "2026-07-25T18:00:54+00:00"
         }
       ]
     }

@@ -4,7 +4,7 @@
     <title>Engineering Blogs</title>
     <link>https://engineeringblogs.xyz/</link>
     <description>RSS feed generated from the Engineering Blogs aggregator page.</description>
-    <lastBuildDate>Sun, 26 Jul 2026 17:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:12:44 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>Atomic Object - It’s Not Up to You to Prove AI Makes You Faster</title>

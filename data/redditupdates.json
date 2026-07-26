@@ -3,13 +3,13 @@
   "feeds": {
     "top scoring links : developersIndia": {
       "source_url": "https://old.reddit.com/r/developersIndia/top.rss?t=day&limit=8",
-      "fetched_at": "2026-07-26T10:20:39.264348+00:00",
+      "fetched_at": "2026-07-26T18:03:51.209913+00:00",
       "items": [
         {
-          "title": "Has the maximum truly become the new minimum today?",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v66ugv/has_the_maximum_truly_become_the_new_minimum_today/",
-          "author": "/u/Zeiode",
-          "published": "2026-07-25T12:16:44+00:00"
+          "title": "Fired on my second day because of a personality assessment and I don’t know how to move on.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v72ooh/fired_on_my_second_day_because_of_a_personality/",
+          "author": "/u/Upset-Philosophy43",
+          "published": "2026-07-26T12:34:42+00:00"
         },
         {
           "title": "How do developers from India find opportunities in the Nordic/Scandinavian countries?",
@@ -24,10 +24,10 @@
           "published": "2026-07-25T18:43:45+00:00"
         },
         {
-          "title": "4 years off. 2022 grad. Is this the only way ahead?",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v68rn3/4_years_off_2022_grad_is_this_the_only_way_ahead/",
-          "author": "/u/MilkmanOrion",
-          "published": "2026-07-25T13:42:38+00:00"
+          "title": "I Built an Tiny RFID Systems That Unlocks My Mac OS",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v752by/i_built_an_tiny_rfid_systems_that_unlocks_my_mac/",
+          "author": "/u/Officialnmn",
+          "published": "2026-07-26T14:14:55+00:00"
         },
         {
           "title": "He is teaching AWS System Design only in whole public.",
@@ -36,35 +36,29 @@
           "published": "2026-07-25T18:24:34+00:00"
         },
         {
-          "title": "Trapped in a 3 LPA support role at Accenture Bangalore",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6djv5/trapped_in_a_3_lpa_support_role_at_accenture/",
-          "author": "/u/Agreeable_Ad322",
-          "published": "2026-07-25T16:56:50+00:00"
+          "title": "4 years in a WITCH company, barely getting interview calls. Need some career advice.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v6yg5y/4_years_in_a_witch_company_barely_getting/",
+          "author": "/u/CrypticCreator",
+          "published": "2026-07-26T08:56:05+00:00"
         },
         {
-          "title": "Getting rejections from WITCH companies, currently at foreign MNC. Any idea what I am missing? Any tips?",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v66da2/getting_rejections_from_witch_companies_currently/",
-          "author": "/u/BodybuilderUpbeat786",
-          "published": "2026-07-25T11:54:26+00:00"
+          "title": "Where to study system design from? Need Recommendation",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v6upaf/where_to_study_system_design_from_need/",
+          "author": "/u/Danish77_",
+          "published": "2026-07-26T05:28:04+00:00"
         },
         {
-          "title": "I will be Graduating in 2030 instead of 2028, Help, Feeling lost",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6b6bl/i_will_be_graduating_in_2030_instead_of_2028_help/",
-          "author": "/u/Mannan6774",
-          "published": "2026-07-25T15:22:41+00:00"
+          "title": "Suggest Budget Friendly Monitor for WFH setup- 27inch-2k/4k",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v6tbnp/suggest_budget_friendly_monitor_for_wfh_setup/",
+          "author": "/u/SyllabubFlat4075",
+          "published": "2026-07-26T04:16:30+00:00"
         }
       ]
     },
     "top scoring links : ExperiencedDevs": {
       "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
-      "fetched_at": "2026-07-26T12:17:50.836682+00:00",
+      "fetched_at": "2026-07-26T18:13:12.581155+00:00",
       "items": [
-        {
-          "title": "Vibecoders outside of IT playing political games - how to manage the situation?",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v6ekp4/vibecoders_outside_of_it_playing_political_games/",
-          "author": "/u/Taco_Enjoyer3000",
-          "published": "2026-07-25T17:35:57+00:00"
-        },
         {
           "title": "2yrs at current company. new project is 99% ai generated. i don't know how to handle",
           "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v6n7d7/2yrs_at_current_company_new_project_is_99_ai/",
@@ -81,7 +75,7 @@
     },
     "top scoring links : LeetcodeDesi": {
       "source_url": "https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&limit=5",
-      "fetched_at": "2026-07-26T14:44:41.511243+00:00",
+      "fetched_at": "2026-07-26T18:23:12.154903+00:00",
       "items": [
         {
           "title": "When will this dsa stuff stop man !",
@@ -90,16 +84,16 @@
           "published": "2026-07-26T11:02:59+00:00"
         },
         {
+          "title": "Looking for Striver A2Z DSA Course",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/",
+          "author": "/u/Minute-Appearance397",
+          "published": "2026-07-26T16:26:10+00:00"
+        },
+        {
           "title": "DSA Revision",
           "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v6t0ix/dsa_revision/",
           "author": "/u/tintin_tech",
           "published": "2026-07-26T04:01:28+00:00"
-        },
-        {
-          "title": "Flipkart grid 8.0 round 3",
-          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v6bw7p/flipkart_grid_80_round_3/",
-          "author": "/u/Shreya_a_",
-          "published": "2026-07-25T15:51:27+00:00"
         },
         {
           "title": "[Shitpost] Outreach matters 💔",
@@ -108,10 +102,10 @@
           "published": "2026-07-26T06:43:31+00:00"
         },
         {
-          "title": "What are the resources to prepare for core cs MCQs part of OA?",
-          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v6b98m/what_are_the_resources_to_prepare_for_core_cs/",
-          "author": "/u/Altruistic_Staff7015",
-          "published": "2026-07-25T15:26:01+00:00"
+          "title": "Is it worth doing one \"OA exposure\" problem every day while focusing on one DSA topic?",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v75l7i/is_it_worth_doing_one_oa_exposure_problem_every/",
+          "author": "/u/anotheruniverse_7",
+          "published": "2026-07-26T14:35:14+00:00"
         }
       ]
     }
