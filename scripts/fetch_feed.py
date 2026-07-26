@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 """Fetch exactly one Reddit feed and merge it into data/<category>.json.
 
-Reddit rate-limits to ~1 request/minute, so .github/workflows/refresh-reddit-feeds.yml
-runs this script every 40 minutes, and each run fetches just the next feed in
-feeds.json (round-robin). Which feed that is comes from data/fetch_state.json
-(the index of the last feed fetched), not from wall-clock time -- GitHub's
-schedule trigger is best-effort and runs get delayed or dropped, so deriving
-the slot from "what time is it" caused most runs to either fetch the wrong
-feed or silently no-op. Advancing a persisted counter instead means every run
-that actually fires does useful work, in order, regardless of when it lands.
+Reddit rate-limits to ~1 request/minute, so scripts/run_local.py (a long-running
+local loop -- see that file) fetches just the next feed in feeds.json
+(round-robin) every 5-10 minutes. Which feed that is comes from
+data/fetch_state.json (the index of the last feed fetched), not from
+wall-clock time.
 
 Pass FEED_INDEX to fetch a specific feed by index for manual testing --
 this does not touch or advance the persisted state.
@@ -126,13 +123,21 @@ def update_category_file(category_key, category_title, feed_name, feed_url, item
         f.write("\n")
 
 
-def main():
+def fetch_one_feed(slot=None):
+    """Fetch and merge exactly one feed (round-robin unless slot is given).
+
+    Returns (category_key, feed_name, item_count). Raises on fetch/parse
+    failure -- callers decide whether that's fatal (CLI) or just logged and
+    retried next cycle (the long-running loop in run_local.py).
+    """
     feeds = load_feeds()
     order = flatten(feeds)
 
-    override = os.environ.get("FEED_INDEX")
-    advance_state = not override
-    slot = int(override) % len(order) if override else load_next_index() % len(order)
+    advance_state = slot is None
+    if slot is None:
+        slot = load_next_index() % len(order)
+    else:
+        slot = slot % len(order)
 
     category_key, feed = order[slot]
     category_title = next(c["title"] for c in feeds["categories"] if c["key"] == category_key)
@@ -148,6 +153,14 @@ def main():
 
     if advance_state:
         save_next_index((slot + 1) % len(order))
+
+    return category_key, feed["name"], len(items)
+
+
+def main():
+    override = os.environ.get("FEED_INDEX")
+    slot = int(override) if override else None
+    fetch_one_feed(slot=slot)
 
 
 if __name__ == "__main__":

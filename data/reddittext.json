@@ -252,6 +252,54 @@
           "published": "2026-07-25T18:00:54+00:00"
         }
       ]
+    },
+    "AskReddit: search results - nsfw:no": {
+      "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
+      "fetched_at": "2026-07-26T17:04:31.541273+00:00",
+      "items": [
+        {
+          "title": "You get $10,000,000 but you can only actively surf the internet for 30 minutes a day for the rest of your life. Would you accept this, and if so, how would you manage your time?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v6zdnh/you_get_10000000_but_you_can_only_actively_surf/",
+          "author": "/u/Super_Designer7952",
+          "published": "2026-07-26T09:47:46+00:00"
+        },
+        {
+          "title": "What personality trait is secretly exhausting to be around?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ixs1/what_personality_trait_is_secretly_exhausting_to/",
+          "author": "/u/These_Masterpiece_60",
+          "published": "2026-07-25T20:24:41+00:00"
+        },
+        {
+          "title": "If you could instantly swap the US President out for literally anyone else overnight, who would you pick?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/",
+          "author": "/u/333ghosts",
+          "published": "2026-07-25T23:35:15+00:00"
+        }
+      ]
+    },
+    "top scoring links : Frugal_Ind": {
+      "source_url": "https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5",
+      "fetched_at": "2026-07-26T17:06:24.643907+00:00",
+      "items": [
+        {
+          "title": "As a frugal man, how do you take care of your hair?",
+          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v6w0ui/as_a_frugal_man_how_do_you_take_care_of_your_hair/",
+          "author": "/u/arthur_kane",
+          "published": "2026-07-26T06:39:28+00:00"
+        },
+        {
+          "title": "The quality and color of Jockey T-shirts.",
+          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v73cou/the_quality_and_color_of_jockey_tshirts/",
+          "author": "/u/Fluid_Trash_6255",
+          "published": "2026-07-26T13:03:52+00:00"
+        },
+        {
+          "title": "Advice needed folks - best use of packages",
+          "link": "https://old.reddit.com/r/Frugal_Ind/comments/1v6siix/advice_needed_folks_best_use_of_packages/",
+          "author": "/u/Character_Rain_7015",
+          "published": "2026-07-26T03:36:26+00:00"
+        }
+      ]
     }
   }
 }
