@@ -4,8 +4,16 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:32:47 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:59:30 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
+    </item>
     <item>
       <title>top scoring links : hopeposting - SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️</title>
       <link>https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</link>
@@ -13,6 +21,14 @@
       <pubDate>Mon, 27 Jul 2026 10:55:10 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
+    </item>
+    <item>
+      <title>top scoring links : LifeProTips - LPT: unsolicited advice comes across as criticism, UNLESS there&apos;s a power disparity</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7wscj/lpt_unsolicited_advice_comes_across_as_criticism/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7wscj/lpt_unsolicited_advice_comes_across_as_criticism/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:44:29 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -39,12 +55,36 @@
       <category>top scoring links : FIRE_Ind</category>
     </item>
     <item>
+      <title>top scoring links : LifeProTips - LPT Check your thermostat batteries!</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7ps91/lpt_check_your_thermostat_batteries/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7ps91/lpt_check_your_thermostat_batteries/</guid>
+      <pubDate>Mon, 27 Jul 2026 04:13:19 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
       <title>top scoring links : delhi - Bjp govt started crackdown</title>
       <link>https://old.reddit.com/r/delhi/comments/1v7outi/bjp_govt_started_crackdown/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v7outi/bjp_govt_started_crackdown/</guid>
       <pubDate>Mon, 27 Jul 2026 03:27:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : LifeProTips - LPT: Android users who use Facebook, delete the official app and install a chrome shortcut in its place to save 5-8gb on your device</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7hf89/lpt_android_users_who_use_facebook_delete_the/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7hf89/lpt_android_users_who_use_facebook_delete_the/</guid>
+      <pubDate>Sun, 26 Jul 2026 21:56:21 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
+      <title>top scoring links : LifeProTips - LPT: Duct tape over kid toy speaker.</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7dg7y/lpt_duct_tape_over_kid_toy_speaker/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7dg7y/lpt_duct_tape_over_kid_toy_speaker/</guid>
+      <pubDate>Sun, 26 Jul 2026 19:25:27 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : delhi - Junaid, who was distributing food to students at Jantar Mantar, was picked up by Delhi Police on the night of July 24 and taken to Uttarakhand. He was kept blindfolded the entire night. The next morning, an officer asked Junaid where the funding comes from?</title>
@@ -93,14 +133,6 @@
       <pubDate>Sun, 26 Jul 2026 14:42:49 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : LifeProTips - LPT: Want your fruit to last longer in the fridge? When you get home from the store, soak them in a mixture of vinegar and water for five minutes then dry thoroughly. They will last much longer without getting moldy.</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v74l97/lpt_want_your_fruit_to_last_longer_in_the_fridge/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v74l97/lpt_want_your_fruit_to_last_longer_in_the_fridge/</guid>
-      <pubDate>Sun, 26 Jul 2026 13:56:16 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - The quality and color of Jockey T-shirts.</title>
@@ -199,28 +231,12 @@
       <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
-      <title>top scoring links : LifeProTips - LPT: If you spend more time writing up your meeting notes than the meeting itself, stop taking notes during the call and record it instead. The real work happens in the first 10 minutes after the meeting ends, not during.</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v6mivd/lpt_if_you_spend_more_time_writing_up_your/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v6mivd/lpt_if_you_spend_more_time_writing_up_your/</guid>
-      <pubDate>Sat, 25 Jul 2026 22:53:57 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
-    </item>
-    <item>
       <title>top scoring links : malelivingspace - Peak single guy living</title>
       <link>https://old.reddit.com/r/malelivingspace/comments/1v6m3uj/peak_single_guy_living/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v6m3uj/peak_single_guy_living/</guid>
       <pubDate>Sat, 25 Jul 2026 22:35:40 +0000</pubDate>
       <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
       <category>top scoring links : malelivingspace</category>
-    </item>
-    <item>
-      <title>top scoring links : LifeProTips - LPT: People pleaser? Edit the short cut for the word &quot;sorry&quot; in your keyboard to &quot;thank you&quot;</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v6l8sm/lpt_people_pleaser_edit_the_short_cut_for_the/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v6l8sm/lpt_people_pleaser_edit_the_short_cut_for_the/</guid>
-      <pubDate>Sat, 25 Jul 2026 21:59:17 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Is FCRA bill good for India? Why BJP supporters want it? Asking as a genz.</title>
