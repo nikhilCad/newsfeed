@@ -219,19 +219,25 @@
     },
     "top scoring links : Android": {
       "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
-      "fetched_at": "2026-07-27T12:41:46.920358+00:00",
+      "fetched_at": "2026-07-27T18:18:16.347530+00:00",
       "items": [
+        {
+          "title": "Storage upgrades cost too much, and we need microSD cards back",
+          "link": "https://old.reddit.com/r/Android/comments/1v81ek8/storage_upgrades_cost_too_much_and_we_need/",
+          "author": "/u/No_March_164",
+          "published": "2026-07-27T14:05:59+00:00"
+        },
+        {
+          "title": "One UI 9 will require a factory reset after 13 failed unlock attempts",
+          "link": "https://old.reddit.com/r/Android/comments/1v82hpl/one_ui_9_will_require_a_factory_reset_after_13/",
+          "author": "/u/FragmentedChicken",
+          "published": "2026-07-27T14:46:32+00:00"
+        },
         {
           "title": "Vivo X300 E is official with Zeiss-backed triple-rear cameras, Snapdragon 8 Gen 5 SoC",
           "link": "https://old.reddit.com/r/Android/comments/1v7rlpt/vivo_x300_e_is_official_with_zeissbacked/",
           "author": "/u/ControlCAD",
           "published": "2026-07-27T05:48:40+00:00"
-        },
-        {
-          "title": "Sony Xperia 1 VIII vs. Oppo Find X9 Ultra: The 4K 60fps Video Showdown - LL Techview",
-          "link": "https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/",
-          "author": "/u/ControlCAD",
-          "published": "2026-07-26T19:49:54+00:00"
         }
       ]
     }

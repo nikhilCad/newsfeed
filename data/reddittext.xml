@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:18:16 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -13,6 +13,22 @@
       <pubDate>Mon, 27 Jul 2026 16:25:09 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
+    </item>
+    <item>
+      <title>top scoring links : Android - One UI 9 will require a factory reset after 13 failed unlock attempts</title>
+      <link>https://old.reddit.com/r/Android/comments/1v82hpl/one_ui_9_will_require_a_factory_reset_after_13/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v82hpl/one_ui_9_will_require_a_factory_reset_after_13/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:46:32 +0000</pubDate>
+      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
+      <category>top scoring links : Android</category>
+    </item>
+    <item>
+      <title>top scoring links : Android - Storage upgrades cost too much, and we need microSD cards back</title>
+      <link>https://old.reddit.com/r/Android/comments/1v81ek8/storage_upgrades_cost_too_much_and_we_need/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v81ek8/storage_upgrades_cost_too_much_and_we_need/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:05:59 +0000</pubDate>
+      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
+      <category>top scoring links : Android</category>
     </item>
     <item>
       <title>top scoring links : ProgrammerHumor - queryOfDoom</title>
@@ -157,14 +173,6 @@
       <pubDate>Sun, 26 Jul 2026 21:33:43 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : Android - Sony Xperia 1 VIII vs. Oppo Find X9 Ultra: The 4K 60fps Video Showdown - LL Techview</title>
-      <link>https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</guid>
-      <pubDate>Sun, 26 Jul 2026 19:49:54 +0000</pubDate>
-      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
-      <category>top scoring links : Android</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Why are people against reservation not asking for a caste survey?</title>
