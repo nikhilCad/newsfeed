@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:35:32 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
@@ -69,6 +69,14 @@
       <pubDate>Mon, 27 Jul 2026 03:27:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - 28, lost everything and am back with my parents</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v7nx5b/28_lost_everything_and_am_back_with_my_parents/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v7nx5b/28_lost_everything_and_am_back_with_my_parents/</guid>
+      <pubDate>Mon, 27 Jul 2026 02:42:10 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : LifeProTips - LPT: Android users who use Facebook, delete the official app and install a chrome shortcut in its place to save 5-8gb on your device</title>
@@ -229,14 +237,6 @@
       <pubDate>Sat, 25 Jul 2026 23:35:15 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : malelivingspace - Peak single guy living</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v6m3uj/peak_single_guy_living/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v6m3uj/peak_single_guy_living/</guid>
-      <pubDate>Sat, 25 Jul 2026 22:35:40 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Is FCRA bill good for India? Why BJP supporters want it? Asking as a genz.</title>
