@@ -57,7 +57,7 @@
     },
     "top scoring links : ExperiencedDevs": {
       "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
-      "fetched_at": "2026-07-27T12:47:39.562897+00:00",
+      "fetched_at": "2026-07-27T18:24:28.483151+00:00",
       "items": [
         {
           "title": "What’s a single piece of advice you’d give to newly promoted senior SWEs?",
@@ -72,10 +72,10 @@
           "published": "2026-07-26T19:09:12+00:00"
         },
         {
-          "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/",
-          "author": "/u/AutoModerator",
-          "published": "2026-07-27T00:00:22+00:00"
+          "title": "Making the swap to embedded / system level?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/",
+          "author": "/u/shinhyouryuu",
+          "published": "2026-07-27T11:19:36+00:00"
         }
       ]
     },

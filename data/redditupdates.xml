@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:24:28 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - I resigned for my campus offer. It was withdrawn 15 days later.</title>
@@ -21,6 +21,14 @@
       <pubDate>Mon, 27 Jul 2026 11:27:10 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : ExperiencedDevs - Making the swap to embedded / system level?</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/</guid>
+      <pubDate>Mon, 27 Jul 2026 11:19:36 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - Working on contract for 8 years under 3.6 LPA, confused as to what to do next</title>
@@ -67,14 +75,6 @@
       <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</guid>
       <pubDate>Mon, 27 Jul 2026 02:28:29 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:22 +0000</pubDate>
       <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
       <category>top scoring links : ExperiencedDevs</category>
     </item>
