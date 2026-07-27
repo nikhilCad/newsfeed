@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:11:46 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -53,6 +53,14 @@
       <pubDate>Mon, 27 Jul 2026 10:00:22 +0000</pubDate>
       <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
       <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - 28 M I have spent almost a decade at sea now</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v7uk4a/28_m_i_have_spent_almost_a_decade_at_sea_now/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v7uk4a/28_m_i_have_spent_almost_a_decade_at_sea_now/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:38:59 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -229,14 +237,6 @@
       <pubDate>Sun, 26 Jul 2026 13:03:52 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>top scoring links : malelivingspace - 27M Engineer After 2.5y in CNY</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v72wop/27m_engineer_after_25y_in_cny/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v72wop/27m_engineer_after_25y_in_cny/</guid>
-      <pubDate>Sun, 26 Jul 2026 12:44:39 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
     </item>
   </channel>
 </rss>
