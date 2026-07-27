@@ -3,25 +3,13 @@
   "feeds": {
     "top scoring links : developersIndia": {
       "source_url": "https://old.reddit.com/r/developersIndia/top.rss?t=day&limit=8",
-      "fetched_at": "2026-07-26T18:03:51.209913+00:00",
+      "fetched_at": "2026-07-27T12:44:04.902683+00:00",
       "items": [
         {
-          "title": "Fired on my second day because of a personality assessment and I don’t know how to move on.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v72ooh/fired_on_my_second_day_because_of_a_personality/",
-          "author": "/u/Upset-Philosophy43",
-          "published": "2026-07-26T12:34:42+00:00"
-        },
-        {
-          "title": "How do developers from India find opportunities in the Nordic/Scandinavian countries?",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6x7cw/how_do_developers_from_india_find_opportunities/",
-          "author": "/u/Ecstatic_Jicama_1482",
-          "published": "2026-07-26T07:45:32+00:00"
-        },
-        {
-          "title": "I am in a total mess now. Nowadays there are no careers, there are only jobs.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6gcvd/i_am_in_a_total_mess_now_nowadays_there_are_no/",
-          "author": "/u/PayableOnDeath95",
-          "published": "2026-07-25T18:43:45+00:00"
+          "title": "Rejected after a technical round because the interviewer insisted Text-to-SQL is just if-else mappings",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v79bf5/rejected_after_a_technical_round_because_the/",
+          "author": "/u/MarketingLazy6660",
+          "published": "2026-07-26T16:54:09+00:00"
         },
         {
           "title": "I Built an Tiny RFID Systems That Unlocks My Mac OS",
@@ -30,28 +18,40 @@
           "published": "2026-07-26T14:14:55+00:00"
         },
         {
-          "title": "He is teaching AWS System Design only in whole public.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6fv6s/he_is_teaching_aws_system_design_only_in_whole/",
-          "author": "/u/BaseballEarly9602",
-          "published": "2026-07-25T18:24:34+00:00"
+          "title": "One regret You experienced Devs have that haunts you to date.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7bqov/one_regret_you_experienced_devs_have_that_haunts/",
+          "author": "/u/Individual-Oil-7642",
+          "published": "2026-07-26T18:22:56+00:00"
         },
         {
-          "title": "4 years in a WITCH company, barely getting interview calls. Need some career advice.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6yg5y/4_years_in_a_witch_company_barely_getting/",
-          "author": "/u/CrypticCreator",
-          "published": "2026-07-26T08:56:05+00:00"
+          "title": "AI didn't eliminate engineering it shifted the bottleneck.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7cf7j/ai_didnt_eliminate_engineering_it_shifted_the/",
+          "author": "/u/i_am_Axzel",
+          "published": "2026-07-26T18:47:50+00:00"
         },
         {
-          "title": "Where to study system design from? Need Recommendation",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6upaf/where_to_study_system_design_from_need/",
-          "author": "/u/Danish77_",
-          "published": "2026-07-26T05:28:04+00:00"
+          "title": "Working on contract for 8 years under 3.6 LPA, confused as to what to do next",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7tg4a/working_on_contract_for_8_years_under_36_lpa/",
+          "author": "/u/Odd_Tax4093",
+          "published": "2026-07-27T07:32:36+00:00"
         },
         {
-          "title": "Suggest Budget Friendly Monitor for WFH setup- 27inch-2k/4k",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v6tbnp/suggest_budget_friendly_monitor_for_wfh_setup/",
-          "author": "/u/SyllabubFlat4075",
-          "published": "2026-07-26T04:16:30+00:00"
+          "title": "Need advice: Leaving an 11 LPA startup job for a 21 LPA early-stage HFT startup?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7k1be/need_advice_leaving_an_11_lpa_startup_job_for_a/",
+          "author": "/u/Efficient-Sun3849",
+          "published": "2026-07-26T23:45:28+00:00"
+        },
+        {
+          "title": "Just joined as a Backend SDE-1. Feeling overwhelmed with AI, and production systems. Need advice.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7sqgt/just_joined_as_a_backend_sde1_feeling_overwhelmed/",
+          "author": "/u/Awkward_Enigma1303",
+          "published": "2026-07-27T06:52:33+00:00"
+        },
+        {
+          "title": "Could someone tell me about Walmart Global Tech India? Their work culture etc",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7qinc/could_someone_tell_me_about_walmart_global_tech/",
+          "author": "/u/Living_Will_967",
+          "published": "2026-07-27T04:51:03+00:00"
         }
       ]
     },
