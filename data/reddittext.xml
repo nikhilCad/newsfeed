@@ -4,8 +4,16 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:06:08 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : hopeposting - Believe in yourself</title>
+      <link>https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</guid>
+      <pubDate>Mon, 27 Jul 2026 16:25:09 +0000</pubDate>
+      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
+      <category>top scoring links : hopeposting</category>
+    </item>
     <item>
       <title>top scoring links : delhi - Are IT Cells overworking ?</title>
       <link>https://old.reddit.com/r/delhi/comments/1v7xxey/are_it_cells_overworking/</link>
@@ -237,14 +245,6 @@
       <pubDate>Sun, 26 Jul 2026 13:03:52 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>top scoring links : hopeposting - I&apos;d kill you to ❤️</title>
-      <link>https://old.reddit.com/r/hopeposting/comments/1v733yq/id_kill_you_to/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v733yq/id_kill_you_to/</guid>
-      <pubDate>Sun, 26 Jul 2026 12:53:35 +0000</pubDate>
-      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
-      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : malelivingspace - 27M Engineer After 2.5y in CNY</title>

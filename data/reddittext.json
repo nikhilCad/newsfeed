@@ -135,19 +135,19 @@
     },
     "top scoring links : hopeposting": {
       "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
-      "fetched_at": "2026-07-27T12:30:25.616920+00:00",
+      "fetched_at": "2026-07-27T18:06:08.166339+00:00",
       "items": [
-        {
-          "title": "I'd kill you to ❤️",
-          "link": "https://old.reddit.com/r/hopeposting/comments/1v733yq/id_kill_you_to/",
-          "author": "/u/best_plutonium_box",
-          "published": "2026-07-26T12:53:35+00:00"
-        },
         {
           "title": "SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️",
           "link": "https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/",
           "author": "/u/kaFello",
           "published": "2026-07-27T10:55:10+00:00"
+        },
+        {
+          "title": "Believe in yourself",
+          "link": "https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/",
+          "author": "/u/KINGSMAN_22_07_05",
+          "published": "2026-07-27T16:25:09+00:00"
         }
       ]
     },
