@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:41:46 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
@@ -55,6 +55,14 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
+      <title>top scoring links : Android - Vivo X300 E is official with Zeiss-backed triple-rear cameras, Snapdragon 8 Gen 5 SoC</title>
+      <link>https://old.reddit.com/r/Android/comments/1v7rlpt/vivo_x300_e_is_official_with_zeissbacked/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v7rlpt/vivo_x300_e_is_official_with_zeissbacked/</guid>
+      <pubDate>Mon, 27 Jul 2026 05:48:40 +0000</pubDate>
+      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
+      <category>top scoring links : Android</category>
+    </item>
+    <item>
       <title>top scoring links : FIRE_Ind - Boo!?</title>
       <link>https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</guid>
@@ -101,6 +109,14 @@
       <pubDate>Sun, 26 Jul 2026 21:56:21 +0000</pubDate>
       <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
       <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
+      <title>top scoring links : Android - Sony Xperia 1 VIII vs. Oppo Find X9 Ultra: The 4K 60fps Video Showdown - LL Techview</title>
+      <link>https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</guid>
+      <pubDate>Sun, 26 Jul 2026 19:49:54 +0000</pubDate>
+      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
+      <category>top scoring links : Android</category>
     </item>
     <item>
       <title>top scoring links : LifeProTips - LPT: Duct tape over kid toy speaker.</title>
@@ -183,14 +199,6 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
-      <title>top scoring links : Android - [Android Authority] This app gives Android the automatic dark mode feature it desperately needs</title>
-      <link>https://old.reddit.com/r/Android/comments/1v71jqs/android_authority_this_app_gives_android_the/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v71jqs/android_authority_this_app_gives_android_the/</guid>
-      <pubDate>Sun, 26 Jul 2026 11:41:22 +0000</pubDate>
-      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
-      <category>top scoring links : Android</category>
-    </item>
-    <item>
       <title>top scoring links : AskIndia - Why was Japan able to end it&apos;s caste system while India is unable to end it?</title>
       <link>https://old.reddit.com/r/AskIndia/comments/1v6x2yb/why_was_japan_able_to_end_its_caste_system_while/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v6x2yb/why_was_japan_able_to_end_its_caste_system_while/</guid>
@@ -223,14 +231,6 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
-      <title>top scoring links : Android - The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan</title>
-      <link>https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/</guid>
-      <pubDate>Sun, 26 Jul 2026 02:12:56 +0000</pubDate>
-      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
-      <category>top scoring links : Android</category>
-    </item>
-    <item>
       <title>AskReddit: search results - nsfw:no - If you could instantly swap the US President out for literally anyone else overnight, who would you pick?</title>
       <link>https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</guid>
@@ -253,14 +253,6 @@
       <pubDate>Sat, 25 Jul 2026 20:24:41 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : Android - OnePlus N6x&apos;s battery capacity confirmed</title>
-      <link>https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/</guid>
-      <pubDate>Sat, 25 Jul 2026 18:00:54 +0000</pubDate>
-      <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
-      <category>top scoring links : Android</category>
     </item>
   </channel>
 </rss>

@@ -231,25 +231,19 @@
     },
     "top scoring links : Android": {
       "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
-      "fetched_at": "2026-07-26T17:57:02.452218+00:00",
+      "fetched_at": "2026-07-27T12:41:46.920358+00:00",
       "items": [
         {
-          "title": "The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan",
-          "link": "https://old.reddit.com/r/Android/comments/1v6qtxz/the_ultimate_battery_life_review_78_phones_one/",
-          "author": "/u/FragmentedChicken",
-          "published": "2026-07-26T02:12:56+00:00"
+          "title": "Vivo X300 E is official with Zeiss-backed triple-rear cameras, Snapdragon 8 Gen 5 SoC",
+          "link": "https://old.reddit.com/r/Android/comments/1v7rlpt/vivo_x300_e_is_official_with_zeissbacked/",
+          "author": "/u/ControlCAD",
+          "published": "2026-07-27T05:48:40+00:00"
         },
         {
-          "title": "[Android Authority] This app gives Android the automatic dark mode feature it desperately needs",
-          "link": "https://old.reddit.com/r/Android/comments/1v71jqs/android_authority_this_app_gives_android_the/",
-          "author": "/u/xLexip",
-          "published": "2026-07-26T11:41:22+00:00"
-        },
-        {
-          "title": "OnePlus N6x's battery capacity confirmed",
-          "link": "https://old.reddit.com/r/Android/comments/1v6f8ij/oneplus_n6xs_battery_capacity_confirmed/",
-          "author": "/u/ximi-moment",
-          "published": "2026-07-25T18:00:54+00:00"
+          "title": "Sony Xperia 1 VIII vs. Oppo Find X9 Ultra: The 4K 60fps Video Showdown - LL Techview",
+          "link": "https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/",
+          "author": "/u/ControlCAD",
+          "published": "2026-07-26T19:49:54+00:00"
         }
       ]
     }
