@@ -4,8 +4,16 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:30:25 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : hopeposting - SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️</title>
+      <link>https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:55:10 +0000</pubDate>
+      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
+      <category>top scoring links : hopeposting</category>
+    </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
       <link>https://old.reddit.com/r/delhi/comments/1v7uh6e/bjp_propaganda_will_run_at_full_speed_against_cjp/</link>
@@ -133,14 +141,6 @@
       <pubDate>Sun, 26 Jul 2026 11:41:22 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : hopeposting - this morning i opened two gifts and they were my eyes 🌹</title>
-      <link>https://old.reddit.com/r/hopeposting/comments/1v6yao8/this_morning_i_opened_two_gifts_and_they_were_my/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v6yao8/this_morning_i_opened_two_gifts_and_they_were_my/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:47:16 +0000</pubDate>
-      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
-      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Why was Japan able to end it&apos;s caste system while India is unable to end it?</title>
