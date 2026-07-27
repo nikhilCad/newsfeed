@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Sun, 26 Jul 2026 18:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 05:10:34 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : ProgrammerHumor - refactorCode</title>
@@ -21,6 +21,14 @@
       <pubDate>Sun, 26 Jul 2026 15:35:24 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : Frugal_Ind - Reused Blinkit bag as giftwrap for a book</title>
+      <link>https://old.reddit.com/r/Frugal_Ind/comments/1v767a6/reused_blinkit_bag_as_giftwrap_for_a_book/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v767a6/reused_blinkit_bag_as_giftwrap_for_a_book/</guid>
+      <pubDate>Sun, 26 Jul 2026 14:58:56 +0000</pubDate>
+      <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
+      <category>top scoring links : Frugal_Ind</category>
     </item>
     <item>
       <title>top scoring links : ProgrammerHumor - myCoworkerIsAlsoMe</title>
@@ -149,14 +157,6 @@
       <pubDate>Sun, 26 Jul 2026 03:45:56 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
-      <title>top scoring links : Frugal_Ind - Advice needed folks - best use of packages</title>
-      <link>https://old.reddit.com/r/Frugal_Ind/comments/1v6siix/advice_needed_folks_best_use_of_packages/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v6siix/advice_needed_folks_best_use_of_packages/</guid>
-      <pubDate>Sun, 26 Jul 2026 03:36:26 +0000</pubDate>
-      <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
-      <category>top scoring links : Frugal_Ind</category>
     </item>
     <item>
       <title>top scoring links : delhi - A crackdown on independent media will be coming soon</title>
