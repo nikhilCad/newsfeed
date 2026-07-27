@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:54:22 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
@@ -37,6 +37,14 @@
       <pubDate>Mon, 27 Jul 2026 10:08:47 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - Which India-based subreddit do you dislike the most?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7w160/which_indiabased_subreddit_do_you_dislike_the_most/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7w160/which_indiabased_subreddit_do_you_dislike_the_most/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:03:41 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -127,6 +135,30 @@
       <category>top scoring links : LifeProTips</category>
     </item>
     <item>
+      <title>top scoring links : AskIndia - Why are people against reservation not asking for a caste survey?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</guid>
+      <pubDate>Sun, 26 Jul 2026 19:24:03 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - Do you think modi can win next lok sabha election?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</guid>
+      <pubDate>Sun, 26 Jul 2026 18:05:44 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - Has BJP &amp; RSS built an electoral machine no party can realistically match?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v79n5a/has_bjp_rss_built_an_electoral_machine_no_party/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v79n5a/has_bjp_rss_built_an_electoral_machine_no_party/</guid>
+      <pubDate>Sun, 26 Jul 2026 17:05:45 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
       <title>top scoring links : delhi - Junaid, who was distributing food to students at Jantar Mantar, was picked up by Delhi Police on the night of July 24 and taken to Uttarakhand. He was kept blindfolded the entire night. The next morning, an officer asked Junaid where the funding comes from?</title>
       <link>https://old.reddit.com/r/delhi/comments/1v79acz/junaid_who_was_distributing_food_to_students_at/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v79acz/junaid_who_was_distributing_food_to_students_at/</guid>
@@ -167,6 +199,14 @@
       <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
+      <title>top scoring links : AskIndia - why are ministers reused in different domains?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v74sfq/why_are_ministers_reused_in_different_domains/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v74sfq/why_are_ministers_reused_in_different_domains/</guid>
+      <pubDate>Sun, 26 Jul 2026 14:04:07 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
       <title>top scoring links : Frugal_Ind - The quality and color of Jockey T-shirts.</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v73cou/the_quality_and_color_of_jockey_tshirts/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v73cou/the_quality_and_color_of_jockey_tshirts/</guid>
@@ -191,22 +231,6 @@
       <category>top scoring links : malelivingspace</category>
     </item>
     <item>
-      <title>top scoring links : AskIndia - Why have Indians on Reddit started acting as if they did not elect the PM?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v72327/why_have_indians_on_reddit_started_acting_as_if/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v72327/why_have_indians_on_reddit_started_acting_as_if/</guid>
-      <pubDate>Sun, 26 Jul 2026 12:06:43 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Why was Japan able to end it&apos;s caste system while India is unable to end it?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v6x2yb/why_was_japan_able_to_end_its_caste_system_while/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v6x2yb/why_was_japan_able_to_end_its_caste_system_while/</guid>
-      <pubDate>Sun, 26 Jul 2026 07:38:14 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
       <title>top scoring links : Frugal_Ind - As a frugal man, how do you take care of your hair?</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v6w0ui/as_a_frugal_man_how_do_you_take_care_of_your_hair/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v6w0ui/as_a_frugal_man_how_do_you_take_care_of_your_hair/</guid>
@@ -215,36 +239,12 @@
       <category>top scoring links : Frugal_Ind</category>
     </item>
     <item>
-      <title>top scoring links : AskIndia - Why is there no accountability of media in India for showing fake news?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v6vfqh/why_is_there_no_accountability_of_media_in_india/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v6vfqh/why_is_there_no_accountability_of_media_in_india/</guid>
-      <pubDate>Sun, 26 Jul 2026 06:06:59 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Can never understand how people are still having kids in current conditions</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v6tcrh/can_never_understand_how_people_are_still_having/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v6tcrh/can_never_understand_how_people_are_still_having/</guid>
-      <pubDate>Sun, 26 Jul 2026 04:18:05 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
       <title>AskReddit: search results - nsfw:no - If you could instantly swap the US President out for literally anyone else overnight, who would you pick?</title>
       <link>https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</guid>
       <pubDate>Sat, 25 Jul 2026 23:35:15 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Is FCRA bill good for India? Why BJP supporters want it? Asking as a genz.</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v6jrxr/is_fcra_bill_good_for_india_why_bjp_supporters/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v6jrxr/is_fcra_bill_good_for_india_why_bjp_supporters/</guid>
-      <pubDate>Sat, 25 Jul 2026 20:58:40 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>AskReddit: search results - nsfw:no - What personality trait is secretly exhausting to be around?</title>
