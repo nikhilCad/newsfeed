@@ -57,19 +57,25 @@
     },
     "top scoring links : ExperiencedDevs": {
       "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
-      "fetched_at": "2026-07-26T18:13:12.581155+00:00",
+      "fetched_at": "2026-07-27T12:47:39.562897+00:00",
       "items": [
         {
-          "title": "2yrs at current company. new project is 99% ai generated. i don't know how to handle",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v6n7d7/2yrs_at_current_company_new_project_is_99_ai/",
-          "author": "/u/foreverpostponed",
-          "published": "2026-07-25T23:24:06+00:00"
+          "title": "What’s a single piece of advice you’d give to newly promoted senior SWEs?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/",
+          "author": "/u/Alces_",
+          "published": "2026-07-27T02:28:29+00:00"
         },
         {
-          "title": "A question about architects switching business domains or organizations",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v70g01/a_question_about_architects_switching_business/",
-          "author": "/u/equipoise-young",
-          "published": "2026-07-26T10:45:26+00:00"
+          "title": "Did you ever regret doing a project in Rust?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/",
+          "author": "/u/BigBootyBear",
+          "published": "2026-07-26T19:09:12+00:00"
+        },
+        {
+          "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/",
+          "author": "/u/AutoModerator",
+          "published": "2026-07-27T00:00:22+00:00"
         }
       ]
     },

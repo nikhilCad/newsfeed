@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:47:39 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - Working on contract for 8 years under 3.6 LPA, confused as to what to do next</title>
@@ -31,12 +31,36 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : ExperiencedDevs - What’s a single piece of advice you’d give to newly promoted senior SWEs?</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</guid>
+      <pubDate>Mon, 27 Jul 2026 02:28:29 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
+      <title>top scoring links : ExperiencedDevs - Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7kdgu/ask_experienced_devs_weekly_thread_a_weekly/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:22 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - Need advice: Leaving an 11 LPA startup job for a 21 LPA early-stage HFT startup?</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v7k1be/need_advice_leaving_an_11_lpa_startup_job_for_a/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v7k1be/need_advice_leaving_an_11_lpa_startup_job_for_a/</guid>
       <pubDate>Sun, 26 Jul 2026 23:45:28 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : ExperiencedDevs - Did you ever regret doing a project in Rust?</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/</guid>
+      <pubDate>Sun, 26 Jul 2026 19:09:12 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - AI didn&apos;t eliminate engineering it shifted the bottleneck.</title>
@@ -95,14 +119,6 @@
       <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
-      <title>top scoring links : ExperiencedDevs - A question about architects switching business domains or organizations</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v70g01/a_question_about_architects_switching_business/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v70g01/a_question_about_architects_switching_business/</guid>
-      <pubDate>Sun, 26 Jul 2026 10:45:26 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
       <title>top scoring links : LeetcodeDesi - [Shitpost] Outreach matters 💔</title>
       <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v6w3g7/shitpost_outreach_matters/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v6w3g7/shitpost_outreach_matters/</guid>
@@ -117,14 +133,6 @@
       <pubDate>Sun, 26 Jul 2026 04:01:28 +0000</pubDate>
       <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
       <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - 2yrs at current company. new project is 99% ai generated. i don&apos;t know how to handle</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v6n7d7/2yrs_at_current_company_new_project_is_99_ai/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v6n7d7/2yrs_at_current_company_new_project_is_99_ai/</guid>
-      <pubDate>Sat, 25 Jul 2026 23:24:06 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
     </item>
   </channel>
 </rss>
