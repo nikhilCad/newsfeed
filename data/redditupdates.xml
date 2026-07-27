@@ -4,8 +4,24 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:21:49 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : developersIndia - I resigned for my campus offer. It was withdrawn 15 days later.</title>
+      <link>https://old.reddit.com/r/developersIndia/comments/1v7z60g/i_resigned_for_my_campus_offer_it_was_withdrawn/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v7z60g/i_resigned_for_my_campus_offer_it_was_withdrawn/</guid>
+      <pubDate>Mon, 27 Jul 2026 12:36:58 +0000</pubDate>
+      <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
+      <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : developersIndia - I got two completely opposite HR reactions in the same day, how to deal with this ridiculous 90 day notice period?</title>
+      <link>https://old.reddit.com/r/developersIndia/comments/1v7xmu9/i_got_two_completely_opposite_hr_reactions_in_the/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v7xmu9/i_got_two_completely_opposite_hr_reactions_in_the/</guid>
+      <pubDate>Mon, 27 Jul 2026 11:27:10 +0000</pubDate>
+      <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
+      <category>top scoring links : developersIndia</category>
+    </item>
     <item>
       <title>top scoring links : developersIndia - Working on contract for 8 years under 3.6 LPA, confused as to what to do next</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v7tg4a/working_on_contract_for_8_years_under_36_lpa/</link>
@@ -103,14 +119,6 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
-      <title>top scoring links : developersIndia - Rejected after a technical round because the interviewer insisted Text-to-SQL is just if-else mappings</title>
-      <link>https://old.reddit.com/r/developersIndia/comments/1v79bf5/rejected_after_a_technical_round_because_the/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v79bf5/rejected_after_a_technical_round_because_the/</guid>
-      <pubDate>Sun, 26 Jul 2026 16:54:09 +0000</pubDate>
-      <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
-      <category>top scoring links : developersIndia</category>
-    </item>
-    <item>
       <title>top scoring links : LeetcodeDesi - Looking for Striver A2Z DSA Course</title>
       <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/</guid>
@@ -125,14 +133,6 @@
       <pubDate>Sun, 26 Jul 2026 14:35:14 +0000</pubDate>
       <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
       <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : developersIndia - I Built an Tiny RFID Systems That Unlocks My Mac OS</title>
-      <link>https://old.reddit.com/r/developersIndia/comments/1v752by/i_built_an_tiny_rfid_systems_that_unlocks_my_mac/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v752by/i_built_an_tiny_rfid_systems_that_unlocks_my_mac/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:14:55 +0000</pubDate>
-      <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
-      <category>top scoring links : developersIndia</category>
     </item>
   </channel>
 </rss>

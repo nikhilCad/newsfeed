@@ -3,31 +3,13 @@
   "feeds": {
     "top scoring links : developersIndia": {
       "source_url": "https://old.reddit.com/r/developersIndia/top.rss?t=day&limit=8",
-      "fetched_at": "2026-07-27T12:44:04.902683+00:00",
+      "fetched_at": "2026-07-27T18:21:49.504249+00:00",
       "items": [
         {
-          "title": "Rejected after a technical round because the interviewer insisted Text-to-SQL is just if-else mappings",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v79bf5/rejected_after_a_technical_round_because_the/",
-          "author": "/u/MarketingLazy6660",
-          "published": "2026-07-26T16:54:09+00:00"
-        },
-        {
-          "title": "I Built an Tiny RFID Systems That Unlocks My Mac OS",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v752by/i_built_an_tiny_rfid_systems_that_unlocks_my_mac/",
-          "author": "/u/Officialnmn",
-          "published": "2026-07-26T14:14:55+00:00"
-        },
-        {
-          "title": "One regret You experienced Devs have that haunts you to date.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v7bqov/one_regret_you_experienced_devs_have_that_haunts/",
-          "author": "/u/Individual-Oil-7642",
-          "published": "2026-07-26T18:22:56+00:00"
-        },
-        {
-          "title": "AI didn't eliminate engineering it shifted the bottleneck.",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v7cf7j/ai_didnt_eliminate_engineering_it_shifted_the/",
-          "author": "/u/i_am_Axzel",
-          "published": "2026-07-26T18:47:50+00:00"
+          "title": "I got two completely opposite HR reactions in the same day, how to deal with this ridiculous 90 day notice period?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7xmu9/i_got_two_completely_opposite_hr_reactions_in_the/",
+          "author": "/u/paanikadumdum",
+          "published": "2026-07-27T11:27:10+00:00"
         },
         {
           "title": "Working on contract for 8 years under 3.6 LPA, confused as to what to do next",
@@ -36,10 +18,16 @@
           "published": "2026-07-27T07:32:36+00:00"
         },
         {
-          "title": "Need advice: Leaving an 11 LPA startup job for a 21 LPA early-stage HFT startup?",
-          "link": "https://old.reddit.com/r/developersIndia/comments/1v7k1be/need_advice_leaving_an_11_lpa_startup_job_for_a/",
-          "author": "/u/Efficient-Sun3849",
-          "published": "2026-07-26T23:45:28+00:00"
+          "title": "AI didn't eliminate engineering it shifted the bottleneck.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7cf7j/ai_didnt_eliminate_engineering_it_shifted_the/",
+          "author": "/u/i_am_Axzel",
+          "published": "2026-07-26T18:47:50+00:00"
+        },
+        {
+          "title": "One regret You experienced Devs have that haunts you to date.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7bqov/one_regret_you_experienced_devs_have_that_haunts/",
+          "author": "/u/Individual-Oil-7642",
+          "published": "2026-07-26T18:22:56+00:00"
         },
         {
           "title": "Just joined as a Backend SDE-1. Feeling overwhelmed with AI, and production systems. Need advice.",
@@ -48,10 +36,22 @@
           "published": "2026-07-27T06:52:33+00:00"
         },
         {
+          "title": "I resigned for my campus offer. It was withdrawn 15 days later.",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7z60g/i_resigned_for_my_campus_offer_it_was_withdrawn/",
+          "author": "/u/SomeoneFamousButNot",
+          "published": "2026-07-27T12:36:58+00:00"
+        },
+        {
           "title": "Could someone tell me about Walmart Global Tech India? Their work culture etc",
           "link": "https://old.reddit.com/r/developersIndia/comments/1v7qinc/could_someone_tell_me_about_walmart_global_tech/",
           "author": "/u/Living_Will_967",
           "published": "2026-07-27T04:51:03+00:00"
+        },
+        {
+          "title": "Need advice: Leaving an 11 LPA startup job for a 21 LPA early-stage HFT startup?",
+          "link": "https://old.reddit.com/r/developersIndia/comments/1v7k1be/need_advice_leaving_an_11_lpa_startup_job_for_a/",
+          "author": "/u/Efficient-Sun3849",
+          "published": "2026-07-26T23:45:28+00:00"
         }
       ]
     },
