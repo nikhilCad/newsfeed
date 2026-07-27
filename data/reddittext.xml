@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:09:28 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -23,28 +23,12 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
-      <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:59:30 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
-    </item>
-    <item>
       <title>top scoring links : hopeposting - SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️</title>
       <link>https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</guid>
       <pubDate>Mon, 27 Jul 2026 10:55:10 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
-    </item>
-    <item>
-      <title>top scoring links : LifeProTips - LPT: unsolicited advice comes across as criticism, UNLESS there&apos;s a power disparity</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v7wscj/lpt_unsolicited_advice_comes_across_as_criticism/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7wscj/lpt_unsolicited_advice_comes_across_as_criticism/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:44:29 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : ProgrammerHumor - migrationInProgress</title>
@@ -61,6 +45,14 @@
       <pubDate>Mon, 27 Jul 2026 10:03:41 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
       <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : LifeProTips - LPT: Say &quot;How are you doing? Or&quot; great to see you&quot; instead of &quot;nice to meet you&quot;</title>
+      <link>https://old.reddit.com/r/LifeProTips/comments/1v7vyt8/lpt_say_how_are_you_doing_or_great_to_see_you/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7vyt8/lpt_say_how_are_you_doing_or_great_to_see_you/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:22 +0000</pubDate>
+      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
+      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -157,14 +149,6 @@
       <pubDate>Sun, 26 Jul 2026 19:49:54 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : LifeProTips - LPT: Duct tape over kid toy speaker.</title>
-      <link>https://old.reddit.com/r/LifeProTips/comments/1v7dg7y/lpt_duct_tape_over_kid_toy_speaker/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7dg7y/lpt_duct_tape_over_kid_toy_speaker/</guid>
-      <pubDate>Sun, 26 Jul 2026 19:25:27 +0000</pubDate>
-      <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
-      <category>top scoring links : LifeProTips</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Why are people against reservation not asking for a caste survey?</title>

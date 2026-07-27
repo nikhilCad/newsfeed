@@ -153,7 +153,7 @@
     },
     "top scoring links : LifeProTips": {
       "source_url": "https://old.reddit.com/r/lifeprotips/top/.rss?limit=5",
-      "fetched_at": "2026-07-27T12:32:47.764654+00:00",
+      "fetched_at": "2026-07-27T18:09:28.926578+00:00",
       "items": [
         {
           "title": "LPT: Android users who use Facebook, delete the official app and install a chrome shortcut in its place to save 5-8gb on your device",
@@ -162,28 +162,16 @@
           "published": "2026-07-26T21:56:21+00:00"
         },
         {
-          "title": "LPT: Duct tape over kid toy speaker.",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v7dg7y/lpt_duct_tape_over_kid_toy_speaker/",
-          "author": "/u/RiskyMFer",
-          "published": "2026-07-26T19:25:27+00:00"
-        },
-        {
-          "title": "LPT: unsolicited advice comes across as criticism, UNLESS there's a power disparity",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v7wscj/lpt_unsolicited_advice_comes_across_as_criticism/",
-          "author": "/u/A1Qicks",
-          "published": "2026-07-27T10:44:29+00:00"
-        },
-        {
-          "title": "LPT what's one piece of life advice you'd give someone in their 20s?",
-          "link": "https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/",
-          "author": "/u/DesignDreamer_568",
-          "published": "2026-07-27T10:59:30+00:00"
-        },
-        {
           "title": "LPT Check your thermostat batteries!",
           "link": "https://old.reddit.com/r/LifeProTips/comments/1v7ps91/lpt_check_your_thermostat_batteries/",
           "author": "/u/Artistic_Half_8301",
           "published": "2026-07-27T04:13:19+00:00"
+        },
+        {
+          "title": "LPT: Say \"How are you doing? Or\" great to see you\" instead of \"nice to meet you\"",
+          "link": "https://old.reddit.com/r/LifeProTips/comments/1v7vyt8/lpt_say_how_are_you_doing_or_great_to_see_you/",
+          "author": "/u/talon1580",
+          "published": "2026-07-27T10:00:22+00:00"
         }
       ]
     },
