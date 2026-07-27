@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:57:37 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
@@ -119,6 +119,14 @@
       <category>top scoring links : LifeProTips</category>
     </item>
     <item>
+      <title>AskReddit: search results - nsfw:no - Doctors and nurses, what everyday habit do you see destroy people’s health by their 40s that nobody warns you about?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v7gukq/doctors_and_nurses_what_everyday_habit_do_you_see/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v7gukq/doctors_and_nurses_what_everyday_habit_do_you_see/</guid>
+      <pubDate>Sun, 26 Jul 2026 21:33:43 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
+    </item>
+    <item>
       <title>top scoring links : Android - Sony Xperia 1 VIII vs. Oppo Find X9 Ultra: The 4K 60fps Video Showdown - LL Techview</title>
       <link>https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v7e3fe/sony_xperia_1_viii_vs_oppo_find_x9_ultra_the_4k/</guid>
@@ -191,6 +199,14 @@
       <category>top scoring links : Frugal_Ind</category>
     </item>
     <item>
+      <title>AskReddit: search results - nsfw:no - As a wedding guest, what was the “this marriage isn’t going to last long” moment?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v75ugd/as_a_wedding_guest_what_was_the_this_marriage/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v75ugd/as_a_wedding_guest_what_was_the_this_marriage/</guid>
+      <pubDate>Sun, 26 Jul 2026 14:45:06 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
+    </item>
+    <item>
       <title>AskReddit: search results - nsfw:no - What’s a sign outside of bed that hints someone’s excellent in bed?</title>
       <link>https://old.reddit.com/r/AskReddit/comments/1v75s9z/whats_a_sign_outside_of_bed_that_hints_someones/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v75s9z/whats_a_sign_outside_of_bed_that_hints_someones/</guid>
@@ -237,22 +253,6 @@
       <pubDate>Sun, 26 Jul 2026 06:39:28 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>AskReddit: search results - nsfw:no - If you could instantly swap the US President out for literally anyone else overnight, who would you pick?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v6ngaf/if_you_could_instantly_swap_the_us_president_out/</guid>
-      <pubDate>Sat, 25 Jul 2026 23:35:15 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>AskReddit: search results - nsfw:no - What personality trait is secretly exhausting to be around?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v6ixs1/what_personality_trait_is_secretly_exhausting_to/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v6ixs1/what_personality_trait_is_secretly_exhausting_to/</guid>
-      <pubDate>Sat, 25 Jul 2026 20:24:41 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
     </item>
   </channel>
 </rss>
