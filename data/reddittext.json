@@ -195,13 +195,13 @@
     },
     "top scoring links : ProgrammerHumor": {
       "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
-      "fetched_at": "2026-07-27T12:38:28.977224+00:00",
+      "fetched_at": "2026-07-27T18:15:47.587394+00:00",
       "items": [
         {
-          "title": "refactorCode",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/",
-          "author": "/u/Redox_RDX",
-          "published": "2026-07-26T16:37:17+00:00"
+          "title": "migrationInProgress",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/",
+          "author": "/u/Sample-Range-745",
+          "published": "2026-07-27T10:08:47+00:00"
         },
         {
           "title": "fromWeAreDevelopersCongress",
@@ -210,10 +210,10 @@
           "published": "2026-07-27T03:07:03+00:00"
         },
         {
-          "title": "migrationInProgress",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/",
-          "author": "/u/Sample-Range-745",
-          "published": "2026-07-27T10:08:47+00:00"
+          "title": "queryOfDoom",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/",
+          "author": "/u/WardensLantern",
+          "published": "2026-07-27T13:44:50+00:00"
         }
       ]
     },

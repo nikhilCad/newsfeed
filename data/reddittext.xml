@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:15:47 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -13,6 +13,14 @@
       <pubDate>Mon, 27 Jul 2026 16:25:09 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
+    </item>
+    <item>
+      <title>top scoring links : ProgrammerHumor - queryOfDoom</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/</guid>
+      <pubDate>Mon, 27 Jul 2026 13:44:50 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : delhi - Are IT Cells overworking ?</title>
@@ -189,14 +197,6 @@
       <pubDate>Sun, 26 Jul 2026 17:05:45 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
       <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - refactorCode</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/</guid>
-      <pubDate>Sun, 26 Jul 2026 16:37:17 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - Reused Blinkit bag as giftwrap for a book</title>
