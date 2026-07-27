@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:50:46 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - Working on contract for 8 years under 3.6 LPA, confused as to what to do next</title>
@@ -29,6 +29,22 @@
       <pubDate>Mon, 27 Jul 2026 04:51:03 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Any more contests like GRiD</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7p648/any_more_contests_like_grid/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7p648/any_more_contests_like_grid/</guid>
+      <pubDate>Mon, 27 Jul 2026 03:43:00 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
+    </item>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Problem of Clearing OA in Interview Process - Need Guidance/Advice 🥲</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7ozu5/problem_of_clearing_oa_in_interview_process_need/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7ozu5/problem_of_clearing_oa_in_interview_process_need/</guid>
+      <pubDate>Mon, 27 Jul 2026 03:34:20 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
       <title>top scoring links : ExperiencedDevs - What’s a single piece of advice you’d give to newly promoted senior SWEs?</title>
@@ -61,6 +77,14 @@
       <pubDate>Sun, 26 Jul 2026 19:09:12 +0000</pubDate>
       <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
       <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Cisco Interview Process for Experienced Java Developer (2–5 YOE) – Only One Technical Round?</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7cg36/cisco_interview_process_for_experienced_java/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7cg36/cisco_interview_process_for_experienced_java/</guid>
+      <pubDate>Sun, 26 Jul 2026 18:48:44 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - AI didn&apos;t eliminate engineering it shifted the bottleneck.</title>
@@ -109,30 +133,6 @@
       <pubDate>Sun, 26 Jul 2026 14:14:55 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - When will this dsa stuff stop man !</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v70s5d/when_will_this_dsa_stuff_stop_man/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v70s5d/when_will_this_dsa_stuff_stop_man/</guid>
-      <pubDate>Sun, 26 Jul 2026 11:02:59 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - [Shitpost] Outreach matters 💔</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v6w3g7/shitpost_outreach_matters/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v6w3g7/shitpost_outreach_matters/</guid>
-      <pubDate>Sun, 26 Jul 2026 06:43:31 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - DSA Revision</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v6t0ix/dsa_revision/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v6t0ix/dsa_revision/</guid>
-      <pubDate>Sun, 26 Jul 2026 04:01:28 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
     </item>
   </channel>
 </rss>
