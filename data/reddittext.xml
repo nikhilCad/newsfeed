@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:38:28 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
@@ -29,6 +29,14 @@
       <pubDate>Mon, 27 Jul 2026 10:44:29 +0000</pubDate>
       <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
       <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
+      <title>top scoring links : ProgrammerHumor - migrationInProgress</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:08:47 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -69,6 +77,14 @@
       <pubDate>Mon, 27 Jul 2026 03:27:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : ProgrammerHumor - fromWeAreDevelopersCongress</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v7ofyq/fromwearedeveloperscongress/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v7ofyq/fromwearedeveloperscongress/</guid>
+      <pubDate>Mon, 27 Jul 2026 03:07:03 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : malelivingspace - 28, lost everything and am back with my parents</title>
@@ -125,14 +141,6 @@
       <pubDate>Sun, 26 Jul 2026 14:58:56 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - myCoworkerIsAlsoMe</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v75z7x/mycoworkerisalsome/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v75z7x/mycoworkerisalsome/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:50:10 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>AskReddit: search results - nsfw:no - What’s a sign outside of bed that hints someone’s excellent in bed?</title>
@@ -213,14 +221,6 @@
       <pubDate>Sun, 26 Jul 2026 04:18:05 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
       <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - ture</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v6spa0/ture/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v6spa0/ture/</guid>
-      <pubDate>Sun, 26 Jul 2026 03:45:56 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : Android - The Ultimate Battery Life Review: 78 Phones, One Brutally Honest Test - Geekerwan</title>
