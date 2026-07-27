@@ -4,13 +4,69 @@
     <title>Engineering Blogs</title>
     <link>https://engineeringblogs.xyz/</link>
     <description>RSS feed generated from the Engineering Blogs aggregator page.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:00:37 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>Semaphore Engineering - How Lawmatics Cut CI Compute Cost by 39.3% and Shortened Pipeline Time by 15.8%</title>
+      <link>https://semaphore.io/blog/how-lawmatics-cut-ci-compute-cost-and-shortened-pipeline-time</link>
+      <guid isPermaLink="true">https://semaphore.io/blog/how-lawmatics-cut-ci-compute-cost-and-shortened-pipeline-time</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:59 +0000</pubDate>
+      <source url="http://semaphoreci.io/feed">Semaphore Engineering</source>
+      <category>Semaphore Engineering</category>
+    </item>
+    <item>
+      <title>AWS - AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:58 +0000</pubDate>
+      <source url="https://aws.amazon.com/blogs/aws/">AWS</source>
+      <category>AWS</category>
+    </item>
+    <item>
+      <title>Real Python - How to Use Google&apos;s Antigravity CLI for AI Code Assistance</title>
+      <link>https://realpython.com/antigravity-cli/</link>
+      <guid isPermaLink="true">https://realpython.com/antigravity-cli/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:57 +0000</pubDate>
+      <source url="https://realpython.com/blog/">Real Python</source>
+      <category>Real Python</category>
+    </item>
+    <item>
+      <title>Codrops - Between Print and Digital: The Making of MERSI’s Website</title>
+      <link>https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/</link>
+      <guid isPermaLink="true">https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:56 +0000</pubDate>
+      <source url="https://tympanus.net/codrops/">Codrops</source>
+      <category>Codrops</category>
+    </item>
+    <item>
+      <title>Cloudflare - We’re open sourcing our privacy proxy CLI</title>
+      <link>https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:55 +0000</pubDate>
+      <source url="https://blog.cloudflare.com/">Cloudflare</source>
+      <category>Cloudflare</category>
+    </item>
+    <item>
+      <title>Atomic Object - Design Doesn’t Have A Finish Line</title>
+      <link>https://spin.atomicobject.com/phased-design-no-finish-line/</link>
+      <guid isPermaLink="true">https://spin.atomicobject.com/phased-design-no-finish-line/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:54 +0000</pubDate>
+      <source url="https://spin.atomicobject.com/">Atomic Object</source>
+      <category>Atomic Object</category>
+    </item>
+    <item>
+      <title>Real Python - Quiz: How to Use Google&apos;s Antigravity CLI for AI Code Assistance</title>
+      <link>https://realpython.com/quizzes/antigravity-cli/</link>
+      <guid isPermaLink="true">https://realpython.com/quizzes/antigravity-cli/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:53 +0000</pubDate>
+      <source url="https://realpython.com/blog/">Real Python</source>
+      <category>Real Python</category>
+    </item>
     <item>
       <title>Hugging Face - NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics</title>
       <link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
       <guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-h-dreams</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:59 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:52 +0000</pubDate>
       <source url="https://huggingface.co/blog">Hugging Face</source>
       <category>Hugging Face</category>
     </item>
@@ -18,7 +74,7 @@
       <title>NVIDIA Developer - Six Agent Harness Capabilities for Higher Model Performance</title>
       <link>https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/</link>
       <guid isPermaLink="true">https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:58 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:51 +0000</pubDate>
       <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
       <category>NVIDIA Developer</category>
     </item>
@@ -26,7 +82,7 @@
       <title>Scrapinghub - Modern Scrapy for experienced developers: A new series</title>
       <link>https://www.zyte.com/blog/modern-scrapy-for-experience-developers-part-1/</link>
       <guid isPermaLink="true">https://www.zyte.com/blog/modern-scrapy-for-experience-developers-part-1/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:57 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:50 +0000</pubDate>
       <source url="https://blog.scrapinghub.com/">Scrapinghub</source>
       <category>Scrapinghub</category>
     </item>
@@ -34,7 +90,7 @@
       <title>Red Hat - How we designed customizable dashboards in OpenShift</title>
       <link>https://developers.redhat.com/articles/2026/07/27/how-we-designed-customizable-dashboards-openshift</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/27/how-we-designed-customizable-dashboards-openshift</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:56 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:49 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -42,7 +98,7 @@
       <title>Red Hat - Standardize project context with AGENTS.md and Agent Skills</title>
       <link>https://developers.redhat.com/articles/2026/07/27/standardize-project-context-agentsmd-and-agent-skills</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/27/standardize-project-context-agentsmd-and-agent-skills</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:55 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:48 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -50,47 +106,79 @@
       <title>Daniel Stenberg - HTTP Message Signatures with curl</title>
       <link>https://daniel.haxx.se/blog/2026/07/27/http-message-signatures-with-curl/</link>
       <guid isPermaLink="true">https://daniel.haxx.se/blog/2026/07/27/http-message-signatures-with-curl/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:54 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:47 +0000</pubDate>
       <source url="https://daniel.haxx.se/blog/">Daniel Stenberg</source>
       <category>Daniel Stenberg</category>
+    </item>
+    <item>
+      <title>The Daily WTF - The Hard Goodbye</title>
+      <link>https://thedailywtf.com/articles/the-hard-goodbye</link>
+      <guid isPermaLink="true">https://thedailywtf.com/articles/the-hard-goodbye</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:46 +0000</pubDate>
+      <source url="http://thedailywtf.com/">The Daily WTF</source>
+      <category>The Daily WTF</category>
     </item>
     <item>
       <title>APNIC - Secure by default: How ‘HSTS-Enforced’ could finally close the web’s oldest backdoor</title>
       <link>https://blog.apnic.net/2026/07/27/secure-by-default-how-hsts-enforced-could-finally-close-the-webs-oldest-backdoor/</link>
       <guid isPermaLink="true">https://blog.apnic.net/2026/07/27/secure-by-default-how-hsts-enforced-could-finally-close-the-webs-oldest-backdoor/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:53 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:45 +0000</pubDate>
       <source url="https://blog.apnic.net/">APNIC</source>
       <category>APNIC</category>
+    </item>
+    <item>
+      <title>OpenAI - How AI is expanding what people do at work</title>
+      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
+      <guid isPermaLink="true">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:44 +0000</pubDate>
+      <source url="https://openai.com/news/">OpenAI</source>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>Red Hat - How to use LVM with shared storage</title>
       <link>https://developers.redhat.com/articles/2026/07/27/how-to-use-lvm-with-shared-storage</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/27/how-to-use-lvm-with-shared-storage</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:52 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:43 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
-    </item>
-    <item>
-      <title>NVIDIA Developer - Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing</title>
-      <link>https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/</link>
-      <guid isPermaLink="true">https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:51 +0000</pubDate>
-      <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
-      <category>NVIDIA Developer</category>
     </item>
     <item>
       <title>NVIDIA Developer - NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding</title>
       <link>https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/</link>
       <guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:50 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:42 +0000</pubDate>
       <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
       <category>NVIDIA Developer</category>
+    </item>
+    <item>
+      <title>NVIDIA Developer - Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing</title>
+      <link>https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/</link>
+      <guid isPermaLink="true">https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:41 +0000</pubDate>
+      <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
+      <category>NVIDIA Developer</category>
+    </item>
+    <item>
+      <title>Vercel - Run Claude Managed Agents with Chat SDK</title>
+      <link>https://vercel.com/changelog/claude-managed-agents-with-chat-sdk</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/claude-managed-agents-with-chat-sdk</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:40 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>Vercel - Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway</title>
+      <link>https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:39 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
     </item>
     <item>
       <title>Thoughtbot - Sign in with Google for React Native</title>
       <link>https://feed.thoughtbot.com/link/24077/17387679/sign-in-with-google-for-react-native</link>
       <guid isPermaLink="true">https://feed.thoughtbot.com/link/24077/17387679/sign-in-with-google-for-react-native</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:49 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:38 +0000</pubDate>
       <source url="https://robots.thoughtbot.com/">Thoughtbot</source>
       <category>Thoughtbot</category>
     </item>
@@ -98,15 +186,31 @@
       <title>CodeName One - Pure Codename One Text Editing Without Native Overlays</title>
       <link>https://www.codenameone.com/blog/text-input-without-native-overlay/</link>
       <guid isPermaLink="true">https://www.codenameone.com/blog/text-input-without-native-overlay/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:48 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:37 +0000</pubDate>
       <source url="http://www.codenameone.com/blog.html">CodeName One</source>
       <category>CodeName One</category>
+    </item>
+    <item>
+      <title>Clickhouse - ClickHouse docs relaunch</title>
+      <link>https://clickhouse.com/blog/clickhouse-docs-on-mintlify</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/clickhouse-docs-on-mintlify</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:36 +0000</pubDate>
+      <source url="https://clickhouse.com/blog">Clickhouse</source>
+      <category>Clickhouse</category>
+    </item>
+    <item>
+      <title>Auth0 - The Self-Service Roadmap: Navigating the Auth0 Dashboard Subscriptions Tab</title>
+      <link>https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/</link>
+      <guid isPermaLink="true">https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:59:35 +0000</pubDate>
+      <source url="https://auth0.com/blog/">Auth0</source>
+      <category>Auth0</category>
     </item>
     <item>
       <title>Elastic - Elastic joins NVIDIA and industry leaders as inaugural member of the Open Secure AI Alliance for AI safety and security</title>
       <link>https://www.elastic.co/blog/elastic-nvidia-inaugural-partner-osaia</link>
       <guid isPermaLink="true">https://www.elastic.co/blog/elastic-nvidia-inaugural-partner-osaia</guid>
-      <pubDate>Mon, 27 Jul 2026 23:59:47 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:59:34 +0000</pubDate>
       <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
       <category>Elastic</category>
     </item>
@@ -167,26 +271,34 @@
       <category>CodeName One</category>
     </item>
     <item>
+      <title>Josh Sherman - New Feature: Games</title>
+      <link>https://joshtronic.com/2026/07/26/new-feature-games/</link>
+      <guid isPermaLink="true">https://joshtronic.com/2026/07/26/new-feature-games/</guid>
+      <pubDate>Sun, 26 Jul 2026 23:59:52 +0000</pubDate>
+      <source url="https://joshtronic.com/">Josh Sherman</source>
+      <category>Josh Sherman</category>
+    </item>
+    <item>
       <title>Nicolas Fränkel - RFC 9880 and the IoT Validation Problem</title>
       <link>https://blog.frankel.ch/rfc-9880-iot-validation-compiler/</link>
       <guid isPermaLink="true">https://blog.frankel.ch/rfc-9880-iot-validation-compiler/</guid>
-      <pubDate>Sun, 26 Jul 2026 23:59:52 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 23:59:51 +0000</pubDate>
       <source url="https://blog.frankel.ch/">Nicolas Fränkel</source>
       <category>Nicolas Fränkel</category>
     </item>
     <item>
-      <title>Josh Sherman - New Feature: Games</title>
-      <link>https://joshtronic.com/2026/07/26/new-feature-games/</link>
-      <guid isPermaLink="true">https://joshtronic.com/2026/07/26/new-feature-games/</guid>
-      <pubDate>Sun, 26 Jul 2026 23:59:51 +0000</pubDate>
-      <source url="https://joshtronic.com/">Josh Sherman</source>
-      <category>Josh Sherman</category>
+      <title>Daniel Lemire - Memory-level parallelism: AMD is the king</title>
+      <link>https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king/</link>
+      <guid isPermaLink="true">https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king/</guid>
+      <pubDate>Sat, 25 Jul 2026 23:59:59 +0000</pubDate>
+      <source url="https://lemire.me/blog/">Daniel Lemire</source>
+      <category>Daniel Lemire</category>
     </item>
     <item>
       <title>Daniel Stenberg - 1,500 curl authors</title>
       <link>https://daniel.haxx.se/blog/2026/07/25/1500-curl-authors/</link>
       <guid isPermaLink="true">https://daniel.haxx.se/blog/2026/07/25/1500-curl-authors/</guid>
-      <pubDate>Sat, 25 Jul 2026 23:59:59 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:59:58 +0000</pubDate>
       <source url="https://daniel.haxx.se/blog/">Daniel Stenberg</source>
       <category>Daniel Stenberg</category>
     </item>
@@ -194,7 +306,7 @@
       <title>Atomic Object - Atomic Object Raleigh Is Now a Majority-Women Office</title>
       <link>https://spin.atomicobject.com/atomic-raleigh-majority-women/</link>
       <guid isPermaLink="true">https://spin.atomicobject.com/atomic-raleigh-majority-women/</guid>
-      <pubDate>Sat, 25 Jul 2026 23:59:58 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:59:57 +0000</pubDate>
       <source url="https://spin.atomicobject.com/">Atomic Object</source>
       <category>Atomic Object</category>
     </item>
@@ -202,17 +314,9 @@
       <title>Antirez - Being Linux Torvalds</title>
       <link>http://antirez.com/news/171</link>
       <guid isPermaLink="true">http://antirez.com/news/171</guid>
-      <pubDate>Sat, 25 Jul 2026 23:59:57 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:59:56 +0000</pubDate>
       <source url="http://antirez.com/latest/0">Antirez</source>
       <category>Antirez</category>
-    </item>
-    <item>
-      <title>CodeName One - Calendar API: Local Calendars, Cloud Sync, and Conflict Handling</title>
-      <link>https://www.codenameone.com/blog/calendar-is-not-add-event/</link>
-      <guid isPermaLink="true">https://www.codenameone.com/blog/calendar-is-not-add-event/</guid>
-      <pubDate>Sat, 25 Jul 2026 23:59:56 +0000</pubDate>
-      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
-      <category>CodeName One</category>
     </item>
     <item>
       <title>Jonathan Snook - Collections</title>
@@ -231,10 +335,26 @@
       <category>Swizec Teller</category>
     </item>
     <item>
+      <title>CodeName One - Calendar API: Local Calendars, Cloud Sync, and Conflict Handling</title>
+      <link>https://www.codenameone.com/blog/calendar-is-not-add-event/</link>
+      <guid isPermaLink="true">https://www.codenameone.com/blog/calendar-is-not-add-event/</guid>
+      <pubDate>Sat, 25 Jul 2026 23:59:53 +0000</pubDate>
+      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
+      <category>CodeName One</category>
+    </item>
+    <item>
+      <title>Daniel Lemire - Does a PhD Pay Off?</title>
+      <link>https://lemire.me/blog/2026/07/24/does-a-phd-pay-off/</link>
+      <guid isPermaLink="true">https://lemire.me/blog/2026/07/24/does-a-phd-pay-off/</guid>
+      <pubDate>Fri, 24 Jul 2026 23:59:59 +0000</pubDate>
+      <source url="https://lemire.me/blog/">Daniel Lemire</source>
+      <category>Daniel Lemire</category>
+    </item>
+    <item>
       <title>Node.js - Check out the New Node.js API Documentation Preview</title>
       <link>https://nodejs.org/en/blog/announcements/new-api-docs-beta</link>
       <guid isPermaLink="true">https://nodejs.org/en/blog/announcements/new-api-docs-beta</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:59 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:58 +0000</pubDate>
       <source url="https://nodejs.org/en/blog/">Node.js</source>
       <category>Node.js</category>
     </item>
@@ -242,7 +362,7 @@
       <title>AWS Machine Learning - Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model</title>
       <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/</link>
       <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:58 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:57 +0000</pubDate>
       <source url="https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</source>
       <category>AWS Machine Learning</category>
     </item>
@@ -250,7 +370,7 @@
       <title>Vercel - Vercel WAF for Blob is now in beta</title>
       <link>https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta</link>
       <guid isPermaLink="true">https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:57 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:56 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -258,7 +378,7 @@
       <title>Cloudflare - BGP ORIGIN attribute manipulation and its impact on the Internet</title>
       <link>https://blog.cloudflare.com/bgp-origin-attribute/</link>
       <guid isPermaLink="true">https://blog.cloudflare.com/bgp-origin-attribute/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:56 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:55 +0000</pubDate>
       <source url="https://blog.cloudflare.com/">Cloudflare</source>
       <category>Cloudflare</category>
     </item>
@@ -266,17 +386,9 @@
       <title>NVIDIA Developer - ModelExpress: Distributing Model Artifacts at the Speed of Light</title>
       <link>https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/</link>
       <guid isPermaLink="true">https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:55 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:54 +0000</pubDate>
       <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
       <category>NVIDIA Developer</category>
-    </item>
-    <item>
-      <title>Stack Overflow - No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?</title>
-      <link>https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/</link>
-      <guid isPermaLink="true">https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:54 +0000</pubDate>
-      <source url="https://stackoverflow.blog/">Stack Overflow</source>
-      <category>Stack Overflow</category>
     </item>
     <item>
       <title>Squarespace - Stain the Page: How I Prototype with AI</title>
@@ -287,10 +399,18 @@
       <category>Squarespace</category>
     </item>
     <item>
+      <title>Stack Overflow - No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?</title>
+      <link>https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/</link>
+      <guid isPermaLink="true">https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/</guid>
+      <pubDate>Fri, 24 Jul 2026 23:59:52 +0000</pubDate>
+      <source url="https://stackoverflow.blog/">Stack Overflow</source>
+      <category>Stack Overflow</category>
+    </item>
+    <item>
       <title>AWS Machine Learning - Build an explainable next-best-product recommendation system for banking on AWS</title>
       <link>https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/</link>
       <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:52 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:51 +0000</pubDate>
       <source url="https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</source>
       <category>AWS Machine Learning</category>
     </item>
@@ -298,7 +418,7 @@
       <title>AWS Machine Learning - Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock</title>
       <link>https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/</link>
       <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:51 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:50 +0000</pubDate>
       <source url="https://aws.amazon.com/blogs/machine-learning/">AWS Machine Learning</source>
       <category>AWS Machine Learning</category>
     </item>
@@ -306,7 +426,7 @@
       <title>Timescale - The Hidden Cost of Postgres Constraints at Scale</title>
       <link>https://www.tigerdata.com/blog/hidden-cost-postgres-constraints-scale</link>
       <guid isPermaLink="true">https://www.tigerdata.com/blog/hidden-cost-postgres-constraints-scale</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:50 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:49 +0000</pubDate>
       <source url="https://blog.timescale.com/">Timescale</source>
       <category>Timescale</category>
     </item>
@@ -314,7 +434,7 @@
       <title>Auth0 - Agentic Loops and Agent Graphs: Security Risks You Need to Know</title>
       <link>https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/</link>
       <guid isPermaLink="true">https://auth0.com/blog/agentic-loops-agent-graphs-security-risks/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:49 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:48 +0000</pubDate>
       <source url="https://auth0.com/blog/">Auth0</source>
       <category>Auth0</category>
     </item>
@@ -322,7 +442,7 @@
       <title>Codrops - The Art of Continuous Transformation: How Garden Eight Blends Integrity with Play</title>
       <link>https://tympanus.net/codrops/2026/07/24/the-art-of-continuous-transformation-how-garden-eight-blends-integrity-with-play/</link>
       <guid isPermaLink="true">https://tympanus.net/codrops/2026/07/24/the-art-of-continuous-transformation-how-garden-eight-blends-integrity-with-play/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:48 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:47 +0000</pubDate>
       <source url="https://tympanus.net/codrops/">Codrops</source>
       <category>Codrops</category>
     </item>
@@ -330,7 +450,7 @@
       <title>Raymond Chen - Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:47 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:46 +0000</pubDate>
       <source url="https://blogs.msdn.microsoft.com/oldnewthing/">Raymond Chen</source>
       <category>Raymond Chen</category>
     </item>
@@ -338,7 +458,7 @@
       <title>Atomic Object - Here’s What Happened When I Revisited Our Code Review Experiment</title>
       <link>https://spin.atomicobject.com/revisiting-code-review-optional/</link>
       <guid isPermaLink="true">https://spin.atomicobject.com/revisiting-code-review-optional/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:45 +0000</pubDate>
       <source url="https://spin.atomicobject.com/">Atomic Object</source>
       <category>Atomic Object</category>
     </item>
@@ -346,7 +466,7 @@
       <title>Real Python - The Real Python Podcast – Episode #304: Configuring a Versatile LLM Harness &amp; Scraping the Web With Scrapy</title>
       <link>https://realpython.com/podcasts/rpp/304/</link>
       <guid isPermaLink="true">https://realpython.com/podcasts/rpp/304/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:45 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:44 +0000</pubDate>
       <source url="https://realpython.com/blog/">Real Python</source>
       <category>Real Python</category>
     </item>
@@ -354,7 +474,7 @@
       <title>Jeffrey Zeldman - You lost me at “infielder.”</title>
       <link>https://zeldman.com/2026/07/24/you-lost-me-at-infielder/</link>
       <guid isPermaLink="true">https://zeldman.com/2026/07/24/you-lost-me-at-infielder/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:44 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:43 +0000</pubDate>
       <source url="https://zeldman.com/">Jeffrey Zeldman</source>
       <category>Jeffrey Zeldman</category>
     </item>
@@ -362,7 +482,7 @@
       <title>Grofers - Blinkit at OpenSearchCon India 2026</title>
       <link>https://lambda.blinkit.com/blinkit-at-opensearchcon-india-2026-37fd0046c318?source=rss----42df4a1e8725---4</link>
       <guid isPermaLink="true">https://lambda.blinkit.com/blinkit-at-opensearchcon-india-2026-37fd0046c318?source=rss----42df4a1e8725---4</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:43 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:42 +0000</pubDate>
       <source url="https://lambda.grofers.com/">Grofers</source>
       <category>Grofers</category>
     </item>
@@ -370,7 +490,7 @@
       <title>Semaphore Engineering - Best Jenkins Alternatives in 2026</title>
       <link>https://semaphore.io/blog/best-jenkins-alternatives-in-2026</link>
       <guid isPermaLink="true">https://semaphore.io/blog/best-jenkins-alternatives-in-2026</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:42 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:41 +0000</pubDate>
       <source url="http://semaphoreci.io/feed">Semaphore Engineering</source>
       <category>Semaphore Engineering</category>
     </item>
@@ -378,7 +498,7 @@
       <title>Scrapinghub - A guide to Scrapy item types</title>
       <link>https://www.zyte.com/blog/a-guide-to-scrapy-item-types/</link>
       <guid isPermaLink="true">https://www.zyte.com/blog/a-guide-to-scrapy-item-types/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:41 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:40 +0000</pubDate>
       <source url="https://blog.scrapinghub.com/">Scrapinghub</source>
       <category>Scrapinghub</category>
     </item>
@@ -386,7 +506,7 @@
       <title>Stack Overflow - Partnerships can keep open source sustainable</title>
       <link>https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/</link>
       <guid isPermaLink="true">https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:40 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:39 +0000</pubDate>
       <source url="https://stackoverflow.blog/">Stack Overflow</source>
       <category>Stack Overflow</category>
     </item>
@@ -394,7 +514,7 @@
       <title>The Daily WTF - Error&apos;d: The Song that Never Ends?</title>
       <link>https://thedailywtf.com/articles/the-song-that-never-ends</link>
       <guid isPermaLink="true">https://thedailywtf.com/articles/the-song-that-never-ends</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:39 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:38 +0000</pubDate>
       <source url="http://thedailywtf.com/">The Daily WTF</source>
       <category>The Daily WTF</category>
     </item>
@@ -402,7 +522,7 @@
       <title>MIT AI News - Working to automate nuclear plant operations</title>
       <link>https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724</link>
       <guid isPermaLink="true">https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:38 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:37 +0000</pubDate>
       <source url="https://news.mit.edu/topic/artificial-intelligence2">MIT AI News</source>
       <category>MIT AI News</category>
     </item>
@@ -410,7 +530,7 @@
       <title>Vercel - Workflow steps now support extended function durations</title>
       <link>https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations</link>
       <guid isPermaLink="true">https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:37 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:36 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -418,7 +538,7 @@
       <title>Red Hat - Why is pytorch compile so fast?</title>
       <link>https://developers.redhat.com/articles/2026/07/24/why-is-pytorch-compile-so-fast</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/24/why-is-pytorch-compile-so-fast</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:36 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:35 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -426,7 +546,7 @@
       <title>Red Hat - The hidden cost of observability sprawl</title>
       <link>https://developers.redhat.com/articles/2026/07/24/multi-tenancy-with-kiali-and-opentelemetry-collector</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/24/multi-tenancy-with-kiali-and-opentelemetry-collector</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:35 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:34 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -434,39 +554,15 @@
       <title>Grab - Agent platform (Part 1): How we help Grab build and run AI agents at scale</title>
       <link>https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale</link>
       <guid isPermaLink="true">https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:34 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:33 +0000</pubDate>
       <source url="http://engineering.grab.com/">Grab</source>
       <category>Grab</category>
-    </item>
-    <item>
-      <title>CodeName One - The Codename One JavaScript Port Is Now Free and Open Source</title>
-      <link>https://www.codenameone.com/blog/javascript-free-open-source/</link>
-      <guid isPermaLink="true">https://www.codenameone.com/blog/javascript-free-open-source/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:33 +0000</pubDate>
-      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
-      <category>CodeName One</category>
-    </item>
-    <item>
-      <title>Armin Ronacher - Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:32 +0000</pubDate>
-      <source url="http://lucumr.pocoo.org/">Armin Ronacher</source>
-      <category>Armin Ronacher</category>
-    </item>
-    <item>
-      <title>Thoughtbot - What founders told us about working with AI tools for startups</title>
-      <link>https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups</link>
-      <guid isPermaLink="true">https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:31 +0000</pubDate>
-      <source url="https://robots.thoughtbot.com/">Thoughtbot</source>
-      <category>Thoughtbot</category>
     </item>
     <item>
       <title>Vercel - Claude Opus 5 now available on AI Gateway</title>
       <link>https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway</link>
       <guid isPermaLink="true">https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:30 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:32 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -474,23 +570,47 @@
       <title>Fly.io - Turn And Face The Strange</title>
       <link>https://fly.io/blog/kurt-scott-money-sprites/</link>
       <guid isPermaLink="true">https://fly.io/blog/kurt-scott-money-sprites/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:29 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:31 +0000</pubDate>
       <source url="https://fly.io/blog/">Fly.io</source>
       <category>Fly.io</category>
+    </item>
+    <item>
+      <title>Armin Ronacher - Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <pubDate>Fri, 24 Jul 2026 23:59:30 +0000</pubDate>
+      <source url="http://lucumr.pocoo.org/">Armin Ronacher</source>
+      <category>Armin Ronacher</category>
     </item>
     <item>
       <title>Teleport - VPN Alternative for Internal Web Apps | Teleport</title>
       <link>https://goteleport.com/blog/access-apps-without-vpn/</link>
       <guid isPermaLink="true">https://goteleport.com/blog/access-apps-without-vpn/</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:28 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:29 +0000</pubDate>
       <source url="https://goteleport.com/blog/">Teleport</source>
       <category>Teleport</category>
+    </item>
+    <item>
+      <title>CodeName One - The Codename One JavaScript Port Is Now Free and Open Source</title>
+      <link>https://www.codenameone.com/blog/javascript-free-open-source/</link>
+      <guid isPermaLink="true">https://www.codenameone.com/blog/javascript-free-open-source/</guid>
+      <pubDate>Fri, 24 Jul 2026 23:59:28 +0000</pubDate>
+      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
+      <category>CodeName One</category>
+    </item>
+    <item>
+      <title>Thoughtbot - What founders told us about working with AI tools for startups</title>
+      <link>https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups</link>
+      <guid isPermaLink="true">https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups</guid>
+      <pubDate>Fri, 24 Jul 2026 23:59:27 +0000</pubDate>
+      <source url="https://robots.thoughtbot.com/">Thoughtbot</source>
+      <category>Thoughtbot</category>
     </item>
     <item>
       <title>eieio.games - I&apos;m running a programming contest</title>
       <link>https://eieio.games/blog/im-running-the-icfp-programming-contest</link>
       <guid isPermaLink="true">https://eieio.games/blog/im-running-the-icfp-programming-contest</guid>
-      <pubDate>Fri, 24 Jul 2026 23:59:27 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:59:26 +0000</pubDate>
       <source url="https://eieio.games/blog/">eieio.games</source>
       <category>eieio.games</category>
     </item>
@@ -687,20 +807,20 @@
       <category>MIT AI News</category>
     </item>
     <item>
-      <title>Real Python - Quiz: A Guide to Excel Spreadsheets in Python With openpyxl</title>
-      <link>https://realpython.com/quizzes/openpyxl-excel-spreadsheets-python/</link>
-      <guid isPermaLink="true">https://realpython.com/quizzes/openpyxl-excel-spreadsheets-python/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:35 +0000</pubDate>
-      <source url="https://realpython.com/blog/">Real Python</source>
-      <category>Real Python</category>
-    </item>
-    <item>
       <title>Duolingo Engineering - What’s the International Phonetic Alphabet, and how do I use it?</title>
       <link>https://blog.duolingo.com/how-is-the-international-phonetic-alphabet-used/</link>
       <guid isPermaLink="true">https://blog.duolingo.com/how-is-the-international-phonetic-alphabet-used/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:34 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:35 +0000</pubDate>
       <source url="https://blog.duolingo.com/">Duolingo Engineering</source>
       <category>Duolingo Engineering</category>
+    </item>
+    <item>
+      <title>Real Python - Quiz: A Guide to Excel Spreadsheets in Python With openpyxl</title>
+      <link>https://realpython.com/quizzes/openpyxl-excel-spreadsheets-python/</link>
+      <guid isPermaLink="true">https://realpython.com/quizzes/openpyxl-excel-spreadsheets-python/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:34 +0000</pubDate>
+      <source url="https://realpython.com/blog/">Real Python</source>
+      <category>Real Python</category>
     </item>
     <item>
       <title>Tumblr - The new settings area is now rolling out to everyone on Android. This will no longer be a Labs&amp;hellip;</title>
@@ -751,42 +871,26 @@
       <category>Laravel</category>
     </item>
     <item>
-      <title>Alex Russell - The Absolute State of Management</title>
-      <link>https://infrequently.org/2026/07/state-management/</link>
-      <guid isPermaLink="true">https://infrequently.org/2026/07/state-management/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:27 +0000</pubDate>
-      <source url="https://infrequently.org/">Alex Russell</source>
-      <category>Alex Russell</category>
-    </item>
-    <item>
-      <title>Pulumi - Preview ESC Changes with Environment Overrides</title>
-      <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references/</link>
-      <guid isPermaLink="true">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:26 +0000</pubDate>
-      <source url="https://www.pulumi.com/blog/">Pulumi</source>
-      <category>Pulumi</category>
-    </item>
-    <item>
-      <title>Vercel - Inspect feature flag history with Vercel CLI</title>
-      <link>https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:25 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
       <title>Clickhouse - ClickHouse achieves AWS Small and Medium Business Competency</title>
       <link>https://clickhouse.com/blog/achieves-aws-smb-competency</link>
       <guid isPermaLink="true">https://clickhouse.com/blog/achieves-aws-smb-competency</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:24 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:27 +0000</pubDate>
       <source url="https://clickhouse.com/blog">Clickhouse</source>
       <category>Clickhouse</category>
     </item>
     <item>
-      <title>Vercel - GitHub tools are now an installable eve extension</title>
-      <link>https://vercel.com/changelog/github-tools-eve-extension</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/github-tools-eve-extension</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:23 +0000</pubDate>
+      <title>OpenAI - Launching Health in ChatGPT</title>
+      <link>https://openai.com/index/health-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/health-in-chatgpt</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:26 +0000</pubDate>
+      <source url="https://openai.com/news/">OpenAI</source>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Vercel - Evaluation metrics for Vercel Flags</title>
+      <link>https://vercel.com/changelog/evaluation-metrics-for-vercel-flags</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/evaluation-metrics-for-vercel-flags</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:25 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -794,7 +898,39 @@
       <title>Vercel - Connect to and manage Sandboxes from the dashboard</title>
       <link>https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard</link>
       <guid isPermaLink="true">https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:24 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>Pulumi - Preview ESC Changes with Environment Overrides</title>
+      <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references/</link>
+      <guid isPermaLink="true">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:23 +0000</pubDate>
+      <source url="https://www.pulumi.com/blog/">Pulumi</source>
+      <category>Pulumi</category>
+    </item>
+    <item>
+      <title>Datadog Engineering - Provision Datadog on Stripe Projects</title>
+      <link>https://www.datadoghq.com/blog/datadog-stripe-projects/</link>
+      <guid isPermaLink="true">https://www.datadoghq.com/blog/datadog-stripe-projects/</guid>
       <pubDate>Thu, 23 Jul 2026 23:59:22 +0000</pubDate>
+      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
+      <category>Datadog Engineering</category>
+    </item>
+    <item>
+      <title>Vercel - Inspect feature flag history with Vercel CLI</title>
+      <link>https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:21 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>Vercel - GitHub tools are now an installable eve extension</title>
+      <link>https://vercel.com/changelog/github-tools-eve-extension</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/github-tools-eve-extension</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:20 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -802,55 +938,47 @@
       <title>Vercel - Ling 3.0 Flash is now available on AI Gateway</title>
       <link>https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway</link>
       <guid isPermaLink="true">https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:21 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Vercel - Vercel MCP can now deploy code</title>
-      <link>https://vercel.com/changelog/vercel-mcp-can-now-deploy-code</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/vercel-mcp-can-now-deploy-code</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:20 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Vercel - Evaluation metrics for Vercel Flags</title>
-      <link>https://vercel.com/changelog/evaluation-metrics-for-vercel-flags</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/evaluation-metrics-for-vercel-flags</guid>
       <pubDate>Thu, 23 Jul 2026 23:59:19 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
     <item>
+      <title>Alex Russell - The Absolute State of Management</title>
+      <link>https://infrequently.org/2026/07/state-management/</link>
+      <guid isPermaLink="true">https://infrequently.org/2026/07/state-management/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:18 +0000</pubDate>
+      <source url="https://infrequently.org/">Alex Russell</source>
+      <category>Alex Russell</category>
+    </item>
+    <item>
+      <title>Amit Merchant - WebMCP in Chrome (A 101 Guide)</title>
+      <link>https://www.amitmerchant.com/webmcp-in-chrome-101/</link>
+      <guid isPermaLink="true">https://www.amitmerchant.com/webmcp-in-chrome-101/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:17 +0000</pubDate>
+      <source url="https://www.amitmerchant.com/">Amit Merchant</source>
+      <category>Amit Merchant</category>
+    </item>
+    <item>
       <title>Drew DeVault - AI in Linux</title>
       <link>https://drewdevault.com/blog/AI-in-Linux/</link>
       <guid isPermaLink="true">https://drewdevault.com/blog/AI-in-Linux/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:18 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:16 +0000</pubDate>
       <source url="https://drewdevault.com/">Drew DeVault</source>
       <category>Drew DeVault</category>
     </item>
     <item>
-      <title>Stanko Tadić - SpaceDeck X July devlog: upgrades, backgrounds, and more</title>
-      <link>https://muffinman.io/blog/spacedeck-x-july-devlog/</link>
-      <guid isPermaLink="true">https://muffinman.io/blog/spacedeck-x-july-devlog/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:17 +0000</pubDate>
-      <source url="https://muffinman.io">Stanko Tadić</source>
-      <category>Stanko Tadić</category>
+      <title>Vercel - Vercel MCP can now deploy code</title>
+      <link>https://vercel.com/changelog/vercel-mcp-can-now-deploy-code</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/vercel-mcp-can-now-deploy-code</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:15 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
     </item>
     <item>
       <title>Datadog Engineering - Efficient multi-provider agent environments with AI gateways: best practices</title>
       <link>https://www.datadoghq.com/blog/ai-gateways-best-practices/</link>
       <guid isPermaLink="true">https://www.datadoghq.com/blog/ai-gateways-best-practices/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:16 +0000</pubDate>
-      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
-      <category>Datadog Engineering</category>
-    </item>
-    <item>
-      <title>Datadog Engineering - Provision Datadog on Stripe Projects</title>
-      <link>https://www.datadoghq.com/blog/datadog-stripe-projects/</link>
-      <guid isPermaLink="true">https://www.datadoghq.com/blog/datadog-stripe-projects/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:15 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:14 +0000</pubDate>
       <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
       <category>Datadog Engineering</category>
     </item>
@@ -858,33 +986,25 @@
       <title>Elastic - Elastic’s new metrics capabilities will dramatically improve uptime for public sector IT</title>
       <link>https://www.elastic.co/blog/observability-metrics-public-sector-it</link>
       <guid isPermaLink="true">https://www.elastic.co/blog/observability-metrics-public-sector-it</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:14 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:13 +0000</pubDate>
       <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
       <category>Elastic</category>
     </item>
     <item>
-      <title>Amit Merchant - WebMCP in Chrome (A 101 Guide)</title>
-      <link>https://www.amitmerchant.com/webmcp-in-chrome-101/</link>
-      <guid isPermaLink="true">https://www.amitmerchant.com/webmcp-in-chrome-101/</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:13 +0000</pubDate>
-      <source url="https://www.amitmerchant.com/">Amit Merchant</source>
-      <category>Amit Merchant</category>
+      <title>Stanko Tadić - SpaceDeck X July devlog: upgrades, backgrounds, and more</title>
+      <link>https://muffinman.io/blog/spacedeck-x-july-devlog/</link>
+      <guid isPermaLink="true">https://muffinman.io/blog/spacedeck-x-july-devlog/</guid>
+      <pubDate>Thu, 23 Jul 2026 23:59:12 +0000</pubDate>
+      <source url="https://muffinman.io">Stanko Tadić</source>
+      <category>Stanko Tadić</category>
     </item>
     <item>
       <title>Hugging Face - Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
       <link>https://huggingface.co/blog/nunchaku-diffusers</link>
       <guid isPermaLink="true">https://huggingface.co/blog/nunchaku-diffusers</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:12 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 23:59:11 +0000</pubDate>
       <source url="https://huggingface.co/blog">Hugging Face</source>
       <category>Hugging Face</category>
-    </item>
-    <item>
-      <title>OpenAI - Launching Health in ChatGPT</title>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/health-in-chatgpt</guid>
-      <pubDate>Thu, 23 Jul 2026 23:59:11 +0000</pubDate>
-      <source url="https://openai.com/news/">OpenAI</source>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>Simon Willison - OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened</title>
@@ -935,20 +1055,20 @@
       <category>Scrapinghub</category>
     </item>
     <item>
-      <title>MIT AI News - Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83</title>
-      <link>https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</link>
-      <guid isPermaLink="true">https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:53 +0000</pubDate>
-      <source url="https://news.mit.edu/topic/artificial-intelligence2">MIT AI News</source>
-      <category>MIT AI News</category>
-    </item>
-    <item>
       <title>HashiCorp - Terraform introduces workspaces and Stacks restore, and more</title>
       <link>https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more</link>
       <guid isPermaLink="true">https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:52 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:53 +0000</pubDate>
       <source url="https://www.hashicorp.com/blog/">HashiCorp</source>
       <category>HashiCorp</category>
+    </item>
+    <item>
+      <title>MIT AI News - Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83</title>
+      <link>https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</link>
+      <guid isPermaLink="true">https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:52 +0000</pubDate>
+      <source url="https://news.mit.edu/topic/artificial-intelligence2">MIT AI News</source>
+      <category>MIT AI News</category>
     </item>
     <item>
       <title>NVIDIA Developer - Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++</title>
@@ -975,10 +1095,18 @@
       <category>Antirez</category>
     </item>
     <item>
+      <title>Daniel Lemire - From Institutions to Individuals: the White House Report on Revitalizing U.S. Scientific Leadership</title>
+      <link>https://lemire.me/blog/2026/07/22/from-institutions-to-individuals-the-white-house-report-on-revitalizing-u-s-scientific-leadership/</link>
+      <guid isPermaLink="true">https://lemire.me/blog/2026/07/22/from-institutions-to-individuals-the-white-house-report-on-revitalizing-u-s-scientific-leadership/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:48 +0000</pubDate>
+      <source url="https://lemire.me/blog/">Daniel Lemire</source>
+      <category>Daniel Lemire</category>
+    </item>
+    <item>
       <title>Wix Engineering - Code Migrations Don&apos;t Have to Hurt. This is how switched from cross team manual work to an automatic infrastructure</title>
       <link>https://www.wix.engineering/post/how-wix-saved-650-developer-days-in-one-quarter-by-automating-code-migrations</link>
       <guid isPermaLink="true">https://www.wix.engineering/post/how-wix-saved-650-developer-days-in-one-quarter-by-automating-code-migrations</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:48 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:47 +0000</pubDate>
       <source url="https://www.wix.engineering/">Wix Engineering</source>
       <category>Wix Engineering</category>
     </item>
@@ -986,7 +1114,7 @@
       <title>Raymond Chen - Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:47 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:46 +0000</pubDate>
       <source url="https://blogs.msdn.microsoft.com/oldnewthing/">Raymond Chen</source>
       <category>Raymond Chen</category>
     </item>
@@ -994,7 +1122,7 @@
       <title>Real Python - Tool-Agnostic Python Lock Files With PEP 751 and pylock.toml</title>
       <link>https://realpython.com/python-lock-file-pylock-toml/</link>
       <guid isPermaLink="true">https://realpython.com/python-lock-file-pylock-toml/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:46 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:45 +0000</pubDate>
       <source url="https://realpython.com/blog/">Real Python</source>
       <category>Real Python</category>
     </item>
@@ -1002,7 +1130,7 @@
       <title>Codrops - Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow</title>
       <link>https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/</link>
       <guid isPermaLink="true">https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:45 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:44 +0000</pubDate>
       <source url="https://tympanus.net/codrops/">Codrops</source>
       <category>Codrops</category>
     </item>
@@ -1010,7 +1138,7 @@
       <title>Google DeepMind - Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
       <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:44 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:43 +0000</pubDate>
       <source url="https://deepmind.google/discover/blog/">Google DeepMind</source>
       <category>Google DeepMind</category>
     </item>
@@ -1018,7 +1146,7 @@
       <title>OpenAI - Building AI infrastructure with the Effingham County community</title>
       <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
       <guid isPermaLink="true">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:43 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:42 +0000</pubDate>
       <source url="https://openai.com/news/">OpenAI</source>
       <category>OpenAI</category>
     </item>
@@ -1026,7 +1154,7 @@
       <title>OpenAI - How news organizations are using AI to advance their vital missions</title>
       <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
       <guid isPermaLink="true">https://openai.com/index/how-news-organizations-are-using-ai</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:42 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:41 +0000</pubDate>
       <source url="https://openai.com/news/">OpenAI</source>
       <category>OpenAI</category>
     </item>
@@ -1034,7 +1162,7 @@
       <title>Blender - Remote Asset Libraries</title>
       <link>https://code.blender.org/2026/07/remote-asset-libraries/</link>
       <guid isPermaLink="true">https://code.blender.org/2026/07/remote-asset-libraries/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:41 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:40 +0000</pubDate>
       <source url="https://code.blender.org/">Blender</source>
       <category>Blender</category>
     </item>
@@ -1042,7 +1170,7 @@
       <title>Red Hat - Migration toolkit for applications 8.2: Modernize your applications and clusters</title>
       <link>https://developers.redhat.com/articles/2026/07/22/migration-toolkit-applications-8-2-modernize-your-applications</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/22/migration-toolkit-applications-8-2-modernize-your-applications</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:40 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:39 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -1050,17 +1178,9 @@
       <title>Atomic Object - Grep Is 10,000x Faster Than Your Eyeballs — But You Can Still See</title>
       <link>https://spin.atomicobject.com/grep-vs-eyeballs/</link>
       <guid isPermaLink="true">https://spin.atomicobject.com/grep-vs-eyeballs/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:39 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:38 +0000</pubDate>
       <source url="https://spin.atomicobject.com/">Atomic Object</source>
       <category>Atomic Object</category>
-    </item>
-    <item>
-      <title>Real Python - Learning Path: FastAPI: Python API Development With Light Speed</title>
-      <link>https://realpython.com/learning-paths/fastapi/</link>
-      <guid isPermaLink="true">https://realpython.com/learning-paths/fastapi/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:38 +0000</pubDate>
-      <source url="https://realpython.com/blog/">Real Python</source>
-      <category>Real Python</category>
     </item>
     <item>
       <title>Real Python - Quiz: Tool-Agnostic Python Lock Files With PEP 751 and pylock.toml</title>
@@ -1071,10 +1191,18 @@
       <category>Real Python</category>
     </item>
     <item>
+      <title>Real Python - Learning Path: FastAPI: Python API Development With Light Speed</title>
+      <link>https://realpython.com/learning-paths/fastapi/</link>
+      <guid isPermaLink="true">https://realpython.com/learning-paths/fastapi/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:36 +0000</pubDate>
+      <source url="https://realpython.com/blog/">Real Python</source>
+      <category>Real Python</category>
+    </item>
+    <item>
       <title>OpenAI - Advancing the next era of national science</title>
       <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
       <guid isPermaLink="true">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:36 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:35 +0000</pubDate>
       <source url="https://openai.com/news/">OpenAI</source>
       <category>OpenAI</category>
     </item>
@@ -1082,7 +1210,7 @@
       <title>HashiCorp - One service, many doors: Multi-port services in Consul</title>
       <link>https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul</link>
       <guid isPermaLink="true">https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:35 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:34 +0000</pubDate>
       <source url="https://www.hashicorp.com/blog/">HashiCorp</source>
       <category>HashiCorp</category>
     </item>
@@ -1090,7 +1218,7 @@
       <title>Red Hat - Stop chunking tables: How we built an agentic GraphRAG for financial disclosures with Docling</title>
       <link>https://developers.redhat.com/articles/2026/07/22/how-we-built-agentic-graphrag-financial-disclosures</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/22/how-we-built-agentic-graphrag-financial-disclosures</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:34 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:33 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -1098,7 +1226,7 @@
       <title>The Daily WTF - Classic WTF: Server Room Fans and More Fun</title>
       <link>https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun</link>
       <guid isPermaLink="true">https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:33 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:32 +0000</pubDate>
       <source url="http://thedailywtf.com/">The Daily WTF</source>
       <category>The Daily WTF</category>
     </item>
@@ -1106,17 +1234,9 @@
       <title>Helpshift - From Pass/Fail to Confidence Levels: The Evolution of QA in the AI Era</title>
       <link>https://medium.com/helpshift-engineering/from-pass-fail-to-confidence-levels-the-evolution-of-qa-in-the-ai-era-881d32a7ef93?source=rss----3229f31ca4f4---4</link>
       <guid isPermaLink="true">https://medium.com/helpshift-engineering/from-pass-fail-to-confidence-levels-the-evolution-of-qa-in-the-ai-era-881d32a7ef93?source=rss----3229f31ca4f4---4</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:32 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:31 +0000</pubDate>
       <source url="https://medium.com/helpshift-engineering/">Helpshift</source>
       <category>Helpshift</category>
-    </item>
-    <item>
-      <title>Gunnar Morling - A Fast Path for Fixed-Length Lists in Parquet</title>
-      <link>https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/</link>
-      <guid isPermaLink="true">https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:31 +0000</pubDate>
-      <source url="https://www.morling.dev/blog/">Gunnar Morling</source>
-      <category>Gunnar Morling</category>
     </item>
     <item>
       <title>OpenAI - Introducing OpenAI Presence</title>
@@ -1127,10 +1247,18 @@
       <category>OpenAI</category>
     </item>
     <item>
+      <title>Gunnar Morling - A Fast Path for Fixed-Length Lists in Parquet</title>
+      <link>https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/</link>
+      <guid isPermaLink="true">https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:29 +0000</pubDate>
+      <source url="https://www.morling.dev/blog/">Gunnar Morling</source>
+      <category>Gunnar Morling</category>
+    </item>
+    <item>
       <title>Red Hat - Push images to Quay without a password</title>
       <link>https://developers.redhat.com/articles/2026/07/22/push-images-to-quay-without-a-password</link>
       <guid isPermaLink="true">https://developers.redhat.com/articles/2026/07/22/push-images-to-quay-without-a-password</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:29 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:28 +0000</pubDate>
       <source url="https://developers.redhat.com/blog/">Red Hat</source>
       <category>Red Hat</category>
     </item>
@@ -1138,7 +1266,7 @@
       <title>Laravel - RouteKey Model Attribute in Laravel 13.21</title>
       <link>https://laravel-news.com/laravel-13-21-0?utm_medium=feed&amp;amp;utm_source=feedpress.me&amp;amp;utm_campaign=Feed%3A&amp;#43;laravelnews</link>
       <guid isPermaLink="true">https://laravel-news.com/laravel-13-21-0?utm_medium=feed&amp;amp;utm_source=feedpress.me&amp;amp;utm_campaign=Feed%3A&amp;#43;laravelnews</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:28 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:27 +0000</pubDate>
       <source url="https://laravel-news.com/blog/">Laravel</source>
       <category>Laravel</category>
     </item>
@@ -1146,49 +1274,41 @@
       <title>Canva Engineering - Session revocations at scale</title>
       <link>https://www.canva.dev/blog/engineering/session-revocations-at-scale/</link>
       <guid isPermaLink="true">https://www.canva.dev/blog/engineering/session-revocations-at-scale/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:27 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:26 +0000</pubDate>
       <source url="https://canvatechblog.com/">Canva Engineering</source>
       <category>Canva Engineering</category>
     </item>
     <item>
-      <title>Datadog Engineering - From zero to traces: Choosing the right APM instrumentation method for your stack</title>
-      <link>https://www.datadoghq.com/blog/choosing-apm-instrumentation/</link>
-      <guid isPermaLink="true">https://www.datadoghq.com/blog/choosing-apm-instrumentation/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:26 +0000</pubDate>
-      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
-      <category>Datadog Engineering</category>
-    </item>
-    <item>
-      <title>CodeName One - Port Support You Can Trace Back to a Green Test</title>
-      <link>https://www.codenameone.com/blog/tested-port-support/</link>
-      <guid isPermaLink="true">https://www.codenameone.com/blog/tested-port-support/</guid>
+      <title>Auth0 - How to Set Up a Flask App with Cursor and the Auth0 Plugin</title>
+      <link>https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/</link>
+      <guid isPermaLink="true">https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/</guid>
       <pubDate>Wed, 22 Jul 2026 23:59:25 +0000</pubDate>
-      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
-      <category>CodeName One</category>
+      <source url="https://auth0.com/blog/">Auth0</source>
+      <category>Auth0</category>
     </item>
     <item>
-      <title>Vercel - AI Gateway now supports streaming transcription</title>
-      <link>https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription</guid>
+      <title>OpenAI - NTT DATA Group cuts incident analysis to 30 minutes with Codex</title>
+      <link>https://openai.com/index/ntt-data</link>
+      <guid isPermaLink="true">https://openai.com/index/ntt-data</guid>
       <pubDate>Wed, 22 Jul 2026 23:59:24 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Datadog Engineering - Unbiased Java CPU profiling with JFR in JDK 25</title>
-      <link>https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/</link>
-      <guid isPermaLink="true">https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:23 +0000</pubDate>
-      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
-      <category>Datadog Engineering</category>
+      <source url="https://openai.com/news/">OpenAI</source>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>Pulumi - The Standalone ESC CLI Retired: Use pulumi env</title>
       <link>https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env/</link>
       <guid isPermaLink="true">https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:22 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:23 +0000</pubDate>
       <source url="https://www.pulumi.com/blog/">Pulumi</source>
       <category>Pulumi</category>
+    </item>
+    <item>
+      <title>Datadog Engineering - From zero to traces: Choosing the right APM instrumentation method for your stack</title>
+      <link>https://www.datadoghq.com/blog/choosing-apm-instrumentation/</link>
+      <guid isPermaLink="true">https://www.datadoghq.com/blog/choosing-apm-instrumentation/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:22 +0000</pubDate>
+      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
+      <category>Datadog Engineering</category>
     </item>
     <item>
       <title>Vercel - Extend eve agents with installable extensions</title>
@@ -1199,44 +1319,52 @@
       <category>Vercel</category>
     </item>
     <item>
-      <title>OpenAI - NTT DATA Group cuts incident analysis to 30 minutes with Codex</title>
-      <link>https://openai.com/index/ntt-data</link>
-      <guid isPermaLink="true">https://openai.com/index/ntt-data</guid>
+      <title>Vercel - AI Gateway now supports streaming transcription</title>
+      <link>https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription</guid>
       <pubDate>Wed, 22 Jul 2026 23:59:20 +0000</pubDate>
-      <source url="https://openai.com/news/">OpenAI</source>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Auth0 - How to Set Up a Flask App with Cursor and the Auth0 Plugin</title>
-      <link>https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/</link>
-      <guid isPermaLink="true">https://auth0.com/blog/set-up-flask-app-with-cursor-auth0-plugin/</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:19 +0000</pubDate>
-      <source url="https://auth0.com/blog/">Auth0</source>
-      <category>Auth0</category>
-    </item>
-    <item>
-      <title>Clickhouse - Benchmarking the ClickStack MCP Server with hdx-evals</title>
-      <link>https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:18 +0000</pubDate>
-      <source url="https://clickhouse.com/blog">Clickhouse</source>
-      <category>Clickhouse</category>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
     </item>
     <item>
       <title>Clickhouse - Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents</title>
       <link>https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack</link>
       <guid isPermaLink="true">https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:17 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:19 +0000</pubDate>
       <source url="https://clickhouse.com/blog">Clickhouse</source>
       <category>Clickhouse</category>
+    </item>
+    <item>
+      <title>Datadog Engineering - Unbiased Java CPU profiling with JFR in JDK 25</title>
+      <link>https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/</link>
+      <guid isPermaLink="true">https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:18 +0000</pubDate>
+      <source url="https://www.datadoghq.com/blog/engineering/">Datadog Engineering</source>
+      <category>Datadog Engineering</category>
     </item>
     <item>
       <title>Elastic - Elastic and Deductive AI join forces to accelerate agentic incident investigation for engineering teams</title>
       <link>https://www.elastic.co/blog/elastic-deductive-ai</link>
       <guid isPermaLink="true">https://www.elastic.co/blog/elastic-deductive-ai</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:16 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 23:59:17 +0000</pubDate>
       <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
       <category>Elastic</category>
+    </item>
+    <item>
+      <title>CodeName One - Port Support You Can Trace Back to a Green Test</title>
+      <link>https://www.codenameone.com/blog/tested-port-support/</link>
+      <guid isPermaLink="true">https://www.codenameone.com/blog/tested-port-support/</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:16 +0000</pubDate>
+      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
+      <category>CodeName One</category>
+    </item>
+    <item>
+      <title>Clickhouse - Benchmarking the ClickStack MCP Server with hdx-evals</title>
+      <link>https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:15 +0000</pubDate>
+      <source url="https://clickhouse.com/blog">Clickhouse</source>
+      <category>Clickhouse</category>
     </item>
     <item>
       <title>APNIC - Bringing APNIC closer to Members: SANOG to host next APNIC Sub-Regional Forum</title>
@@ -1255,17 +1383,17 @@
       <category>Databricks</category>
     </item>
     <item>
-      <title>Databricks - How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale</title>
-      <link>https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale</link>
-      <guid isPermaLink="true">https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale</guid>
+      <title>Databricks - Why R&amp;D Data Belongs in the Lakehouse - and Why Agents Need It There</title>
+      <link>https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there</link>
+      <guid isPermaLink="true">https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:57 +0000</pubDate>
       <source url="https://databricks.com/blog">Databricks</source>
       <category>Databricks</category>
     </item>
     <item>
-      <title>Databricks - Why R&amp;D Data Belongs in the Lakehouse - and Why Agents Need It There</title>
-      <link>https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there</link>
-      <guid isPermaLink="true">https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there</guid>
+      <title>Databricks - How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale</title>
+      <link>https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale</link>
+      <guid isPermaLink="true">https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:56 +0000</pubDate>
       <source url="https://databricks.com/blog">Databricks</source>
       <category>Databricks</category>
@@ -1352,8 +1480,8 @@
     </item>
     <item>
       <title>Google DeepMind - Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</title>
-      <link>https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/</guid>
+      <link>https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:45 +0000</pubDate>
       <source url="https://deepmind.google/discover/blog/">Google DeepMind</source>
       <category>Google DeepMind</category>
@@ -1367,20 +1495,20 @@
       <category>Jeffrey Zeldman</category>
     </item>
     <item>
-      <title>Raymond Chen - Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:43 +0000</pubDate>
-      <source url="https://blogs.msdn.microsoft.com/oldnewthing/">Raymond Chen</source>
-      <category>Raymond Chen</category>
-    </item>
-    <item>
       <title>Real Python - Exploring Python&apos;s Built-in Functions</title>
       <link>https://realpython.com/courses/exploring-pythons-built-in-functions/</link>
       <guid isPermaLink="true">https://realpython.com/courses/exploring-pythons-built-in-functions/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:42 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:59:43 +0000</pubDate>
       <source url="https://realpython.com/blog/">Real Python</source>
       <category>Real Python</category>
+    </item>
+    <item>
+      <title>Raymond Chen - Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:42 +0000</pubDate>
+      <source url="https://blogs.msdn.microsoft.com/oldnewthing/">Raymond Chen</source>
+      <category>Raymond Chen</category>
     </item>
     <item>
       <title>Martin Fowler - Fragments: July 21</title>
@@ -1479,20 +1607,20 @@
       <category>HashiCorp</category>
     </item>
     <item>
-      <title>OpenAI - OpenAI and Hugging Face partner to address security incident during model evaluation</title>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
-      <guid isPermaLink="true">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:29 +0000</pubDate>
-      <source url="https://openai.com/news/">OpenAI</source>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Nordic APIs - 5 Signs That Authenticated API Traffic Is Actually Malicious</title>
       <link>https://nordicapis.com/5-signs-that-authenticated-api-traffic-is-actually-malicious/</link>
       <guid isPermaLink="true">https://nordicapis.com/5-signs-that-authenticated-api-traffic-is-actually-malicious/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:28 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:59:29 +0000</pubDate>
       <source url="https://nordicapis.com/blog/">Nordic APIs</source>
       <category>Nordic APIs</category>
+    </item>
+    <item>
+      <title>OpenAI - OpenAI and Hugging Face partner to address security incident during model evaluation</title>
+      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
+      <guid isPermaLink="true">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:28 +0000</pubDate>
+      <source url="https://openai.com/news/">OpenAI</source>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>The Daily WTF - CodeSOD: Classic WTF: Fork and Log</title>
@@ -1503,17 +1631,17 @@
       <category>The Daily WTF</category>
     </item>
     <item>
-      <title>Vercel - Introducing the new Vercel Agent</title>
-      <link>https://vercel.com/blog/vercel-agent</link>
-      <guid isPermaLink="true">https://vercel.com/blog/vercel-agent</guid>
+      <title>Vercel - How Searchable ships customer-requested features in 30 minutes on Vercel</title>
+      <link>https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel</link>
+      <guid isPermaLink="true">https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:26 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
     <item>
-      <title>Vercel - How Searchable ships customer-requested features in 30 minutes on Vercel</title>
-      <link>https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel</link>
-      <guid isPermaLink="true">https://vercel.com/blog/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel</guid>
+      <title>Vercel - Introducing the new Vercel Agent</title>
+      <link>https://vercel.com/blog/vercel-agent</link>
+      <guid isPermaLink="true">https://vercel.com/blog/vercel-agent</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:25 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
@@ -1543,26 +1671,178 @@
       <category>DigitalOcean</category>
     </item>
     <item>
-      <title>Elastic - Elastic Stack 9.4.4 released</title>
-      <link>https://www.elastic.co/blog/elastic-stack-9-4-4-released</link>
-      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-4-4-released</guid>
+      <title>Hugging Face - Grabette: an open system to record robot-manipulation data</title>
+      <link>https://huggingface.co/blog/grabette</link>
+      <guid isPermaLink="true">https://huggingface.co/blog/grabette</guid>
       <pubDate>Tue, 21 Jul 2026 23:59:21 +0000</pubDate>
+      <source url="https://huggingface.co/blog">Hugging Face</source>
+      <category>Hugging Face</category>
+    </item>
+    <item>
+      <title>Vercel - Vercel MCP now supports purchases</title>
+      <link>https://vercel.com/changelog/vercel-mcp-now-supports-purchases</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/vercel-mcp-now-supports-purchases</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:20 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>OpenAI - David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC</title>
+      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
+      <guid isPermaLink="true">https://openai.com/index/david-velez-robin-vince-join-openai-boards</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:19 +0000</pubDate>
+      <source url="https://openai.com/news/">OpenAI</source>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Evil Martians - Which AI actually reads your site? Two months of LLM traffic, measured</title>
+      <link>https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured</link>
+      <guid isPermaLink="true">https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:18 +0000</pubDate>
+      <source url="https://evilmartians.com/chronicles/">Evil Martians</source>
+      <category>Evil Martians</category>
+    </item>
+    <item>
+      <title>Elastic - Elastic Stack 8.19.19 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-8-19-19-released</link>
+      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-8-19-19-released</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:17 +0000</pubDate>
       <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
       <category>Elastic</category>
     </item>
     <item>
-      <title>Hugging Face - Grabette: an open system to record robot-manipulation data</title>
-      <link>https://huggingface.co/blog/grabette</link>
-      <guid isPermaLink="true">https://huggingface.co/blog/grabette</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:20 +0000</pubDate>
-      <source url="https://huggingface.co/blog">Hugging Face</source>
-      <category>Hugging Face</category>
+      <title>Elastic - Elastic Stack 9.3.8 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-9-3-8-released</link>
+      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-3-8-released</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:16 +0000</pubDate>
+      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
+      <category>Elastic</category>
+    </item>
+    <item>
+      <title>Clickhouse - ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club</title>
+      <link>https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:15 +0000</pubDate>
+      <source url="https://clickhouse.com/blog">Clickhouse</source>
+      <category>Clickhouse</category>
+    </item>
+    <item>
+      <title>Teleport - Identity Security for AI</title>
+      <link>https://goteleport.com/blog/identity-security-for-ai/</link>
+      <guid isPermaLink="true">https://goteleport.com/blog/identity-security-for-ai/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:14 +0000</pubDate>
+      <source url="https://goteleport.com/blog/">Teleport</source>
+      <category>Teleport</category>
+    </item>
+    <item>
+      <title>Elastic - Higher education analytics for the ultra-intelligent university</title>
+      <link>https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university</link>
+      <guid isPermaLink="true">https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:13 +0000</pubDate>
+      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
+      <category>Elastic</category>
+    </item>
+    <item>
+      <title>Clickhouse - PostgresBench: Measuring the impact of High Availability on Managed Postgres performance</title>
+      <link>https://clickhouse.com/blog/postgresbench-ha</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench-ha</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:12 +0000</pubDate>
+      <source url="https://clickhouse.com/blog">Clickhouse</source>
+      <category>Clickhouse</category>
+    </item>
+    <item>
+      <title>Clickhouse - Migrate Datadog telemetry with the OpenTelemetry Collector</title>
+      <link>https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:11 +0000</pubDate>
+      <source url="https://clickhouse.com/blog">Clickhouse</source>
+      <category>Clickhouse</category>
+    </item>
+    <item>
+      <title>Jonathan Snook - They Don’t Need to Go On Forever</title>
+      <link>https://snook.ca/everything/they-dont-need-to-go-on-forever/</link>
+      <guid isPermaLink="true">https://snook.ca/everything/they-dont-need-to-go-on-forever/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:10 +0000</pubDate>
+      <source url="https://snook.ca/">Jonathan Snook</source>
+      <category>Jonathan Snook</category>
+    </item>
+    <item>
+      <title>Elastic - Elastic Stack 9.4.4 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-9-4-4-released</link>
+      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-4-4-released</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:09 +0000</pubDate>
+      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
+      <category>Elastic</category>
+    </item>
+    <item>
+      <title>Elastic - Elastic Stack 9.4.3 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-9-4-3-released</link>
+      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-4-3-released</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:08 +0000</pubDate>
+      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
+      <category>Elastic</category>
+    </item>
+    <item>
+      <title>Stripe - Analyzing the evidence that helps businesses win “product not received” disputes</title>
+      <link>https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</link>
+      <guid isPermaLink="true">https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:07 +0000</pubDate>
+      <source url="https://stripe.com/blog">Stripe</source>
+      <category>Stripe</category>
+    </item>
+    <item>
+      <title>Vercel - Python function bundles now include precompiled bytecode</title>
+      <link>https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:06 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>Vercel - Vercel Connect adds 100+ preset connectors</title>
+      <link>https://vercel.com/changelog/vercel-connect-preset-connectors</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/vercel-connect-preset-connectors</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:05 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>CodeName One - Your Codename One App Can Be an MCP Server</title>
+      <link>https://www.codenameone.com/blog/codename-one-mcp-server/</link>
+      <guid isPermaLink="true">https://www.codenameone.com/blog/codename-one-mcp-server/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:04 +0000</pubDate>
+      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
+      <category>CodeName One</category>
+    </item>
+    <item>
+      <title>Swizec Teller - swizec.com is now on TimberJS, a new React framework</title>
+      <link>https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework</link>
+      <guid isPermaLink="true">https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:03 +0000</pubDate>
+      <source url="https://swizec.com/blog/">Swizec Teller</source>
+      <category>Swizec Teller</category>
+    </item>
+    <item>
+      <title>Vercel - Laguna S 2.1 is now available on AI Gateway</title>
+      <link>https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:02 +0000</pubDate>
+      <source url="https://vercel.com/blog">Vercel</source>
+      <category>Vercel</category>
+    </item>
+    <item>
+      <title>Julia Evans - Some more things about Django I&apos;ve been enjoying</title>
+      <link>https://jvns.ca/blog/2026/07/21/more-nice-django-things/</link>
+      <guid isPermaLink="true">https://jvns.ca/blog/2026/07/21/more-nice-django-things/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:59:01 +0000</pubDate>
+      <source url="https://jvns.ca/">Julia Evans</source>
+      <category>Julia Evans</category>
     </item>
     <item>
       <title>Vercel - Gemini 3.6 Flash and Gemini 3.5 Flash-Lite are now available on AI Gateway</title>
       <link>https://vercel.com/changelog/gemini-3-6-flash-3-5-flash-lite-on-ai-gateway</link>
       <guid isPermaLink="true">https://vercel.com/changelog/gemini-3-6-flash-3-5-flash-lite-on-ai-gateway</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:19 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -1570,47 +1850,7 @@
       <title>Vercel - Service tiers now available on AI Gateway</title>
       <link>https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway</link>
       <guid isPermaLink="true">https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:18 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Stripe - Analyzing the evidence that helps businesses win “product not received” disputes</title>
-      <link>https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</link>
-      <guid isPermaLink="true">https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:17 +0000</pubDate>
-      <source url="https://stripe.com/blog">Stripe</source>
-      <category>Stripe</category>
-    </item>
-    <item>
-      <title>Evil Martians - Which AI actually reads your site? Two months of LLM traffic, measured</title>
-      <link>https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured</link>
-      <guid isPermaLink="true">https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:16 +0000</pubDate>
-      <source url="https://evilmartians.com/chronicles/">Evil Martians</source>
-      <category>Evil Martians</category>
-    </item>
-    <item>
-      <title>Jonathan Snook - They Don’t Need to Go On Forever</title>
-      <link>https://snook.ca/everything/they-dont-need-to-go-on-forever/</link>
-      <guid isPermaLink="true">https://snook.ca/everything/they-dont-need-to-go-on-forever/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:15 +0000</pubDate>
-      <source url="https://snook.ca/">Jonathan Snook</source>
-      <category>Jonathan Snook</category>
-    </item>
-    <item>
-      <title>CodeName One - Your Codename One App Can Be an MCP Server</title>
-      <link>https://www.codenameone.com/blog/codename-one-mcp-server/</link>
-      <guid isPermaLink="true">https://www.codenameone.com/blog/codename-one-mcp-server/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:14 +0000</pubDate>
-      <source url="http://www.codenameone.com/blog.html">CodeName One</source>
-      <category>CodeName One</category>
-    </item>
-    <item>
-      <title>Vercel - Vercel Connect adds 100+ preset connectors</title>
-      <link>https://vercel.com/changelog/vercel-connect-preset-connectors</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/vercel-connect-preset-connectors</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:13 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
       <source url="https://vercel.com/blog">Vercel</source>
       <category>Vercel</category>
     </item>
@@ -1618,121 +1858,9 @@
       <title>Pulumi - Kubernetes Agent Sandbox: What It Is and How to Deploy It with Pulumi</title>
       <link>https://www.pulumi.com/blog/kubernetes-agent-sandbox/</link>
       <guid isPermaLink="true">https://www.pulumi.com/blog/kubernetes-agent-sandbox/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:12 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
       <source url="https://www.pulumi.com/blog/">Pulumi</source>
       <category>Pulumi</category>
-    </item>
-    <item>
-      <title>OpenAI - David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC</title>
-      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
-      <guid isPermaLink="true">https://openai.com/index/david-velez-robin-vince-join-openai-boards</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:11 +0000</pubDate>
-      <source url="https://openai.com/news/">OpenAI</source>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Teleport - Identity Security for AI</title>
-      <link>https://goteleport.com/blog/identity-security-for-ai/</link>
-      <guid isPermaLink="true">https://goteleport.com/blog/identity-security-for-ai/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:10 +0000</pubDate>
-      <source url="https://goteleport.com/blog/">Teleport</source>
-      <category>Teleport</category>
-    </item>
-    <item>
-      <title>Vercel - Python function bundles now include precompiled bytecode</title>
-      <link>https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/python-function-bundles-now-include-precompiled-bytecode</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:09 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Clickhouse - PostgresBench: Measuring the impact of High Availability on Managed Postgres performance</title>
-      <link>https://clickhouse.com/blog/postgresbench-ha</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench-ha</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:08 +0000</pubDate>
-      <source url="https://clickhouse.com/blog">Clickhouse</source>
-      <category>Clickhouse</category>
-    </item>
-    <item>
-      <title>Clickhouse - ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club</title>
-      <link>https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:07 +0000</pubDate>
-      <source url="https://clickhouse.com/blog">Clickhouse</source>
-      <category>Clickhouse</category>
-    </item>
-    <item>
-      <title>Elastic - Higher education analytics for the ultra-intelligent university</title>
-      <link>https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university</link>
-      <guid isPermaLink="true">https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:06 +0000</pubDate>
-      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
-      <category>Elastic</category>
-    </item>
-    <item>
-      <title>Julia Evans - Some more things about Django I&apos;ve been enjoying</title>
-      <link>https://jvns.ca/blog/2026/07/21/more-nice-django-things/</link>
-      <guid isPermaLink="true">https://jvns.ca/blog/2026/07/21/more-nice-django-things/</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:05 +0000</pubDate>
-      <source url="https://jvns.ca/">Julia Evans</source>
-      <category>Julia Evans</category>
-    </item>
-    <item>
-      <title>Elastic - Elastic Stack 9.4.3 released</title>
-      <link>https://www.elastic.co/blog/elastic-stack-9-4-3-released</link>
-      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-4-3-released</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:04 +0000</pubDate>
-      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
-      <category>Elastic</category>
-    </item>
-    <item>
-      <title>Vercel - Vercel MCP now supports purchases</title>
-      <link>https://vercel.com/changelog/vercel-mcp-now-supports-purchases</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/vercel-mcp-now-supports-purchases</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:03 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Swizec Teller - swizec.com is now on TimberJS, a new React framework</title>
-      <link>https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework</link>
-      <guid isPermaLink="true">https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:02 +0000</pubDate>
-      <source url="https://swizec.com/blog/">Swizec Teller</source>
-      <category>Swizec Teller</category>
-    </item>
-    <item>
-      <title>Clickhouse - Migrate Datadog telemetry with the OpenTelemetry Collector</title>
-      <link>https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:01 +0000</pubDate>
-      <source url="https://clickhouse.com/blog">Clickhouse</source>
-      <category>Clickhouse</category>
-    </item>
-    <item>
-      <title>Vercel - Laguna S 2.1 is now available on AI Gateway</title>
-      <link>https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway</link>
-      <guid isPermaLink="true">https://vercel.com/changelog/laguna-s-2-1-is-now-available-on-ai-gateway</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
-      <source url="https://vercel.com/blog">Vercel</source>
-      <category>Vercel</category>
-    </item>
-    <item>
-      <title>Elastic - Elastic Stack 9.3.8 released</title>
-      <link>https://www.elastic.co/blog/elastic-stack-9-3-8-released</link>
-      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-9-3-8-released</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
-      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
-      <category>Elastic</category>
-    </item>
-    <item>
-      <title>Elastic - Elastic Stack 8.19.19 released</title>
-      <link>https://www.elastic.co/blog/elastic-stack-8-19-19-released</link>
-      <guid isPermaLink="true">https://www.elastic.co/blog/elastic-stack-8-19-19-released</guid>
-      <pubDate>Tue, 21 Jul 2026 23:59:00 +0000</pubDate>
-      <source url="https://www.elastic.co/blog/category/engineering">Elastic</source>
-      <category>Elastic</category>
     </item>
     <item>
       <title>SurveyMonkey - CNBC and SurveyMonkey Quarterly Money Survey: Affordability (July 2026)</title>
@@ -1805,62 +1933,6 @@
       <pubDate>Mon, 20 Jul 2026 23:59:51 +0000</pubDate>
       <source url="https://aws.amazon.com/blogs/aws/">AWS</source>
       <category>AWS</category>
-    </item>
-    <item>
-      <title>NVIDIA Developer - NVIDIA NVLink: The Scale-Up Network for AI Factories</title>
-      <link>https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/</link>
-      <guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:50 +0000</pubDate>
-      <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
-      <category>NVIDIA Developer</category>
-    </item>
-    <item>
-      <title>Dropbox - How our universal content processing platform Riviera evolved for AI and beyond</title>
-      <link>https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond</link>
-      <guid isPermaLink="true">https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:49 +0000</pubDate>
-      <source url="https://blogs.dropbox.com/tech/">Dropbox</source>
-      <category>Dropbox</category>
-    </item>
-    <item>
-      <title>NVIDIA Developer - Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps</title>
-      <link>https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/</link>
-      <guid isPermaLink="true">https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:48 +0000</pubDate>
-      <source url="https://developer.nvidia.com/blog/">NVIDIA Developer</source>
-      <category>NVIDIA Developer</category>
-    </item>
-    <item>
-      <title>Real Python - Using NumPy reshape() to Change the Shape of an Array</title>
-      <link>https://realpython.com/numpy-reshape/</link>
-      <guid isPermaLink="true">https://realpython.com/numpy-reshape/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:47 +0000</pubDate>
-      <source url="https://realpython.com/blog/">Real Python</source>
-      <category>Real Python</category>
-    </item>
-    <item>
-      <title>Raymond Chen - Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:46 +0000</pubDate>
-      <source url="https://blogs.msdn.microsoft.com/oldnewthing/">Raymond Chen</source>
-      <category>Raymond Chen</category>
-    </item>
-    <item>
-      <title>Atomic Object - Here’s How We’re Using AI Analysis in Developer Tooling</title>
-      <link>https://spin.atomicobject.com/ai-analysis-developer-tooling/</link>
-      <guid isPermaLink="true">https://spin.atomicobject.com/ai-analysis-developer-tooling/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:45 +0000</pubDate>
-      <source url="https://spin.atomicobject.com/">Atomic Object</source>
-      <category>Atomic Object</category>
-    </item>
-    <item>
-      <title>Real Python - Quiz: Using NumPy reshape() to Change the Shape of an Array</title>
-      <link>https://realpython.com/quizzes/numpy-reshape/</link>
-      <guid isPermaLink="true">https://realpython.com/quizzes/numpy-reshape/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:59:44 +0000</pubDate>
-      <source url="https://realpython.com/blog/">Real Python</source>
-      <category>Real Python</category>
     </item>
   </channel>
 </rss>

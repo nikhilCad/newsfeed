@@ -4,8 +4,16 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:00:37 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : delhi - Are IT Cells overworking ?</title>
+      <link>https://old.reddit.com/r/delhi/comments/1v7xxey/are_it_cells_overworking/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v7xxey/are_it_cells_overworking/</guid>
+      <pubDate>Mon, 27 Jul 2026 11:41:38 +0000</pubDate>
+      <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
+      <category>top scoring links : delhi</category>
+    </item>
     <item>
       <title>top scoring links : LifeProTips - LPT what&apos;s one piece of life advice you&apos;d give someone in their 20s?</title>
       <link>https://old.reddit.com/r/LifeProTips/comments/1v7x2ri/lpt_whats_one_piece_of_life_advice_youd_give/</link>
@@ -159,6 +167,14 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
+      <title>top scoring links : delhi - How my life has changed after the protests.</title>
+      <link>https://old.reddit.com/r/delhi/comments/1v7bjm8/how_my_life_has_changed_after_the_protests/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v7bjm8/how_my_life_has_changed_after_the_protests/</guid>
+      <pubDate>Sun, 26 Jul 2026 18:15:44 +0000</pubDate>
+      <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
+      <category>top scoring links : delhi</category>
+    </item>
+    <item>
       <title>top scoring links : AskIndia - Do you think modi can win next lok sabha election?</title>
       <link>https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</guid>
@@ -175,28 +191,12 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
-      <title>top scoring links : delhi - Junaid, who was distributing food to students at Jantar Mantar, was picked up by Delhi Police on the night of July 24 and taken to Uttarakhand. He was kept blindfolded the entire night. The next morning, an officer asked Junaid where the funding comes from?</title>
-      <link>https://old.reddit.com/r/delhi/comments/1v79acz/junaid_who_was_distributing_food_to_students_at/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v79acz/junaid_who_was_distributing_food_to_students_at/</guid>
-      <pubDate>Sun, 26 Jul 2026 16:53:07 +0000</pubDate>
-      <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
-      <category>top scoring links : delhi</category>
-    </item>
-    <item>
       <title>top scoring links : ProgrammerHumor - refactorCode</title>
       <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v78up9/refactorcode/</guid>
       <pubDate>Sun, 26 Jul 2026 16:37:17 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
-      <title>top scoring links : delhi - It cell has successfully planted the time bomb</title>
-      <link>https://old.reddit.com/r/delhi/comments/1v77664/it_cell_has_successfully_planted_the_time_bomb/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v77664/it_cell_has_successfully_planted_the_time_bomb/</guid>
-      <pubDate>Sun, 26 Jul 2026 15:35:24 +0000</pubDate>
-      <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
-      <category>top scoring links : delhi</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - Reused Blinkit bag as giftwrap for a book</title>
