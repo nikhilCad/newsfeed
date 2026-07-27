@@ -3,14 +3,8 @@
   "feeds": {
     "top scoring links : AskIndia": {
       "source_url": "https://old.reddit.com/r/AskIndia/top.rss?limit=5",
-      "fetched_at": "2026-07-27T12:54:22.079323+00:00",
+      "fetched_at": "2026-07-27T18:30:28.132328+00:00",
       "items": [
-        {
-          "title": "Do you think modi can win next lok sabha election?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/",
-          "author": "/u/Vanilla-28",
-          "published": "2026-07-26T18:05:44+00:00"
-        },
         {
           "title": "Why are people against reservation not asking for a caste survey?",
           "link": "https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/",
@@ -18,22 +12,28 @@
           "published": "2026-07-26T19:24:03+00:00"
         },
         {
-          "title": "Has BJP & RSS built an electoral machine no party can realistically match?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v79n5a/has_bjp_rss_built_an_electoral_machine_no_party/",
-          "author": "/u/The_Fantastic-Beast",
-          "published": "2026-07-26T17:05:45+00:00"
+          "title": "why does indian government always wants the people divided and never united?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/",
+          "author": "/u/freaky_jupiter",
+          "published": "2026-07-27T13:08:34+00:00"
         },
         {
-          "title": "Which India-based subreddit do you dislike the most?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v7w160/which_indiabased_subreddit_do_you_dislike_the_most/",
-          "author": "/u/ConstructionOdd1138",
-          "published": "2026-07-27T10:03:41+00:00"
+          "title": "Is having normal functional family in india is a privilege?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v7xu7b/is_having_normal_functional_family_in_india_is_a/",
+          "author": "/u/Remote-Pension-8262",
+          "published": "2026-07-27T11:37:11+00:00"
         },
         {
-          "title": "why are ministers reused in different domains?",
-          "link": "https://old.reddit.com/r/AskIndia/comments/1v74sfq/why_are_ministers_reused_in_different_domains/",
-          "author": "/u/pinataass",
-          "published": "2026-07-26T14:04:07+00:00"
+          "title": "Is the BJP in trouble after whole education mess?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v7nvme/is_the_bjp_in_trouble_after_whole_education_mess/",
+          "author": "/u/aripat30",
+          "published": "2026-07-27T02:40:10+00:00"
+        },
+        {
+          "title": "how old are you , any hope to see a developed india ?",
+          "link": "https://old.reddit.com/r/AskIndia/comments/1v82czy/how_old_are_you_any_hope_to_see_a_developed_india/",
+          "author": "/u/INDIA-DELI",
+          "published": "2026-07-27T14:41:50+00:00"
         }
       ]
     },

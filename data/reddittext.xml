@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:30:28 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -23,6 +23,14 @@
       <category>top scoring links : Android</category>
     </item>
     <item>
+      <title>top scoring links : AskIndia - how old are you , any hope to see a developed india ?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v82czy/how_old_are_you_any_hope_to_see_a_developed_india/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v82czy/how_old_are_you_any_hope_to_see_a_developed_india/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:41:50 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
       <title>top scoring links : Android - Storage upgrades cost too much, and we need microSD cards back</title>
       <link>https://old.reddit.com/r/Android/comments/1v81ek8/storage_upgrades_cost_too_much_and_we_need/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v81ek8/storage_upgrades_cost_too_much_and_we_need/</guid>
@@ -39,12 +47,28 @@
       <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
+      <title>top scoring links : AskIndia - why does indian government always wants the people divided and never united?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</guid>
+      <pubDate>Mon, 27 Jul 2026 13:08:34 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
       <title>top scoring links : delhi - Are IT Cells overworking ?</title>
       <link>https://old.reddit.com/r/delhi/comments/1v7xxey/are_it_cells_overworking/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/delhi/comments/1v7xxey/are_it_cells_overworking/</guid>
       <pubDate>Mon, 27 Jul 2026 11:41:38 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - Is having normal functional family in india is a privilege?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7xu7b/is_having_normal_functional_family_in_india_is_a/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7xu7b/is_having_normal_functional_family_in_india_is_a/</guid>
+      <pubDate>Mon, 27 Jul 2026 11:37:11 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : hopeposting - SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️</title>
@@ -61,14 +85,6 @@
       <pubDate>Mon, 27 Jul 2026 10:08:47 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Which India-based subreddit do you dislike the most?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7w160/which_indiabased_subreddit_do_you_dislike_the_most/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7w160/which_indiabased_subreddit_do_you_dislike_the_most/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:03:41 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : LifeProTips - LPT: Say &quot;How are you doing? Or&quot; great to see you&quot; instead of &quot;nice to meet you&quot;</title>
@@ -159,6 +175,14 @@
       <category>top scoring links : malelivingspace</category>
     </item>
     <item>
+      <title>top scoring links : AskIndia - Is the BJP in trouble after whole education mess?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v7nvme/is_the_bjp_in_trouble_after_whole_education_mess/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7nvme/is_the_bjp_in_trouble_after_whole_education_mess/</guid>
+      <pubDate>Mon, 27 Jul 2026 02:40:10 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
       <title>top scoring links : LifeProTips - LPT: Android users who use Facebook, delete the official app and install a chrome shortcut in its place to save 5-8gb on your device</title>
       <link>https://old.reddit.com/r/LifeProTips/comments/1v7hf89/lpt_android_users_who_use_facebook_delete_the/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/LifeProTips/comments/1v7hf89/lpt_android_users_who_use_facebook_delete_the/</guid>
@@ -191,22 +215,6 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
-      <title>top scoring links : AskIndia - Do you think modi can win next lok sabha election?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7b9ol/do_you_think_modi_can_win_next_lok_sabha_election/</guid>
-      <pubDate>Sun, 26 Jul 2026 18:05:44 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Has BJP &amp; RSS built an electoral machine no party can realistically match?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v79n5a/has_bjp_rss_built_an_electoral_machine_no_party/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v79n5a/has_bjp_rss_built_an_electoral_machine_no_party/</guid>
-      <pubDate>Sun, 26 Jul 2026 17:05:45 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
       <title>top scoring links : Frugal_Ind - Reused Blinkit bag as giftwrap for a book</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v767a6/reused_blinkit_bag_as_giftwrap_for_a_book/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v767a6/reused_blinkit_bag_as_giftwrap_for_a_book/</guid>
@@ -229,14 +237,6 @@
       <pubDate>Sun, 26 Jul 2026 14:42:49 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - why are ministers reused in different domains?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v74sfq/why_are_ministers_reused_in_different_domains/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v74sfq/why_are_ministers_reused_in_different_domains/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:04:07 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - The quality and color of Jockey T-shirts.</title>
