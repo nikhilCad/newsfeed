@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 12:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:27:25 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - BJP Propaganda will run at full speed against CJP for a few months</title>
@@ -21,6 +21,14 @@
       <pubDate>Mon, 27 Jul 2026 07:17:29 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : FIRE_Ind - Boo!?</title>
+      <link>https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</guid>
+      <pubDate>Mon, 27 Jul 2026 04:29:26 +0000</pubDate>
+      <source url="https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1">top scoring links : FIRE_Ind</source>
+      <category>top scoring links : FIRE_Ind</category>
     </item>
     <item>
       <title>top scoring links : delhi - Bjp govt started crackdown</title>
