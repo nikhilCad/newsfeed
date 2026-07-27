@@ -81,19 +81,13 @@
     },
     "top scoring links : LeetcodeDesi": {
       "source_url": "https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&limit=5",
-      "fetched_at": "2026-07-27T12:50:46.190522+00:00",
+      "fetched_at": "2026-07-27T18:28:16.454570+00:00",
       "items": [
         {
           "title": "Any more contests like GRiD",
           "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v7p648/any_more_contests_like_grid/",
           "author": "/u/padhne_wala_londa",
           "published": "2026-07-27T03:43:00+00:00"
-        },
-        {
-          "title": "Looking for Striver A2Z DSA Course",
-          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/",
-          "author": "/u/Minute-Appearance397",
-          "published": "2026-07-26T16:26:10+00:00"
         },
         {
           "title": "Problem of Clearing OA in Interview Process - Need Guidance/Advice 🥲",
@@ -108,10 +102,16 @@
           "published": "2026-07-26T18:48:44+00:00"
         },
         {
-          "title": "Is it worth doing one \"OA exposure\" problem every day while focusing on one DSA topic?",
-          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v75l7i/is_it_worth_doing_one_oa_exposure_problem_every/",
-          "author": "/u/anotheruniverse_7",
-          "published": "2026-07-26T14:35:14+00:00"
+          "title": "Google Initial Screen call – What should I expect?",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v7wowr/google_initial_screen_call_what_should_i_expect/",
+          "author": "/u/3not-today",
+          "published": "2026-07-27T10:39:29+00:00"
+        },
+        {
+          "title": "Too many questions",
+          "link": "https://old.reddit.com/r/LeetcodeDesi/comments/1v82hxz/too_many_questions/",
+          "author": "/u/LingonberrySafe3521",
+          "published": "2026-07-27T14:46:46+00:00"
         }
       ]
     }

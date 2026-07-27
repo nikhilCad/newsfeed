@@ -4,8 +4,16 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:28:16 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Too many questions</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v82hxz/too_many_questions/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v82hxz/too_many_questions/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:46:46 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
+    </item>
     <item>
       <title>top scoring links : developersIndia - I resigned for my campus offer. It was withdrawn 15 days later.</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v7z60g/i_resigned_for_my_campus_offer_it_was_withdrawn/</link>
@@ -29,6 +37,14 @@
       <pubDate>Mon, 27 Jul 2026 11:19:36 +0000</pubDate>
       <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
       <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Google Initial Screen call – What should I expect?</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7wowr/google_initial_screen_call_what_should_i_expect/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7wowr/google_initial_screen_call_what_should_i_expect/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:39:29 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - Working on contract for 8 years under 3.6 LPA, confused as to what to do next</title>
@@ -117,22 +133,6 @@
       <pubDate>Sun, 26 Jul 2026 18:22:56 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Looking for Striver A2Z DSA Course</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v78k40/looking_for_striver_a2z_dsa_course/</guid>
-      <pubDate>Sun, 26 Jul 2026 16:26:10 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Is it worth doing one &quot;OA exposure&quot; problem every day while focusing on one DSA topic?</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v75l7i/is_it_worth_doing_one_oa_exposure_problem_every/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v75l7i/is_it_worth_doing_one_oa_exposure_problem_every/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:35:14 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
     </item>
   </channel>
 </rss>
