@@ -135,15 +135,8 @@
     },
     "top scoring links : FIRE_Ind": {
       "source_url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
-      "fetched_at": "2026-07-27T18:03:08.450322+00:00",
-      "items": [
-        {
-          "title": "Boo!?",
-          "link": "https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/",
-          "author": "/u/BachelorPython",
-          "published": "2026-07-27T04:29:26+00:00"
-        }
-      ]
+      "fetched_at": "2026-07-28T12:45:54.365832+00:00",
+      "items": []
     },
     "top scoring links : hopeposting": {
       "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",

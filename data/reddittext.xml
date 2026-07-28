@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 12:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:45:54 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Nithin gadkari in panic mode</title>
@@ -205,14 +205,6 @@
       <pubDate>Mon, 27 Jul 2026 05:48:40 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : FIRE_Ind - Boo!?</title>
-      <link>https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/FIRE_Ind/comments/1v7q3n2/boo/</guid>
-      <pubDate>Mon, 27 Jul 2026 04:29:26 +0000</pubDate>
-      <source url="https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1">top scoring links : FIRE_Ind</source>
-      <category>top scoring links : FIRE_Ind</category>
     </item>
     <item>
       <title>top scoring links : LifeProTips - LPT Check your thermostat batteries!</title>
