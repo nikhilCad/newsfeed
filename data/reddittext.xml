@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 12:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:49:24 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Nithin gadkari in panic mode</title>
@@ -21,6 +21,14 @@
       <pubDate>Tue, 28 Jul 2026 02:27:53 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : hopeposting - Wisdom.</title>
+      <link>https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:00:35 +0000</pubDate>
+      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
+      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 27 Jul 2026 11:37:11 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
       <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : hopeposting - SCREAM IF YOU LOVE IMMUNE SYSTEM 🦠⚔️</title>
-      <link>https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v7wzp0/scream_if_you_love_immune_system/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:55:10 +0000</pubDate>
-      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
-      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : ProgrammerHumor - migrationInProgress</title>
