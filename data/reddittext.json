@@ -236,7 +236,7 @@
     },
     "top scoring links : Android": {
       "source_url": "https://old.reddit.com/r/android/top.rss?limit=3",
-      "fetched_at": "2026-07-27T18:18:16.347530+00:00",
+      "fetched_at": "2026-07-28T12:59:17.261477+00:00",
       "items": [
         {
           "title": "Storage upgrades cost too much, and we need microSD cards back",
@@ -251,10 +251,10 @@
           "published": "2026-07-27T14:46:32+00:00"
         },
         {
-          "title": "Vivo X300 E is official with Zeiss-backed triple-rear cameras, Snapdragon 8 Gen 5 SoC",
-          "link": "https://old.reddit.com/r/Android/comments/1v7rlpt/vivo_x300_e_is_official_with_zeissbacked/",
-          "author": "/u/ControlCAD",
-          "published": "2026-07-27T05:48:40+00:00"
+          "title": "Samsung gives its newest Galaxy Watches longer software support [5 OS updates, up from 4]",
+          "link": "https://old.reddit.com/r/Android/comments/1v8enag/samsung_gives_its_newest_galaxy_watches_longer/",
+          "author": "/u/FragmentedChicken",
+          "published": "2026-07-27T21:58:14+00:00"
         }
       ]
     }
