@@ -57,25 +57,25 @@
     },
     "top scoring links : ExperiencedDevs": {
       "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
-      "fetched_at": "2026-07-27T18:24:28.483151+00:00",
+      "fetched_at": "2026-07-28T13:07:23.321399+00:00",
       "items": [
         {
-          "title": "What’s a single piece of advice you’d give to newly promoted senior SWEs?",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/",
-          "author": "/u/Alces_",
-          "published": "2026-07-27T02:28:29+00:00"
+          "title": "Deciding vs Discussing with Juniors",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/",
+          "author": "/u/metalmagician",
+          "published": "2026-07-27T14:37:16+00:00"
         },
         {
-          "title": "Did you ever regret doing a project in Rust?",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/",
-          "author": "/u/BigBootyBear",
-          "published": "2026-07-26T19:09:12+00:00"
+          "title": "Technical interview coaching?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/",
+          "author": "/u/Then_Inevitable9678",
+          "published": "2026-07-27T20:57:09+00:00"
         },
         {
-          "title": "Making the swap to embedded / system level?",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/",
-          "author": "/u/shinhyouryuu",
-          "published": "2026-07-27T11:19:36+00:00"
+          "title": "Experienced Devs Weekly Burnout and Venting Thread: A weekly thread for sharing experiences",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/",
+          "author": "/u/AutoModerator",
+          "published": "2026-07-28T03:01:24+00:00"
         }
       ]
     },

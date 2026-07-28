@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 13:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:07:23 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - Is this the norm in tech companies? Or is it a sign that it’s time to move on?</title>
@@ -39,12 +39,28 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : ExperiencedDevs - Experienced Devs Weekly Burnout and Venting Thread: A weekly thread for sharing experiences</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/</guid>
+      <pubDate>Tue, 28 Jul 2026 03:01:24 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - If you&apos;re bored of CRUD apps, try building the thing you&apos;re using</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v8g05a/if_youre_bored_of_crud_apps_try_building_the/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v8g05a/if_youre_bored_of_crud_apps_try_building_the/</guid>
       <pubDate>Mon, 27 Jul 2026 22:51:18 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : ExperiencedDevs - Technical interview coaching?</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/</guid>
+      <pubDate>Mon, 27 Jul 2026 20:57:09 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - New mothers in Big tech? How do you manage all the work, performance reviews, late night meetings and your dear baby and sleep deprivation</title>
@@ -79,10 +95,10 @@
       <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
-      <title>top scoring links : ExperiencedDevs - Making the swap to embedded / system level?</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7xhe2/making_the_swap_to_embedded_system_level/</guid>
-      <pubDate>Mon, 27 Jul 2026 11:19:36 +0000</pubDate>
+      <title>top scoring links : ExperiencedDevs - Deciding vs Discussing with Juniors</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:37:16 +0000</pubDate>
       <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
       <category>top scoring links : ExperiencedDevs</category>
     </item>
@@ -109,22 +125,6 @@
       <pubDate>Mon, 27 Jul 2026 03:34:20 +0000</pubDate>
       <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
       <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - What’s a single piece of advice you’d give to newly promoted senior SWEs?</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7nmqk/whats_a_single_piece_of_advice_youd_give_to_newly/</guid>
-      <pubDate>Mon, 27 Jul 2026 02:28:29 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - Did you ever regret doing a project in Rust?</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v7d0b7/did_you_ever_regret_doing_a_project_in_rust/</guid>
-      <pubDate>Sun, 26 Jul 2026 19:09:12 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
     </item>
     <item>
       <title>top scoring links : LeetcodeDesi - Cisco Interview Process for Experienced Java Developer (2–5 YOE) – Only One Technical Round?</title>
