@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:11:49 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -13,6 +13,14 @@
       <pubDate>Mon, 27 Jul 2026 16:25:09 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
+    </item>
+    <item>
+      <title>AskReddit: search results - nsfw:no - Zookeepers of reddit, which animal is way less fun to care for than most people would expect?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v82obc/zookeepers_of_reddit_which_animal_is_way_less_fun/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v82obc/zookeepers_of_reddit_which_animal_is_way_less_fun/</guid>
+      <pubDate>Mon, 27 Jul 2026 14:53:18 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
       <title>top scoring links : Android - One UI 9 will require a factory reset after 13 failed unlock attempts</title>
@@ -47,12 +55,28 @@
       <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
+      <title>AskReddit: search results - nsfw:no - If Mitch McConnell is dead, what sort of pressure could they put on the staff not to leak anything?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v802i2/if_mitch_mcconnell_is_dead_what_sort_of_pressure/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v802i2/if_mitch_mcconnell_is_dead_what_sort_of_pressure/</guid>
+      <pubDate>Mon, 27 Jul 2026 13:13:34 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
+    </item>
+    <item>
       <title>top scoring links : AskIndia - why does indian government always wants the people divided and never united?</title>
       <link>https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</guid>
       <pubDate>Mon, 27 Jul 2026 13:08:34 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
       <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
+      <title>AskReddit: search results - nsfw:no - What industry is secretly on the verge of collapsing, but people outside of it haven’t noticed yet?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</guid>
+      <pubDate>Mon, 27 Jul 2026 12:31:36 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
       <title>top scoring links : delhi - Are IT Cells overworking ?</title>
@@ -191,14 +215,6 @@
       <category>top scoring links : LifeProTips</category>
     </item>
     <item>
-      <title>AskReddit: search results - nsfw:no - Doctors and nurses, what everyday habit do you see destroy people’s health by their 40s that nobody warns you about?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v7gukq/doctors_and_nurses_what_everyday_habit_do_you_see/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v7gukq/doctors_and_nurses_what_everyday_habit_do_you_see/</guid>
-      <pubDate>Sun, 26 Jul 2026 21:33:43 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
       <title>top scoring links : AskIndia - Why are people against reservation not asking for a caste survey?</title>
       <link>https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</guid>
@@ -221,22 +237,6 @@
       <pubDate>Sun, 26 Jul 2026 14:58:56 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>AskReddit: search results - nsfw:no - As a wedding guest, what was the “this marriage isn’t going to last long” moment?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v75ugd/as_a_wedding_guest_what_was_the_this_marriage/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v75ugd/as_a_wedding_guest_what_was_the_this_marriage/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:45:06 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>AskReddit: search results - nsfw:no - What’s a sign outside of bed that hints someone’s excellent in bed?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v75s9z/whats_a_sign_outside_of_bed_that_hints_someones/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v75s9z/whats_a_sign_outside_of_bed_that_hints_someones/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:42:49 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - The quality and color of Jockey T-shirts.</title>
