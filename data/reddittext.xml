@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 12:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:56:43 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT: If you notice someone is being interrupted repeatedly in a group conversation bring the focus back to them.</title>
@@ -63,6 +63,14 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
+      <title>top scoring links : ProgrammerHumor - useCavemanGruntToSaveToken</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/</guid>
+      <pubDate>Tue, 28 Jul 2026 01:40:23 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
+    </item>
+    <item>
       <title>top scoring links : hopeposting - Wisdom.</title>
       <link>https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</guid>
@@ -77,6 +85,14 @@
       <pubDate>Mon, 27 Jul 2026 20:02:36 +0000</pubDate>
       <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
       <category>top scoring links : malelivingspace</category>
+    </item>
+    <item>
+      <title>top scoring links : ProgrammerHumor - notYourDamnProblem</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</guid>
+      <pubDate>Mon, 27 Jul 2026 19:25:51 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : malelivingspace - This is where I lived and worked during the most focused period of my life.</title>
@@ -223,14 +239,6 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
-      <title>top scoring links : ProgrammerHumor - migrationInProgress</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:08:47 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
       <title>top scoring links : Frugal_Ind - As a frugal, which quick commerce app has become your default?</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</guid>
@@ -245,14 +253,6 @@
       <pubDate>Mon, 27 Jul 2026 05:48:40 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - fromWeAreDevelopersCongress</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v7ofyq/fromwearedeveloperscongress/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v7ofyq/fromwearedeveloperscongress/</guid>
-      <pubDate>Mon, 27 Jul 2026 03:07:03 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Is the BJP in trouble after whole education mess?</title>

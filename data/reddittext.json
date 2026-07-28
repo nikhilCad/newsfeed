@@ -212,25 +212,25 @@
     },
     "top scoring links : ProgrammerHumor": {
       "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
-      "fetched_at": "2026-07-27T18:15:47.587394+00:00",
+      "fetched_at": "2026-07-28T12:56:43.073335+00:00",
       "items": [
-        {
-          "title": "migrationInProgress",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v7w4j4/migrationinprogress/",
-          "author": "/u/Sample-Range-745",
-          "published": "2026-07-27T10:08:47+00:00"
-        },
-        {
-          "title": "fromWeAreDevelopersCongress",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v7ofyq/fromwearedeveloperscongress/",
-          "author": "/u/BerryBoilo",
-          "published": "2026-07-27T03:07:03+00:00"
-        },
         {
           "title": "queryOfDoom",
           "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/",
           "author": "/u/WardensLantern",
           "published": "2026-07-27T13:44:50+00:00"
+        },
+        {
+          "title": "notYourDamnProblem",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/",
+          "author": "/u/IcyWash2991",
+          "published": "2026-07-27T19:25:51+00:00"
+        },
+        {
+          "title": "useCavemanGruntToSaveToken",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/",
+          "author": "/u/m6io",
+          "published": "2026-07-28T01:40:23+00:00"
         }
       ]
     },
