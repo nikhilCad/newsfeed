@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 13:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:10:25 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - Is this the norm in tech companies? Or is it a sign that it’s time to move on?</title>
@@ -31,12 +31,28 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : LeetcodeDesi - Mastercard Interview Experience - are they serious?</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v8pemd/mastercard_interview_experience_are_they_serious/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v8pemd/mastercard_interview_experience_are_they_serious/</guid>
+      <pubDate>Tue, 28 Jul 2026 05:56:07 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - Not getting calls at 6 years experience. My tech is .NET + Python + Azure fullstack. Should I change my domain?</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v8o49g/not_getting_calls_at_6_years_experience_my_tech/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v8o49g/not_getting_calls_at_6_years_experience_my_tech/</guid>
       <pubDate>Tue, 28 Jul 2026 04:48:55 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : LeetcodeDesi - Goldman Sachs OA | 2027 Grad | SDE1</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v8n26s/goldman_sachs_oa_2027_grad_sde1/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v8n26s/goldman_sachs_oa_2027_grad_sde1/</guid>
+      <pubDate>Tue, 28 Jul 2026 03:57:13 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
       <title>top scoring links : ExperiencedDevs - Experienced Devs Weekly Burnout and Venting Thread: A weekly thread for sharing experiences</title>
@@ -71,6 +87,14 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : LeetcodeDesi - I need some serious help, have Google and Amazon interview in 3 weeks; haven’t done DSA since 1 year</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v89irj/i_need_some_serious_help_have_google_and_amazon/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v89irj/i_need_some_serious_help_have_google_and_amazon/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:53:11 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - Do MAANG developers really build/code differently for scalability?</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v84yzf/do_maang_developers_really_buildcode_differently/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v84yzf/do_maang_developers_really_buildcode_differently/</guid>
@@ -87,6 +111,14 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : LeetcodeDesi - Rant</title>
+      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v830gb/rant/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v830gb/rant/</guid>
+      <pubDate>Mon, 27 Jul 2026 15:05:17 +0000</pubDate>
+      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
+      <category>top scoring links : LeetcodeDesi</category>
+    </item>
+    <item>
       <title>top scoring links : LeetcodeDesi - Too many questions</title>
       <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v82hxz/too_many_questions/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v82hxz/too_many_questions/</guid>
@@ -101,38 +133,6 @@
       <pubDate>Mon, 27 Jul 2026 14:37:16 +0000</pubDate>
       <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
       <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Google Initial Screen call – What should I expect?</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7wowr/google_initial_screen_call_what_should_i_expect/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7wowr/google_initial_screen_call_what_should_i_expect/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:39:29 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Any more contests like GRiD</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7p648/any_more_contests_like_grid/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7p648/any_more_contests_like_grid/</guid>
-      <pubDate>Mon, 27 Jul 2026 03:43:00 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Problem of Clearing OA in Interview Process - Need Guidance/Advice 🥲</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7ozu5/problem_of_clearing_oa_in_interview_process_need/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7ozu5/problem_of_clearing_oa_in_interview_process_need/</guid>
-      <pubDate>Mon, 27 Jul 2026 03:34:20 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : LeetcodeDesi - Cisco Interview Process for Experienced Java Developer (2–5 YOE) – Only One Technical Round?</title>
-      <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v7cg36/cisco_interview_process_for_experienced_java/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v7cg36/cisco_interview_process_for_experienced_java/</guid>
-      <pubDate>Sun, 26 Jul 2026 18:48:44 +0000</pubDate>
-      <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
-      <category>top scoring links : LeetcodeDesi</category>
     </item>
   </channel>
 </rss>
