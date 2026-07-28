@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 12:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:54:01 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT: If you notice someone is being interrupted repeatedly in a group conversation bring the focus back to them.</title>
@@ -69,6 +69,22 @@
       <pubDate>Mon, 27 Jul 2026 23:00:35 +0000</pubDate>
       <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
       <category>top scoring links : hopeposting</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - M/33 A boat I worked on for a month</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v8bhpe/m33_a_boat_i_worked_on_for_a_month/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v8bhpe/m33_a_boat_i_worked_on_for_a_month/</guid>
+      <pubDate>Mon, 27 Jul 2026 20:02:36 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - This is where I lived and worked during the most focused period of my life.</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v89ejl/this_is_where_i_lived_and_worked_during_the_most/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v89ejl/this_is_where_i_lived_and_worked_during_the_most/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:49:05 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -215,14 +231,6 @@
       <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
-      <title>top scoring links : malelivingspace - 28 M I have spent almost a decade at sea now</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v7uk4a/28_m_i_have_spent_almost_a_decade_at_sea_now/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v7uk4a/28_m_i_have_spent_almost_a_decade_at_sea_now/</guid>
-      <pubDate>Mon, 27 Jul 2026 08:38:59 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
-    </item>
-    <item>
       <title>top scoring links : Frugal_Ind - As a frugal, which quick commerce app has become your default?</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</guid>
@@ -245,14 +253,6 @@
       <pubDate>Mon, 27 Jul 2026 03:07:03 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
-      <title>top scoring links : malelivingspace - 28, lost everything and am back with my parents</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v7nx5b/28_lost_everything_and_am_back_with_my_parents/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v7nx5b/28_lost_everything_and_am_back_with_my_parents/</guid>
-      <pubDate>Mon, 27 Jul 2026 02:42:10 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - Is the BJP in trouble after whole education mess?</title>
