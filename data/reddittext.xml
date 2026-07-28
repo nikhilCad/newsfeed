@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 13:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:13:39 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT: If you notice someone is being interrupted repeatedly in a group conversation bring the focus back to them.</title>
@@ -29,6 +29,22 @@
       <pubDate>Tue, 28 Jul 2026 08:47:40 +0000</pubDate>
       <source url="https://old.reddit.com/r/lifeprotips/top/.rss?limit=5">top scoring links : LifeProTips</source>
       <category>top scoring links : LifeProTips</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - Doesn&apos;t bjp minister&apos;s children living in us making those ministers cia funded?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v8rmso/doesnt_bjp_ministers_children_living_in_us_making/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v8rmso/doesnt_bjp_ministers_children_living_in_us_making/</guid>
+      <pubDate>Tue, 28 Jul 2026 07:58:03 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - BJP has already lost on reddit, do you think Instagram and YT is next ?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v8pbfs/bjp_has_already_lost_on_reddit_do_you_think/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v8pbfs/bjp_has_already_lost_on_reddit_do_you_think/</guid>
+      <pubDate>Tue, 28 Jul 2026 05:51:16 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : delhi - Nithin gadkari in panic mode</title>
@@ -61,6 +77,14 @@
       <pubDate>Tue, 28 Jul 2026 02:27:53 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - How many of you have seen the Modi documentary by BBC that was banned in India?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v8k6st/how_many_of_you_have_seen_the_modi_documentary_by/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v8k6st/how_many_of_you_have_seen_the_modi_documentary_by/</guid>
+      <pubDate>Tue, 28 Jul 2026 01:46:14 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : ProgrammerHumor - useCavemanGruntToSaveToken</title>
@@ -109,6 +133,14 @@
       <pubDate>Mon, 27 Jul 2026 18:49:05 +0000</pubDate>
       <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
       <category>top scoring links : malelivingspace</category>
+    </item>
+    <item>
+      <title>top scoring links : AskIndia - How is no one talking about SC/ST/OBC follow harsh discrimination themselves?</title>
+      <link>https://old.reddit.com/r/AskIndia/comments/1v88ia9/how_is_no_one_talking_about_scstobc_follow_harsh/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v88ia9/how_is_no_one_talking_about_scstobc_follow_harsh/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:17:34 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
+      <category>top scoring links : AskIndia</category>
     </item>
     <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
@@ -223,14 +255,6 @@
       <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
-      <title>top scoring links : AskIndia - why does indian government always wants the people divided and never united?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7zxwy/why_does_indian_government_always_wants_the/</guid>
-      <pubDate>Mon, 27 Jul 2026 13:08:34 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
       <title>AskReddit: search results - nsfw:no - What industry is secretly on the verge of collapsing, but people outside of it haven’t noticed yet?</title>
       <link>https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</guid>
@@ -239,36 +263,12 @@
       <category>AskReddit: search results - nsfw:no</category>
     </item>
     <item>
-      <title>top scoring links : AskIndia - Is having normal functional family in india is a privilege?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7xu7b/is_having_normal_functional_family_in_india_is_a/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7xu7b/is_having_normal_functional_family_in_india_is_a/</guid>
-      <pubDate>Mon, 27 Jul 2026 11:37:11 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
       <title>top scoring links : Frugal_Ind - As a frugal, which quick commerce app has become your default?</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v7sdek/as_a_frugal_which_quick_commerce_app_has_become/</guid>
       <pubDate>Mon, 27 Jul 2026 06:32:00 +0000</pubDate>
       <source url="https://old.reddit.com/r/Frugal_Ind/top.rss?limit=5">top scoring links : Frugal_Ind</source>
       <category>top scoring links : Frugal_Ind</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Is the BJP in trouble after whole education mess?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7nvme/is_the_bjp_in_trouble_after_whole_education_mess/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7nvme/is_the_bjp_in_trouble_after_whole_education_mess/</guid>
-      <pubDate>Mon, 27 Jul 2026 02:40:10 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
-    </item>
-    <item>
-      <title>top scoring links : AskIndia - Why are people against reservation not asking for a caste survey?</title>
-      <link>https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskIndia/comments/1v7deww/why_are_people_against_reservation_not_asking_for/</guid>
-      <pubDate>Sun, 26 Jul 2026 19:24:03 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskIndia/top.rss?limit=5">top scoring links : AskIndia</source>
-      <category>top scoring links : AskIndia</category>
     </item>
   </channel>
 </rss>
