@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 13:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:17:41 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : LifeProTips - LPT: If you notice someone is being interrupted repeatedly in a group conversation bring the focus back to them.</title>
@@ -143,6 +143,14 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
+      <title>AskReddit: search results - nsfw:no - People who earn more than $500 a day, what do you do?</title>
+      <link>https://old.reddit.com/r/AskReddit/comments/1v87rj3/people_who_earn_more_than_500_a_day_what_do_you_do/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v87rj3/people_who_earn_more_than_500_a_day_what_do_you_do/</guid>
+      <pubDate>Mon, 27 Jul 2026 17:53:46 +0000</pubDate>
+      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
+      <category>AskReddit: search results - nsfw:no</category>
+    </item>
+    <item>
       <title>top scoring links : hopeposting - Believe in yourself</title>
       <link>https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</guid>
@@ -251,14 +259,6 @@
       <link>https://old.reddit.com/r/AskReddit/comments/1v802i2/if_mitch_mcconnell_is_dead_what_sort_of_pressure/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v802i2/if_mitch_mcconnell_is_dead_what_sort_of_pressure/</guid>
       <pubDate>Mon, 27 Jul 2026 13:13:34 +0000</pubDate>
-      <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
-      <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>AskReddit: search results - nsfw:no - What industry is secretly on the verge of collapsing, but people outside of it haven’t noticed yet?</title>
-      <link>https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/</guid>
-      <pubDate>Mon, 27 Jul 2026 12:31:36 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
     </item>

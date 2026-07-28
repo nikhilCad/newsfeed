@@ -39,19 +39,19 @@
     },
     "AskReddit: search results - nsfw:no": {
       "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
-      "fetched_at": "2026-07-28T05:11:49.431514+00:00",
+      "fetched_at": "2026-07-28T13:17:41.673012+00:00",
       "items": [
-        {
-          "title": "What industry is secretly on the verge of collapsing, but people outside of it haven’t noticed yet?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v7z1m7/what_industry_is_secretly_on_the_verge_of/",
-          "author": "/u/Funny-Counter8762",
-          "published": "2026-07-27T12:31:36+00:00"
-        },
         {
           "title": "Zookeepers of reddit, which animal is way less fun to care for than most people would expect?",
           "link": "https://old.reddit.com/r/AskReddit/comments/1v82obc/zookeepers_of_reddit_which_animal_is_way_less_fun/",
           "author": "/u/huveldust",
           "published": "2026-07-27T14:53:18+00:00"
+        },
+        {
+          "title": "People who earn more than $500 a day, what do you do?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v87rj3/people_who_earn_more_than_500_a_day_what_do_you_do/",
+          "author": "/u/Altruistic-Hour3129",
+          "published": "2026-07-27T17:53:46+00:00"
         },
         {
           "title": "If Mitch McConnell is dead, what sort of pressure could they put on the staff not to leak anything?",
