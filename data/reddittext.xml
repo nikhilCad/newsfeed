@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 15:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:42:12 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Delhi Police begins crackdown against critics of the Modi Government on social media</title>
@@ -21,6 +21,14 @@
       <pubDate>Wed, 29 Jul 2026 07:45:43 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : FIRE_Ind - A problem of plenty</title>
+      <link>https://old.reddit.com/r/FIRE_Ind/comments/1v9p1wh/a_problem_of_plenty/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/FIRE_Ind/comments/1v9p1wh/a_problem_of_plenty/</guid>
+      <pubDate>Wed, 29 Jul 2026 07:29:37 +0000</pubDate>
+      <source url="https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1">top scoring links : FIRE_Ind</source>
+      <category>top scoring links : FIRE_Ind</category>
     </item>
     <item>
       <title>top scoring links : delhi - NEET paper leak case: First hearing in fast-track court deferred as CBI counsel fails to show up</title>

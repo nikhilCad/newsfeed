@@ -135,8 +135,15 @@
     },
     "top scoring links : FIRE_Ind": {
       "source_url": "https://old.reddit.com/r/FIRE_Ind/top.rss?limit=1",
-      "fetched_at": "2026-07-28T12:45:54.365832+00:00",
-      "items": []
+      "fetched_at": "2026-07-29T15:42:12.600834+00:00",
+      "items": [
+        {
+          "title": "A problem of plenty",
+          "link": "https://old.reddit.com/r/FIRE_Ind/comments/1v9p1wh/a_problem_of_plenty/",
+          "author": "/u/Minimum_Brother_8854",
+          "published": "2026-07-29T07:29:37+00:00"
+        }
+      ]
     },
     "top scoring links : hopeposting": {
       "source_url": "https://old.reddit.com/r/hopeposting/top.rss?sort=top&t=day&limit=2",
