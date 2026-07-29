@@ -39,25 +39,25 @@
     },
     "AskReddit: search results - nsfw:no": {
       "source_url": "https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&sort=top&restrict_sr=on&t=day&limit=3",
-      "fetched_at": "2026-07-28T13:17:41.673012+00:00",
+      "fetched_at": "2026-07-29T16:11:05.747911+00:00",
       "items": [
         {
-          "title": "Zookeepers of reddit, which animal is way less fun to care for than most people would expect?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v82obc/zookeepers_of_reddit_which_animal_is_way_less_fun/",
-          "author": "/u/huveldust",
-          "published": "2026-07-27T14:53:18+00:00"
+          "title": "What’s a boring business that quietly makes its owner rich?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v96m3r/whats_a_boring_business_that_quietly_makes_its/",
+          "author": "/u/Queasy_Initiative_86",
+          "published": "2026-07-28T18:19:37+00:00"
         },
         {
-          "title": "People who earn more than $500 a day, what do you do?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v87rj3/people_who_earn_more_than_500_a_day_what_do_you_do/",
-          "author": "/u/Altruistic-Hour3129",
-          "published": "2026-07-27T17:53:46+00:00"
+          "title": "What book is absolutely flawless and impossible to put down once you start it?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v9cpt7/what_book_is_absolutely_flawless_and_impossible/",
+          "author": "/u/Joyful_cheesecake",
+          "published": "2026-07-28T22:02:45+00:00"
         },
         {
-          "title": "If Mitch McConnell is dead, what sort of pressure could they put on the staff not to leak anything?",
-          "link": "https://old.reddit.com/r/AskReddit/comments/1v802i2/if_mitch_mcconnell_is_dead_what_sort_of_pressure/",
-          "author": "/u/Gall_Bladder_Pillow",
-          "published": "2026-07-27T13:13:34+00:00"
+          "title": "People who recently bought a new car: What feature sounded amazing but ended up being useless?",
+          "link": "https://old.reddit.com/r/AskReddit/comments/1v97gbp/people_who_recently_bought_a_new_car_what_feature/",
+          "author": "/u/lylamoon-",
+          "published": "2026-07-28T18:48:27+00:00"
         }
       ]
     },
