@@ -4,7 +4,7 @@
     <title>Updates</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 15:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:02:32 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : developersIndia - 4 YOE , Is the market bad or are package expectations too high right now?</title>
@@ -15,12 +15,28 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : ExperiencedDevs - The Best Part About AI For Those That Don&apos;t Use It</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v9trtm/the_best_part_about_ai_for_those_that_dont_use_it/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v9trtm/the_best_part_about_ai_for_those_that_dont_use_it/</guid>
+      <pubDate>Wed, 29 Jul 2026 11:43:06 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - Recruiter calls have dried up. Where&apos;s everyone applying now?</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v9sf7s/recruiter_calls_have_dried_up_wheres_everyone/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v9sf7s/recruiter_calls_have_dried_up_wheres_everyone/</guid>
       <pubDate>Wed, 29 Jul 2026 10:37:47 +0000</pubDate>
       <source url="https://old.reddit.com/r/developersIndia/top.rss?t=day&amp;limit=8">top scoring links : developersIndia</source>
       <category>top scoring links : developersIndia</category>
+    </item>
+    <item>
+      <title>top scoring links : ExperiencedDevs - Turned on a global permission in prod for testing, a client saw another client&apos;s ticket. PM messaged me. Now I&apos;m in trouble. Help.</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v9puaw/turned_on_a_global_permission_in_prod_for_testing/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v9puaw/turned_on_a_global_permission_in_prod_for_testing/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:14:20 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
     </item>
     <item>
       <title>top scoring links : developersIndia - Need help in deciding between a PIP and a voluntary resignation</title>
@@ -55,6 +71,14 @@
       <category>top scoring links : developersIndia</category>
     </item>
     <item>
+      <title>top scoring links : ExperiencedDevs - Just how bad is it in your organization currently?</title>
+      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v9asih/just_how_bad_is_it_in_your_organization_currently/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v9asih/just_how_bad_is_it_in_your_organization_currently/</guid>
+      <pubDate>Tue, 28 Jul 2026 20:51:16 +0000</pubDate>
+      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
+      <category>top scoring links : ExperiencedDevs</category>
+    </item>
+    <item>
       <title>top scoring links : developersIndia - Situation of senior employees in India is 10x worse than abroad in IT</title>
       <link>https://old.reddit.com/r/developersIndia/comments/1v9661v/situation_of_senior_employees_in_india_is_10x/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/developersIndia/comments/1v9661v/situation_of_senior_employees_in_india_is_10x/</guid>
@@ -87,22 +111,6 @@
       <category>top scoring links : LeetcodeDesi</category>
     </item>
     <item>
-      <title>top scoring links : ExperiencedDevs - Experienced Devs Weekly Burnout and Venting Thread: A weekly thread for sharing experiences</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/</guid>
-      <pubDate>Tue, 28 Jul 2026 03:01:24 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - Technical interview coaching?</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/</guid>
-      <pubDate>Mon, 27 Jul 2026 20:57:09 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
-    </item>
-    <item>
       <title>top scoring links : LeetcodeDesi - I need some serious help, have Google and Amazon interview in 3 weeks; haven’t done DSA since 1 year</title>
       <link>https://old.reddit.com/r/LeetcodeDesi/comments/1v89irj/i_need_some_serious_help_have_google_and_amazon/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/LeetcodeDesi/comments/1v89irj/i_need_some_serious_help_have_google_and_amazon/</guid>
@@ -125,14 +133,6 @@
       <pubDate>Mon, 27 Jul 2026 14:46:46 +0000</pubDate>
       <source url="https://old.reddit.com/r/LeetcodeDesi/top.rss?t=day&amp;limit=5">top scoring links : LeetcodeDesi</source>
       <category>top scoring links : LeetcodeDesi</category>
-    </item>
-    <item>
-      <title>top scoring links : ExperiencedDevs - Deciding vs Discussing with Juniors</title>
-      <link>https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/</guid>
-      <pubDate>Mon, 27 Jul 2026 14:37:16 +0000</pubDate>
-      <source url="https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3">top scoring links : ExperiencedDevs</source>
-      <category>top scoring links : ExperiencedDevs</category>
     </item>
   </channel>
 </rss>

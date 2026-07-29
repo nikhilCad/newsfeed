@@ -57,25 +57,25 @@
     },
     "top scoring links : ExperiencedDevs": {
       "source_url": "https://old.reddit.com/r/ExperiencedDevs/top.rss?limit=3",
-      "fetched_at": "2026-07-28T13:07:23.321399+00:00",
+      "fetched_at": "2026-07-29T16:02:32.383153+00:00",
       "items": [
         {
-          "title": "Deciding vs Discussing with Juniors",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v828lo/deciding_vs_discussing_with_juniors/",
-          "author": "/u/metalmagician",
-          "published": "2026-07-27T14:37:16+00:00"
+          "title": "Just how bad is it in your organization currently?",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v9asih/just_how_bad_is_it_in_your_organization_currently/",
+          "author": "/u/lawanda123",
+          "published": "2026-07-28T20:51:16+00:00"
         },
         {
-          "title": "Technical interview coaching?",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v8d0f3/technical_interview_coaching/",
-          "author": "/u/Then_Inevitable9678",
-          "published": "2026-07-27T20:57:09+00:00"
+          "title": "Turned on a global permission in prod for testing, a client saw another client's ticket. PM messaged me. Now I'm in trouble. Help.",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v9puaw/turned_on_a_global_permission_in_prod_for_testing/",
+          "author": "/u/Ok-Introduction-9111",
+          "published": "2026-07-29T08:14:20+00:00"
         },
         {
-          "title": "Experienced Devs Weekly Burnout and Venting Thread: A weekly thread for sharing experiences",
-          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v8lv5a/experienced_devs_weekly_burnout_and_venting/",
-          "author": "/u/AutoModerator",
-          "published": "2026-07-28T03:01:24+00:00"
+          "title": "The Best Part About AI For Those That Don't Use It",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1v9trtm/the_best_part_about_ai_for_those_that_dont_use_it/",
+          "author": "/u/danielt1263",
+          "published": "2026-07-29T11:43:06+00:00"
         }
       ]
     },
