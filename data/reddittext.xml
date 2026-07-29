@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 15:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:44:33 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Delhi Police begins crackdown against critics of the Modi Government on social media</title>
@@ -37,6 +37,14 @@
       <pubDate>Wed, 29 Jul 2026 04:47:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : hopeposting - Feels good</title>
+      <link>https://old.reddit.com/r/hopeposting/comments/1v97qjo/feels_good/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v97qjo/feels_good/</guid>
+      <pubDate>Tue, 28 Jul 2026 18:58:31 +0000</pubDate>
+      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
+      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : delhi - To all those saying &quot;lekin PM ko gaali nahi deni chahiye thi&quot;</title>
@@ -135,14 +143,6 @@
       <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
-      <title>top scoring links : hopeposting - Wisdom.</title>
-      <link>https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v8g8fs/wisdom/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:00:35 +0000</pubDate>
-      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
-      <category>top scoring links : hopeposting</category>
-    </item>
-    <item>
       <title>top scoring links : Android - Samsung gives its newest Galaxy Watches longer software support [5 OS updates, up from 4]</title>
       <link>https://old.reddit.com/r/Android/comments/1v8enag/samsung_gives_its_newest_galaxy_watches_longer/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v8enag/samsung_gives_its_newest_galaxy_watches_longer/</guid>
@@ -189,14 +189,6 @@
       <pubDate>Mon, 27 Jul 2026 17:53:46 +0000</pubDate>
       <source url="https://old.reddit.com/r/AskReddit/search/.rss?q=nsfw%3Ano&amp;sort=top&amp;restrict_sr=on&amp;t=day&amp;limit=3">AskReddit: search results - nsfw:no</source>
       <category>AskReddit: search results - nsfw:no</category>
-    </item>
-    <item>
-      <title>top scoring links : hopeposting - Believe in yourself</title>
-      <link>https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/hopeposting/comments/1v858sh/believe_in_yourself/</guid>
-      <pubDate>Mon, 27 Jul 2026 16:25:09 +0000</pubDate>
-      <source url="https://old.reddit.com/r/hopeposting/top.rss?sort=top&amp;t=day&amp;limit=2">top scoring links : hopeposting</source>
-      <category>top scoring links : hopeposting</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - This slippers serving for 5 years now, without maintenance</title>
