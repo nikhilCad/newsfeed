@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 15:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:51:18 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Delhi Police begins crackdown against critics of the Modi Government on social media</title>
@@ -45,6 +45,22 @@
       <pubDate>Wed, 29 Jul 2026 04:47:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - 18 now, joined the military at 17, medically separated after a year now and back with my chinese grandma.</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v9jnlr/18_now_joined_the_military_at_17_medically/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v9jnlr/18_now_joined_the_military_at_17_medically/</guid>
+      <pubDate>Wed, 29 Jul 2026 02:55:05 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
+    </item>
+    <item>
+      <title>top scoring links : malelivingspace - Too feminine?</title>
+      <link>https://old.reddit.com/r/malelivingspace/comments/1v9e5ht/too_feminine/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v9e5ht/too_feminine/</guid>
+      <pubDate>Tue, 28 Jul 2026 22:58:57 +0000</pubDate>
+      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
+      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : LifeProTips - LPT: Mac Only: Macbook has an inbuilt way to merge multiple PDFs.</title>
@@ -135,28 +151,12 @@
       <category>top scoring links : Android</category>
     </item>
     <item>
-      <title>top scoring links : malelivingspace - M/33 A boat I worked on for a month</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v8bhpe/m33_a_boat_i_worked_on_for_a_month/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v8bhpe/m33_a_boat_i_worked_on_for_a_month/</guid>
-      <pubDate>Mon, 27 Jul 2026 20:02:36 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
-    </item>
-    <item>
       <title>top scoring links : ProgrammerHumor - notYourDamnProblem</title>
       <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</guid>
       <pubDate>Mon, 27 Jul 2026 19:25:51 +0000</pubDate>
       <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
       <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
-      <title>top scoring links : malelivingspace - This is where I lived and worked during the most focused period of my life.</title>
-      <link>https://old.reddit.com/r/malelivingspace/comments/1v89ejl/this_is_where_i_lived_and_worked_during_the_most/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/malelivingspace/comments/1v89ejl/this_is_where_i_lived_and_worked_during_the_most/</guid>
-      <pubDate>Mon, 27 Jul 2026 18:49:05 +0000</pubDate>
-      <source url="https://old.reddit.com/r/malelivingspace/top.rss?limit=2">top scoring links : malelivingspace</source>
-      <category>top scoring links : malelivingspace</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - How is no one talking about SC/ST/OBC follow harsh discrimination themselves?</title>
