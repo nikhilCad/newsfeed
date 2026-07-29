@@ -4,7 +4,7 @@
     <title>Reddit Text</title>
     <link>https://github.com/</link>
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 15:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:54:40 +0000</lastBuildDate>
     <generator>scripts/run_local.py</generator>
     <item>
       <title>top scoring links : delhi - Delhi Police begins crackdown against critics of the Modi Government on social media</title>
@@ -31,6 +31,14 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
+      <title>top scoring links : ProgrammerHumor - packetLoss</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v9p25k/packetloss/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v9p25k/packetloss/</guid>
+      <pubDate>Wed, 29 Jul 2026 07:30:02 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
+    </item>
+    <item>
       <title>top scoring links : FIRE_Ind - A problem of plenty</title>
       <link>https://old.reddit.com/r/FIRE_Ind/comments/1v9p1wh/a_problem_of_plenty/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/FIRE_Ind/comments/1v9p1wh/a_problem_of_plenty/</guid>
@@ -45,6 +53,14 @@
       <pubDate>Wed, 29 Jul 2026 04:47:27 +0000</pubDate>
       <source url="https://old.reddit.com/r/delhi/top.rss?limit=5">top scoring links : delhi</source>
       <category>top scoring links : delhi</category>
+    </item>
+    <item>
+      <title>top scoring links : ProgrammerHumor - redactOverflow</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v9kokx/redactoverflow/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v9kokx/redactoverflow/</guid>
+      <pubDate>Wed, 29 Jul 2026 03:43:24 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : malelivingspace - 18 now, joined the military at 17, medically separated after a year now and back with my chinese grandma.</title>
@@ -103,6 +119,14 @@
       <category>top scoring links : delhi</category>
     </item>
     <item>
+      <title>top scoring links : ProgrammerHumor - foundThebug</title>
+      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v93xqr/foundthebug/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v93xqr/foundthebug/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:46:01 +0000</pubDate>
+      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
+      <category>top scoring links : ProgrammerHumor</category>
+    </item>
+    <item>
       <title>top scoring links : Frugal_Ind - Are ev 2 wheelers better than a petrol scooty?</title>
       <link>https://old.reddit.com/r/Frugal_Ind/comments/1v8ru5d/are_ev_2_wheelers_better_than_a_petrol_scooty/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Frugal_Ind/comments/1v8ru5d/are_ev_2_wheelers_better_than_a_petrol_scooty/</guid>
@@ -135,28 +159,12 @@
       <category>top scoring links : AskIndia</category>
     </item>
     <item>
-      <title>top scoring links : ProgrammerHumor - useCavemanGruntToSaveToken</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/</guid>
-      <pubDate>Tue, 28 Jul 2026 01:40:23 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
-    </item>
-    <item>
       <title>top scoring links : Android - Samsung gives its newest Galaxy Watches longer software support [5 OS updates, up from 4]</title>
       <link>https://old.reddit.com/r/Android/comments/1v8enag/samsung_gives_its_newest_galaxy_watches_longer/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/Android/comments/1v8enag/samsung_gives_its_newest_galaxy_watches_longer/</guid>
       <pubDate>Mon, 27 Jul 2026 21:58:14 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - notYourDamnProblem</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/</guid>
-      <pubDate>Mon, 27 Jul 2026 19:25:51 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : AskIndia - How is no one talking about SC/ST/OBC follow harsh discrimination themselves?</title>
@@ -221,14 +229,6 @@
       <pubDate>Mon, 27 Jul 2026 14:05:59 +0000</pubDate>
       <source url="https://old.reddit.com/r/android/top.rss?limit=3">top scoring links : Android</source>
       <category>top scoring links : Android</category>
-    </item>
-    <item>
-      <title>top scoring links : ProgrammerHumor - queryOfDoom</title>
-      <link>https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/</guid>
-      <pubDate>Mon, 27 Jul 2026 13:44:50 +0000</pubDate>
-      <source url="https://old.reddit.com/r/programmerhumor/top.rss?limit=3">top scoring links : ProgrammerHumor</source>
-      <category>top scoring links : ProgrammerHumor</category>
     </item>
     <item>
       <title>top scoring links : Frugal_Ind - Made this printer stand cum book shelf with scrap plywood</title>

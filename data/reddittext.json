@@ -201,25 +201,25 @@
     },
     "top scoring links : ProgrammerHumor": {
       "source_url": "https://old.reddit.com/r/programmerhumor/top.rss?limit=3",
-      "fetched_at": "2026-07-28T12:56:43.073335+00:00",
+      "fetched_at": "2026-07-29T15:54:40.007081+00:00",
       "items": [
         {
-          "title": "queryOfDoom",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v80umk/queryofdoom/",
-          "author": "/u/WardensLantern",
-          "published": "2026-07-27T13:44:50+00:00"
+          "title": "foundThebug",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v93xqr/foundthebug/",
+          "author": "/u/ExpensiveCoat8912",
+          "published": "2026-07-28T16:46:01+00:00"
         },
         {
-          "title": "notYourDamnProblem",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v8age6/notyourdamnproblem/",
-          "author": "/u/IcyWash2991",
-          "published": "2026-07-27T19:25:51+00:00"
+          "title": "packetLoss",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v9p25k/packetloss/",
+          "author": "/u/user6150277464770585",
+          "published": "2026-07-29T07:30:02+00:00"
         },
         {
-          "title": "useCavemanGruntToSaveToken",
-          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v8k1yu/usecavemangrunttosavetoken/",
-          "author": "/u/m6io",
-          "published": "2026-07-28T01:40:23+00:00"
+          "title": "redactOverflow",
+          "link": "https://old.reddit.com/r/ProgrammerHumor/comments/1v9kokx/redactoverflow/",
+          "author": "/u/JWBananas",
+          "published": "2026-07-29T03:43:24+00:00"
         }
       ]
     },
