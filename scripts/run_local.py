@@ -20,7 +20,9 @@ directory -- run this script from the repo root.
 Usage:
     python3 scripts/run_local.py
     SOURCE_URL=https://engineeringblogs.xyz/ python3 scripts/run_local.py
+    python3 scripts/run_local.py --no-git   # update data/*.json locally, skip git sync/commit/push
 """
+import argparse
 import json
 import os
 import random
@@ -66,6 +68,17 @@ def git_commit_and_push(message):
         log(f"git commit/push failed or nothing to commit (exit code {ret})")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--no-git",
+        action="store_true",
+        help="Only update data/*.json locally -- skip the initial git sync and "
+        "the per-cycle git commit/push.",
+    )
+    return parser.parse_args()
+
+
 def write_engblogs_feed():
     rss = fetch_engblogs_rss(SOURCE_URL)
     path = os.path.join(DATA_DIR, "engblogs.xml")
@@ -103,9 +116,13 @@ def run_reddit_cycle():
 
 
 def main():
+    args = parse_args()
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    git_sync_from_remote()
+    if args.no_git:
+        log("--no-git set: skipping git sync and commit/push, updating data/*.json only")
+    else:
+        git_sync_from_remote()
 
     log(f"Fetching engineering blogs feed from {SOURCE_URL}")
     try:
@@ -128,7 +145,10 @@ def main():
                 category_key, feed_name, count = result
                 stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
                 message = f"Refresh {category_key}: '{feed_name}' ({count} items) at {stamp}"
-                git_commit_and_push(message)
+                if args.no_git:
+                    log(f"--no-git set: skipping commit/push ({message})")
+                else:
+                    git_commit_and_push(message)
             else:
                 # fetch_one_feed only advances its round-robin index on success,
                 # so the next cycle automatically retries this same feed.

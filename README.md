@@ -30,6 +30,19 @@ python3 scripts/server.py          # HTTP server: /reddittext, /redditupdates, /
 FEED_INDEX=0 python3 scripts/fetch_feed.py   # fetch a specific feed by index (0-12), for manual testing; doesn't touch fetch_state.json
 ```
 
+## Alwaysdata setup
+Run this in a cron
+
+```
+python3 scripts/run_local.py --no-git
+```
+
+Run this 
+
+```
+python3 scripts/server.py
+```
+
 Env vars: `SOURCE_URL` for `run_local.py`/`server.py` (default `https://engineeringblogs.xyz/`); `PORT` and `CACHE_SECONDS` for `server.py` (defaults `8000` and `900`).
 
 `run_local.py` commits and pushes `data/` itself after each successful feed fetch, so there's nothing manual to do — just make sure the repo has a clean working tree and a configured git remote/credentials before starting it (it force-resets to `origin/main` on startup, discarding any local changes). `server.py` is independent of that push loop — it just reads whatever is currently on disk (and, for `/blogs`, fetches live), so run it alongside `run_local.py` to get live endpoints.
