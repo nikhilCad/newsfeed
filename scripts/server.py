@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""HTTP server exposing live RSS endpoints on top of data/*.json.
+"""WSGI app exposing live RSS endpoints on top of data/*.json.
+
+Exposes a standard `application(environ, start_response)` callable, so this
+can be deployed under any WSGI host (Alwaysdata's "Python (WSGI)" site type,
+gunicorn, uwsgi, etc) by pointing it at `scripts.server:application`. Running
+the file directly (`python3 scripts/server.py`) serves the same app locally
+via wsgiref's threading server -- handy for testing, not meant for production
+load.
 
 Routes:
     /reddittext    - renders data/reddittext.json as RSS. That JSON is kept
@@ -16,19 +23,22 @@ Routes:
 Usage:
     python3 scripts/server.py
     PORT=8000 python3 scripts/server.py
+    gunicorn --chdir scripts server:application
 
 Env vars:
-    PORT          - port to listen on (default: 8000)
+    PORT          - port to listen on when run standalone (default: 8000)
     CACHE_SECONDS - how long to cache the fetched blogs page before
                     re-fetching (default: 900)
     SOURCE_URL    - blogs aggregator page to fetch (default:
                     https://engineeringblogs.xyz/)
 """
+import http.client
 import json
 import os
 import threading
 import time
-from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from socketserver import ThreadingMixIn
+from wsgiref.simple_server import WSGIServer, make_server
 
 from blogs_fetch import generate_blogs_json
 from rss_render import build_engblogs_rss, build_reddit_rss
@@ -74,76 +84,81 @@ class BlogsCache:
 blogs_cache = BlogsCache(CACHE_SECONDS)
 
 
-class Handler(BaseHTTPRequestHandler):
-    def log_message(self, fmt, *args):  # quieter logging
-        print("[%s] %s" % (self.log_date_time_string(), fmt % args))
+def _status_line(code: int) -> str:
+    return f"{code} {http.client.responses.get(code, '')}".strip()
 
-    def _send_rss(self, rss: str):
-        body = rss.encode("utf-8")
-        self.send_response(200)
-        self.send_header("Content-Type", "application/rss+xml; charset=utf-8")
-        self.send_header("Content-Length", str(len(body)))
-        self.end_headers()
-        self.wfile.write(body)
 
-    def _send_error(self, code: int, message: str):
-        body = message.encode("utf-8")
-        self.send_response(code)
-        self.send_header("Content-Type", "text/plain; charset=utf-8")
-        self.send_header("Content-Length", str(len(body)))
-        self.end_headers()
-        self.wfile.write(body)
+def _rss_response(start_response, rss: str):
+    body = rss.encode("utf-8")
+    start_response(_status_line(200), [
+        ("Content-Type", "application/rss+xml; charset=utf-8"),
+        ("Content-Length", str(len(body))),
+    ])
+    return [body]
 
-    def do_GET(self):
-        path = self.path.split("?", 1)[0]
 
-        if path in REDDIT_ROUTES:
-            json_name = REDDIT_ROUTES[path]
-            try:
-                rss = render_reddit_rss(json_name)
-            except FileNotFoundError:
-                self._send_error(
-                    503,
-                    f"data/{json_name} doesn't exist yet -- run scripts/run_local.py "
-                    "or scripts/fetch_feed.py first",
-                )
-                return
-            except Exception as exc:  # noqa: BLE001
-                self._send_error(502, f"Failed to render {path}: {exc}")
-                return
-            self._send_rss(rss)
+def _error_response(start_response, code: int, message: str):
+    body = message.encode("utf-8")
+    start_response(_status_line(code), [
+        ("Content-Type", "text/plain; charset=utf-8"),
+        ("Content-Length", str(len(body))),
+    ])
+    return [body]
 
-        elif path == "/blogs":
-            try:
-                force = "refresh" in self.path
-                rss = blogs_cache.get_rss(force=force)
-            except Exception as exc:  # noqa: BLE001
-                self._send_error(502, f"Failed to fetch/parse blogs source: {exc}")
-                return
-            self._send_rss(rss)
 
-        elif path in ("/", "/index.html"):
-            routes = list(REDDIT_ROUTES) + ["/blogs"]
-            links = "".join(f'<li><a href="{p}">{p}</a></li>' for p in routes)
-            info = f"""<!doctype html>
+def application(environ, start_response):
+    """WSGI entry point -- e.g. `gunicorn --chdir scripts server:application`."""
+    if environ.get("REQUEST_METHOD", "GET") != "GET":
+        return _error_response(start_response, 405, "Method not allowed")
+
+    path = environ.get("PATH_INFO", "/")
+
+    if path in REDDIT_ROUTES:
+        json_name = REDDIT_ROUTES[path]
+        try:
+            rss = render_reddit_rss(json_name)
+        except FileNotFoundError:
+            return _error_response(
+                start_response,
+                503,
+                f"data/{json_name} doesn't exist yet -- run scripts/run_local.py "
+                "or scripts/fetch_feed.py first",
+            )
+        except Exception as exc:  # noqa: BLE001
+            return _error_response(start_response, 502, f"Failed to render {path}: {exc}")
+        return _rss_response(start_response, rss)
+
+    if path == "/blogs":
+        try:
+            force = "refresh" in environ.get("QUERY_STRING", "")
+            rss = blogs_cache.get_rss(force=force)
+        except Exception as exc:  # noqa: BLE001
+            return _error_response(start_response, 502, f"Failed to fetch/parse blogs source: {exc}")
+        return _rss_response(start_response, rss)
+
+    if path in ("/", "/index.html"):
+        routes = list(REDDIT_ROUTES) + ["/blogs"]
+        links = "".join(f'<li><a href="{p}">{p}</a></li>' for p in routes)
+        body = f"""<!doctype html>
 <html><body>
 <h1>newsfeed</h1>
 <ul>{links}</ul>
-</body></html>"""
-            body = info.encode("utf-8")
-            self.send_response(200)
-            self.send_header("Content-Type", "text/html; charset=utf-8")
-            self.send_header("Content-Length", str(len(body)))
-            self.end_headers()
-            self.wfile.write(body)
+</body></html>""".encode("utf-8")
+        start_response(_status_line(200), [
+            ("Content-Type", "text/html; charset=utf-8"),
+            ("Content-Length", str(len(body))),
+        ])
+        return [body]
 
-        else:
-            self.send_response(404)
-            self.end_headers()
+    return _error_response(start_response, 404, "Not found")
+
+
+class ThreadingWSGIServer(ThreadingMixIn, WSGIServer):
+    daemon_threads = True
 
 
 def main():
-    server = ThreadingHTTPServer(("0.0.0.0", PORT), Handler)
+    server = make_server("0.0.0.0", PORT, application, server_class=ThreadingWSGIServer)
     print(f"Serving newsfeed endpoints on port {PORT}")
     for path in list(REDDIT_ROUTES) + ["/blogs"]:
         print(f"  -> http://localhost:{PORT}{path}")
