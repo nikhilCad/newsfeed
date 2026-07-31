@@ -1,0 +1,1847 @@
+{
+  "source_url": "https://engineeringblogs.xyz/",
+  "fetched_at": "2026-07-31T16:48:13.593415+00:00",
+  "items": [
+    {
+      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-31T23:59:59+00:00"
+    },
+    {
+      "title": "Free Book Chapters, Better Testing Control, and Smart MCP Configuration!",
+      "link": "https://blog.angular.dev/free-book-chapters-better-testing-control-and-smart-mcp-configuration-ebc715561ca1?source=rss----447683c3d9a3---4",
+      "source_name": "Angular",
+      "source_url": "https://blog.angular.io/",
+      "published": "2026-07-31T23:59:58+00:00"
+    },
+    {
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-31T23:59:57+00:00"
+    },
+    {
+      "title": "From generated code to trusted code with a unit-test agent",
+      "link": "https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/",
+      "source_name": ".NET",
+      "source_url": "https://blogs.msdn.microsoft.com/dotnet/",
+      "published": "2026-07-31T23:59:56+00:00"
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-31T23:59:55+00:00"
+    },
+    {
+      "title": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-31T23:59:54+00:00"
+    },
+    {
+      "title": "Now testing: Best comments first",
+      "link": "https://engineering.tumblr.com/post/823663716058972160",
+      "source_name": "Tumblr",
+      "source_url": "https://engineering.tumblr.com/",
+      "published": "2026-07-31T23:59:53+00:00"
+    },
+    {
+      "title": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth",
+      "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-31T23:59:52+00:00"
+    },
+    {
+      "title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
+      "link": "https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/",
+      "source_name": "Kotlin",
+      "source_url": "https://blog.jetbrains.com/kotlin/",
+      "published": "2026-07-31T23:59:51+00:00"
+    },
+    {
+      "title": "The Conductor Developer",
+      "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+      "source_name": "Martin Fowler",
+      "source_url": "https://martinfowler.com/",
+      "published": "2026-07-31T23:59:50+00:00"
+    },
+    {
+      "title": "Inference-time scaling on Red Hat AI: Improving model reliability",
+      "link": "https://developers.redhat.com/articles/2026/07/31/inference-time-scaling-red-hat-ai-improving-model-reliability",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-31T23:59:49+00:00"
+    },
+    {
+      "title": "Pest 5 Released With Test Impact Analysis, Agent Verification, and Evals",
+      "link": "https://laravel-news.com/pest-5?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A&#43;laravelnews",
+      "source_name": "Laravel",
+      "source_url": "https://laravel-news.com/blog/",
+      "published": "2026-07-31T23:59:48+00:00"
+    },
+    {
+      "title": "An API for MoQ: provision your own isolated relays",
+      "link": "https://blog.cloudflare.com/moq-relays/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-31T23:59:47+00:00"
+    },
+    {
+      "title": "Best CircleCI alternatives in 2026",
+      "link": "https://semaphore.io/blog/best-circleci-alternatives-in-2026",
+      "source_name": "Semaphore Engineering",
+      "source_url": "http://semaphoreci.io/feed",
+      "published": "2026-07-31T23:59:46+00:00"
+    },
+    {
+      "title": "How to Use CI as Your Agent Loop",
+      "link": "https://spin.atomicobject.com/using-ci-as-agent-loop/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-31T23:59:45+00:00"
+    },
+    {
+      "title": "Quiz: 11 Beginner Tips for Learning Python Programming",
+      "link": "https://realpython.com/quizzes/python-beginner-tips/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-31T23:59:44+00:00"
+    },
+    {
+      "title": "The Real Python Podcast – Episode #305: Should You Understand Your Entire Python Codebase?",
+      "link": "https://realpython.com/podcasts/rpp/305/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-31T23:59:43+00:00"
+    },
+    {
+      "title": "Focus on the Feature, Not the Fixture: GenAI powered GraphQL mocks",
+      "link": "https://medium.com/expedia-group-tech/focus-on-the-feature-not-the-fixture-genai-powered-graphql-mocks-ea069670af02?source=rss----38998a53046f---4",
+      "source_name": "Expedia",
+      "source_url": "https://medium.com/expedia-group-tech",
+      "published": "2026-07-31T23:59:42+00:00"
+    },
+    {
+      "title": "What happens to the internet when robots act like humans?",
+      "link": "https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-31T23:59:41+00:00"
+    },
+    {
+      "title": "Spider monitoring made easy",
+      "link": "https://www.zyte.com/blog/spider-monitoring-made-easy/",
+      "source_name": "Scrapinghub",
+      "source_url": "https://blog.scrapinghub.com/",
+      "published": "2026-07-31T23:59:40+00:00"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "link": "https://openai.com/index/unive",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-31T23:59:39+00:00"
+    },
+    {
+      "title": "Error'd: I Believe In Lingonberries",
+      "link": "https://thedailywtf.com/articles/i-believe-in-lingonberries",
+      "source_name": "The Daily WTF",
+      "source_url": "http://thedailywtf.com/",
+      "published": "2026-07-31T23:59:38+00:00"
+    },
+    {
+      "title": "Agentic Coding: Bet on the Primitives",
+      "link": "https://www.robinwieruch.de/agentic-coding-bet-on-primitives/",
+      "source_name": "Robin Wieruch",
+      "source_url": "https://www.robinwieruch.de/blog/",
+      "published": "2026-07-31T23:59:37+00:00"
+    },
+    {
+      "title": "Vercel Passport is now generally available",
+      "link": "https://vercel.com/changelog/vercel-passport-generally-available",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-31T23:59:36+00:00"
+    },
+    {
+      "title": "Push V3: One Message From Your Server to Every Surface",
+      "link": "https://www.codenameone.com/blog/push-v3-new-cloud/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-31T23:59:35+00:00"
+    },
+    {
+      "title": "A prototype is not a product. It's a conversation.",
+      "link": "https://feed.thoughtbot.com/link/24077/17396710/a-prototype-is-not-a-product-it-s-a-conversation",
+      "source_name": "Thoughtbot",
+      "source_url": "https://robots.thoughtbot.com/",
+      "published": "2026-07-31T23:59:34+00:00"
+    },
+    {
+      "title": "What's new in clickhousectl v0.4.0",
+      "link": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-31T23:59:33+00:00"
+    },
+    {
+      "title": "Closing the AI gap: How next-generation knowledge access unlocks mission outcomes for government",
+      "link": "https://www.elastic.co/blog/closing-ai-gap-government-knowledge-access",
+      "source_name": "Elastic",
+      "source_url": "https://www.elastic.co/blog/category/engineering",
+      "published": "2026-07-31T23:59:32+00:00"
+    },
+    {
+      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+      "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-30T23:59:59+00:00"
+    },
+    {
+      "title": "Kafka App? There’s a Skill for That",
+      "link": "https://www.etsy.com/codeascraft/kafka-app-thereas-a-skill-for-that?utm_source=OpenGraph&amp;utm_medium=PageTools&amp;utm_campaign=Share",
+      "source_name": "Etsy",
+      "source_url": "https://codeascraft.com/",
+      "published": "2026-07-30T23:59:58+00:00"
+    },
+    {
+      "title": "Four Ways to Deploy More Secure AI Agents",
+      "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-30T23:59:57+00:00"
+    },
+    {
+      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+      "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+      "source_name": "MIT AI News",
+      "source_url": "https://news.mit.edu/topic/artificial-intelligence2",
+      "published": "2026-07-30T23:59:56+00:00"
+    },
+    {
+      "title": "Connecting research to policy on Capitol Hill",
+      "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+      "source_name": "MIT AI News",
+      "source_url": "https://news.mit.edu/topic/artificial-intelligence2",
+      "published": "2026-07-30T23:59:55+00:00"
+    },
+    {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+      "source_name": "Netflix",
+      "source_url": "https://medium.com/netflix-techblog",
+      "published": "2026-07-30T23:59:54+00:00"
+    },
+    {
+      "title": "Foundations for an AI-forward healthcare organization",
+      "link": "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-30T23:59:53+00:00"
+    },
+    {
+      "title": "Agentic media buying cannot scale without the right foundation. See how buyers and sellers get there on Databricks.",
+      "link": "https://www.databricks.com/blog/agentic-media-buying-cannot-scale-without-right-foundation-see-how-buyers-and-sellers-get",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-30T23:59:52+00:00"
+    },
+    {
+      "title": "How controllers from industrial machinery can coordinate multitask machine learning",
+      "link": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
+      "source_name": "Amazon Science",
+      "source_url": "https://www.amazon.science/",
+      "published": "2026-07-30T23:59:51+00:00"
+    },
+    {
+      "title": "Deploying Kimi K3 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-30T23:59:50+00:00"
+    },
+    {
+      "title": "Under the Hood: Serving Kimi K3",
+      "link": "https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine",
+      "source_name": "DigitalOcean",
+      "source_url": "https://blog.digitalocean.com/tag/engineering/",
+      "published": "2026-07-30T23:59:49+00:00"
+    },
+    {
+      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-30T23:59:48+00:00"
+    },
+    {
+      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-30T23:59:47+00:00"
+    },
+    {
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-30T23:59:46+00:00"
+    },
+    {
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-30T23:59:45+00:00"
+    },
+    {
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-30T23:59:44+00:00"
+    },
+    {
+      "title": "Your trusted knowledge layer: Introducing Stack Internal's new platform experience",
+      "link": "https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-30T23:59:43+00:00"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog",
+      "published": "2026-07-30T23:59:42+00:00"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/discover/blog/",
+      "published": "2026-07-30T23:59:41+00:00"
+    },
+    {
+      "title": "Geometry Nodes Physics",
+      "link": "https://code.blender.org/2026/07/geometry-nodes-physics/",
+      "source_name": "Blender",
+      "source_url": "https://code.blender.org/",
+      "published": "2026-07-30T23:59:40+00:00"
+    },
+    {
+      "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
+      "link": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
+      "source_name": "Codrops",
+      "source_url": "https://tympanus.net/codrops/",
+      "published": "2026-07-30T23:59:39+00:00"
+    },
+    {
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 9",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260730-00/?p=112573",
+      "source_name": "Raymond Chen",
+      "source_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+      "published": "2026-07-30T23:59:38+00:00"
+    },
+    {
+      "title": "The Economic Benefit of Refactoring",
+      "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "source_name": "Martin Fowler",
+      "source_url": "https://martinfowler.com/",
+      "published": "2026-07-30T23:59:37+00:00"
+    },
+    {
+      "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+      "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-30T23:59:36+00:00"
+    },
+    {
+      "title": "Best GitLab Alternatives in 2026",
+      "link": "https://semaphore.io/blog/best-gitlab-alternatives-in-2026",
+      "source_name": "Semaphore Engineering",
+      "source_url": "http://semaphoreci.io/feed",
+      "published": "2026-07-30T23:59:35+00:00"
+    },
+    {
+      "title": "5 insults to know for your next chess match",
+      "link": "https://blog.duolingo.com/chess-insults/",
+      "source_name": "Duolingo Engineering",
+      "source_url": "https://blog.duolingo.com/",
+      "published": "2026-07-30T23:59:34+00:00"
+    },
+    {
+      "title": "Get Good Results from AI Tools: Define, Feed, Check",
+      "link": "https://spin.atomicobject.com/good-results-from-ai-tools/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-30T23:59:33+00:00"
+    },
+    {
+      "title": "Server-Timing response headers will pass through to the client",
+      "link": "https://vercel.com/changelog/server-timing-header",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:32+00:00"
+    },
+    {
+      "title": "Quiz: NumPy Tutorial: Your First Steps Into Data Science in Python",
+      "link": "https://realpython.com/quizzes/numpy-tutorial/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-30T23:59:31+00:00"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-30T23:59:30+00:00"
+    },
+    {
+      "title": "Coming soon to the mobile apps: Inbox tab in Activity&nbsp;",
+      "link": "https://engineering.tumblr.com/post/823550618592526336",
+      "source_name": "Tumblr",
+      "source_url": "https://engineering.tumblr.com/",
+      "published": "2026-07-30T23:59:29+00:00"
+    },
+    {
+      "title": "Optimize GPU efficiency with OpenShift AI and llm-d flow-control",
+      "link": "https://developers.redhat.com/articles/2026/07/30/optimize-gpu-efficiency-openshift-ai-and-llm-d-flow-control",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-30T23:59:28+00:00"
+    },
+    {
+      "title": "What Is a Token? A Developer’s Guide to Every Type",
+      "link": "https://nordicapis.com/what-is-a-token-a-developers-guide-to-every-type/",
+      "source_name": "Nordic APIs",
+      "source_url": "https://nordicapis.com/blog/",
+      "published": "2026-07-30T23:59:27+00:00"
+    },
+    {
+      "title": "CodeSOD: Negative Days",
+      "link": "https://thedailywtf.com/articles/negative-days",
+      "source_name": "The Daily WTF",
+      "source_url": "http://thedailywtf.com/",
+      "published": "2026-07-30T23:59:26+00:00"
+    },
+    {
+      "title": "BGP topics from IETF 126",
+      "link": "https://blog.apnic.net/2026/07/30/bgp-topics-from-ietf-126/",
+      "source_name": "APNIC",
+      "source_url": "https://blog.apnic.net/",
+      "published": "2026-07-30T23:59:25+00:00"
+    },
+    {
+      "title": "Shopify and Vercel are rebuilding Hydrogen for faster storefronts",
+      "link": "https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:24+00:00"
+    },
+    {
+      "title": "Run multiple isolated agents in a single Sandbox",
+      "link": "https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:23+00:00"
+    },
+    {
+      "title": "Behavioral testing for AI agents",
+      "link": "https://developers.redhat.com/articles/2026/07/30/behavioral-testing-for-ai-agents",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-30T23:59:22+00:00"
+    },
+    {
+      "title": "Just-in-time automated elevated access with Red Hat Ansible Automation Platform and ServiceNow ITSM",
+      "link": "https://developers.redhat.com/articles/2026/07/30/just-in-time-automated-elevated-access-with-red-hat-ansible-automation-platform-and-servicenow",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-30T23:59:21+00:00"
+    },
+    {
+      "title": "Token Vault Privileged Worker: Secure Access for Agents That Never Sleep",
+      "link": "https://auth0.com/blog/token-vault-privileged-worker-early-access/",
+      "source_name": "Auth0",
+      "source_url": "https://auth0.com/blog/",
+      "published": "2026-07-30T23:59:20+00:00"
+    },
+    {
+      "title": "Laravel AI SDK Adds Human-in-the-Loop Tool Approval",
+      "link": "https://laravel-news.com/laravel-ai-sdk-adds-human-in-the-loop-tool-approval?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A&#43;laravelnews",
+      "source_name": "Laravel",
+      "source_url": "https://laravel-news.com/blog/",
+      "published": "2026-07-30T23:59:19+00:00"
+    },
+    {
+      "title": "CPX: The Composer Package Executor for PHP",
+      "link": "https://laravel-news.com/cpx-the-composer-package-executor-for-php?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A&#43;laravelnews",
+      "source_name": "Laravel",
+      "source_url": "https://laravel-news.com/blog/",
+      "published": "2026-07-30T23:59:18+00:00"
+    },
+    {
+      "title": "Convert proprietary code to open ANSI SQL with Genie Code",
+      "link": "https://www.databricks.com/blog/convert-proprietary-code-open-ansi-sql-genie-code",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-30T23:59:17+00:00"
+    },
+    {
+      "title": "Deployments are now up to 7 seconds faster",
+      "link": "https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:16+00:00"
+    },
+    {
+      "title": "Turborepo and Vercel Remote Cache now support OpenID Connect (OIDC)",
+      "link": "https://vercel.com/changelog/turborepo-and-remote-cache-now-support-openid-connect-oidc",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:15+00:00"
+    },
+    {
+      "title": "Introducing Enterprise Flexible Commitment for Vercel Marketplace",
+      "link": "https://vercel.com/changelog/introducing-enterprise-flexible-commitment-for-vercel-marketplace",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:14+00:00"
+    },
+    {
+      "title": "Latest MCP spec now supported in mcp-handler",
+      "link": "https://vercel.com/changelog/latest-mcp-spec-now-supported-in-mcp-handler",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:13+00:00"
+    },
+    {
+      "title": "Migrate CloudFormation to Pulumi with Discovered Stacks",
+      "link": "https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi/",
+      "source_name": "Pulumi",
+      "source_url": "https://www.pulumi.com/blog/",
+      "published": "2026-07-30T23:59:12+00:00"
+    },
+    {
+      "title": "AI Gateway: GPT-5.6 pricing and speed updates",
+      "link": "https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:11+00:00"
+    },
+    {
+      "title": "Elastic and OpenAI collaborate to bring frontier intelligence to unstructured enterprise data",
+      "link": "https://www.elastic.co/blog/elastic-openai-partnership",
+      "source_name": "Elastic",
+      "source_url": "https://www.elastic.co/blog/category/engineering",
+      "published": "2026-07-30T23:59:10+00:00"
+    },
+    {
+      "title": "Inkling Small from Thinking Machines is now available on AI Gateway",
+      "link": "https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:09+00:00"
+    },
+    {
+      "title": "MiniMax H3 now available on AI Gateway",
+      "link": "https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:08+00:00"
+    },
+    {
+      "title": "Agent as Principal: A Purpose-Built Identity for Agents",
+      "link": "https://auth0.com/blog/agent-as-principal-purpose-built-identity-for-agents/",
+      "source_name": "Auth0",
+      "source_url": "https://auth0.com/blog/",
+      "published": "2026-07-30T23:59:07+00:00"
+    },
+    {
+      "title": "Project-scoped Tokens",
+      "link": "https://vercel.com/changelog/project-scoped-tokens",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-30T23:59:06+00:00"
+    },
+    {
+      "title": "The Walk Back",
+      "link": "https://snook.ca/everything/the-walk-back/",
+      "source_name": "Jonathan Snook",
+      "source_url": "https://snook.ca/",
+      "published": "2026-07-30T23:59:05+00:00"
+    },
+    {
+      "title": "Discovered Stacks: One Place for All Your Infrastructure",
+      "link": "https://www.pulumi.com/blog/discovered-stacks/",
+      "source_name": "Pulumi",
+      "source_url": "https://www.pulumi.com/blog/",
+      "published": "2026-07-30T23:59:04+00:00"
+    },
+    {
+      "title": "New: The State of Software Delivery in Healthcare",
+      "link": "https://feed.thoughtbot.com/link/24077/17393705/new-the-state-of-software-delivery-in-healthcare",
+      "source_name": "Thoughtbot",
+      "source_url": "https://robots.thoughtbot.com/",
+      "published": "2026-07-30T23:59:03+00:00"
+    },
+    {
+      "title": "Secure at Inception: Announcing the Snyk Studio Integration for Snowflake Cortex Code",
+      "link": "https://snyk.io/blog/announcing-snyk-studio-integration-snowflake-cortex-code/",
+      "source_name": "Snyk",
+      "source_url": "https://snyk.io/blog",
+      "published": "2026-07-30T23:59:02+00:00"
+    },
+    {
+      "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
+      "link": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-30T23:59:01+00:00"
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://openai.com/index/avatarin",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-30T23:59:00+00:00"
+    },
+    {
+      "title": "ClickHouse joins the Open Secure AI Alliance",
+      "link": "https://clickhouse.com/blog/open-secure-ai-alliance",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-30T23:59:00+00:00"
+    },
+    {
+      "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
+      "link": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-30T23:59:00+00:00"
+    },
+    {
+      "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
+      "link": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-30T23:59:00+00:00"
+    },
+    {
+      "title": "Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions",
+      "link": "https://engineering.grab.com/crowdsourced-taxonomy-verification",
+      "source_name": "Grab",
+      "source_url": "http://engineering.grab.com/",
+      "published": "2026-07-30T23:59:00+00:00"
+    },
+    {
+      "title": "NBCUniversal’s Seamless Migration: Unlocking Scalable Analytics with Databricks",
+      "link": "https://www.databricks.com/blog/nbcuniversals-seamless-migration-unlocking-scalable-analytics-databricks",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:59+00:00"
+    },
+    {
+      "title": "C++ libraries linking",
+      "link": "https://www.red-lang.org/2026/07/c-libraries-linking.html",
+      "source_name": "Red",
+      "source_url": "http://www.red-lang.org",
+      "published": "2026-07-29T23:59:58+00:00"
+    },
+    {
+      "title": "Quality care is the mission. Finance protects the margin.",
+      "link": "https://www.databricks.com/blog/quality-care-mission-finance-protects-margin",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:57+00:00"
+    },
+    {
+      "title": "Energy runs on volatile markets. Finance protects the margin.",
+      "link": "https://www.databricks.com/blog/energy-runs-volatile-markets-finance-protects-margin",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:56+00:00"
+    },
+    {
+      "title": "Manufacturing runs on capital. Finance protects the margin.",
+      "link": "https://www.databricks.com/blog/manufacturing-runs-capital-finance-protects-margin",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:55+00:00"
+    },
+    {
+      "title": "What helping 1,000+ organizations taught this nonprofit leader about customer listening",
+      "link": "https://www.surveymonkey.com/curiosity/listen4good-customer-feedback-program/?ut_source=rss",
+      "source_name": "SurveyMonkey",
+      "source_url": "https://engineering.surveymonkey.com/",
+      "published": "2026-07-29T23:59:54+00:00"
+    },
+    {
+      "title": "Bringing real-time fraud prevention to government benefits",
+      "link": "https://www.databricks.com/blog/bringing-real-time-fraud-prevention-government-benefits",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:53+00:00"
+    },
+    {
+      "title": "Agents for production lines: Trusted decisions in real time",
+      "link": "https://www.databricks.com/blog/agents-production-lines-trusted-decisions-real-time",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:52+00:00"
+    },
+    {
+      "title": "How agentic AI can help telecom finance teams protect the margin when every moment matters",
+      "link": "https://www.databricks.com/blog/how-agentic-ai-can-help-telecom-finance-teams-protect-margin-when-every-moment-matters",
+      "source_name": "Databricks",
+      "source_url": "https://databricks.com/blog",
+      "published": "2026-07-29T23:59:51+00:00"
+    },
+    {
+      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+      "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-29T23:59:50+00:00"
+    },
+    {
+      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-29T23:59:49+00:00"
+    },
+    {
+      "title": "SurveyMonkey programs: Run continuous feedback that moves your team forward",
+      "link": "https://www.surveymonkey.com/curiosity/surveymonkey-programs/?ut_source=rss",
+      "source_name": "SurveyMonkey",
+      "source_url": "https://engineering.surveymonkey.com/",
+      "published": "2026-07-29T23:59:48+00:00"
+    },
+    {
+      "title": "Node.js 24.18.1 (LTS)",
+      "link": "https://nodejs.org/en/blog/release/v24.18.1",
+      "source_name": "Node.js",
+      "source_url": "https://nodejs.org/en/blog/",
+      "published": "2026-07-29T23:59:47+00:00"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/discover/blog/",
+      "published": "2026-07-29T23:59:46+00:00"
+    },
+    {
+      "title": "Introducing Replit Design",
+      "link": "https://replit.com/blog/introducing-replit-design",
+      "source_name": "Replit",
+      "source_url": "https://blog.replit.com/",
+      "published": "2026-07-29T23:59:45+00:00"
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "source_name": "GitHub",
+      "source_url": "https://githubengineering.com/",
+      "published": "2026-07-29T23:59:44+00:00"
+    },
+    {
+      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-29T23:59:43+00:00"
+    },
+    {
+      "title": "Automating customer retention workflows in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-29T23:59:42+00:00"
+    },
+    {
+      "title": "A new benchmark for evaluating patient-facing health AI agents",
+      "link": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+      "source_name": "Amazon Science",
+      "source_url": "https://www.amazon.science/",
+      "published": "2026-07-29T23:59:41+00:00"
+    },
+    {
+      "title": "Announcing Confluent Platform 8.3: Powerful Apache Flink® SQL operations, Easier KRaft Migrations, Expanded Monitoring and more.",
+      "link": "https://www.confluent.io/blog/introducing-confluent-platform-8-3/",
+      "source_name": "Confluent",
+      "source_url": "https://www.confluent.io/blog",
+      "published": "2026-07-29T23:59:40+00:00"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-29T23:59:39+00:00"
+    },
+    {
+      "title": "Some thoughts about Anthropic’s new cryptanalysis results",
+      "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "source_name": "Matthew Green",
+      "source_url": "https://blog.cryptographyengineering.com/",
+      "published": "2026-07-29T23:59:38+00:00"
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust",
+      "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-29T23:59:37+00:00"
+    },
+    {
+      "title": "Node.js 26.5.1 (Current)",
+      "link": "https://nodejs.org/en/blog/release/v26.5.1",
+      "source_name": "Node.js",
+      "source_url": "https://nodejs.org/en/blog/",
+      "published": "2026-07-29T23:59:36+00:00"
+    },
+    {
+      "title": "Node.js 22.23.2 (LTS)",
+      "link": "https://nodejs.org/en/blog/release/v22.23.2",
+      "source_name": "Node.js",
+      "source_url": "https://nodejs.org/en/blog/",
+      "published": "2026-07-29T23:59:35+00:00"
+    },
+    {
+      "title": "CrewAI in Python: Coordinating Teams of AI Agents",
+      "link": "https://realpython.com/crewai-python/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-29T23:59:34+00:00"
+    },
+    {
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570",
+      "source_name": "Raymond Chen",
+      "source_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+      "published": "2026-07-29T23:59:33+00:00"
+    },
+    {
+      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+      "link": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+      "source_name": "MIT AI News",
+      "source_url": "https://news.mit.edu/topic/artificial-intelligence2",
+      "published": "2026-07-29T23:59:32+00:00"
+    },
+    {
+      "title": "Post-quantum authentication to origins is now supported",
+      "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-29T23:59:31+00:00"
+    },
+    {
+      "title": "Studio Freight: Moving Missions Forward",
+      "link": "https://tympanus.net/codrops/2026/07/29/studio-freight-moving-missions-forward/",
+      "source_name": "Codrops",
+      "source_url": "https://tympanus.net/codrops/",
+      "published": "2026-07-29T23:59:30+00:00"
+    },
+    {
+      "title": "TimescaleDB 2.28: Faster Queries, Lighter Operations, and Better Schema Evolution",
+      "link": "https://www.tigerdata.com/blog/timescaledb-2-28",
+      "source_name": "Timescale",
+      "source_url": "https://blog.timescale.com/",
+      "published": "2026-07-29T23:59:29+00:00"
+    },
+    {
+      "title": "A Permanent Home",
+      "link": "https://zeldman.com/2026/07/29/a-permanent-home/",
+      "source_name": "Jeffrey Zeldman",
+      "source_url": "https://zeldman.com/",
+      "published": "2026-07-29T23:59:28+00:00"
+    },
+    {
+      "title": "4 Terminal Tools I Recommend to New Developers",
+      "link": "https://spin.atomicobject.com/4-terminal-tools/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-29T23:59:27+00:00"
+    },
+    {
+      "title": "Best Bitbucket Alternatives in 2026",
+      "link": "https://semaphore.io/blog/best-bitbucket-alternatives-in-2026",
+      "source_name": "Semaphore Engineering",
+      "source_url": "http://semaphoreci.io/feed",
+      "published": "2026-07-29T23:59:26+00:00"
+    },
+    {
+      "title": "Secure Your APIs: OAuth2 and JWT for Beginners",
+      "link": "https://blog.jetbrains.com/kotlin/2026/07/secure-your-apis-oauth2-and-jwt-for-beginners/",
+      "source_name": "Kotlin",
+      "source_url": "https://blog.jetbrains.com/kotlin/",
+      "published": "2026-07-29T23:59:25+00:00"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-29T23:59:24+00:00"
+    },
+    {
+      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "source_name": "Berkeley AI Research (BAIR)",
+      "source_url": "https://bair.berkeley.edu/blog/",
+      "published": "2026-07-29T23:59:23+00:00"
+    },
+    {
+      "title": "I joined the Real Python podcast to talk harnesses and Scrapy",
+      "link": "https://www.zyte.com/blog/i-joined-the-real-python-podcast-to-talk-harnesses-and-scrapy/",
+      "source_name": "Scrapinghub",
+      "source_url": "https://blog.scrapinghub.com/",
+      "published": "2026-07-29T23:59:22+00:00"
+    },
+    {
+      "title": "Building maintainable spiders with scrapy-poet",
+      "link": "https://www.zyte.com/blog/building-maintainable-spiders-with-scrapy-poet/",
+      "source_name": "Scrapinghub",
+      "source_url": "https://blog.scrapinghub.com/",
+      "published": "2026-07-29T23:59:21+00:00"
+    },
+    {
+      "title": "Representative Line: Something Wonderful",
+      "link": "https://thedailywtf.com/articles/something-wonderful",
+      "source_name": "The Daily WTF",
+      "source_url": "http://thedailywtf.com/",
+      "published": "2026-07-29T23:59:20+00:00"
+    },
+    {
+      "title": "DNS topics at IETF 126",
+      "link": "https://blog.apnic.net/2026/07/29/dns-topics-at-ietf-126/",
+      "source_name": "APNIC",
+      "source_url": "https://blog.apnic.net/",
+      "published": "2026-07-29T23:59:19+00:00"
+    },
+    {
+      "title": "Stadium Summer: The Snyk Connect Fan Zone Tour",
+      "link": "https://snyk.io/blog/stadium-summer-snyk-connect-fan-zone-tour/",
+      "source_name": "Snyk",
+      "source_url": "https://snyk.io/blog",
+      "published": "2026-07-29T23:59:18+00:00"
+    },
+    {
+      "title": "Blade Formatting in Laravel Pint",
+      "link": "https://laravel-news.com/blade-formatting-in-laravel-pint?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A&#43;laravelnews",
+      "source_name": "Laravel",
+      "source_url": "https://laravel-news.com/blog/",
+      "published": "2026-07-29T23:59:17+00:00"
+    },
+    {
+      "title": "Performance analysis of storage live migration feature in Red Hat OpenShift Virtualization",
+      "link": "https://developers.redhat.com/articles/2026/07/29/storage-live-migration-performance-on-openshift-virtualization",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-29T23:59:16+00:00"
+    },
+    {
+      "title": "Introduction to Anthony, the voice-driven desktop",
+      "link": "https://developers.redhat.com/articles/2026/07/29/anthony-voice-driven-desktop",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-29T23:59:15+00:00"
+    },
+    {
+      "title": "Instrumenting my espresso machine with OpenTelemetry",
+      "link": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-29T23:59:14+00:00"
+    },
+    {
+      "title": "The Cold Email",
+      "link": "http://zachholman.com/posts/cold-email",
+      "source_name": "Zach Holman",
+      "source_url": "https://zachholman.com/",
+      "published": "2026-07-29T23:59:13+00:00"
+    },
+    {
+      "title": "Compact Strings Cut Character Storage in Half",
+      "link": "https://www.codenameone.com/blog/compact-strings-parparvm/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-29T23:59:12+00:00"
+    },
+    {
+      "title": "Additional custom environments can now be purchased",
+      "link": "https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:11+00:00"
+    },
+    {
+      "title": "Sign in with ChatGPT is now available on Vercel",
+      "link": "https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:10+00:00"
+    },
+    {
+      "title": "Edge Config is now Global Config",
+      "link": "https://vercel.com/changelog/edge-config-is-now-global-config",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:09+00:00"
+    },
+    {
+      "title": "A practical guide to React error monitoring",
+      "link": "https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/",
+      "source_name": "Datadog Engineering",
+      "source_url": "https://www.datadoghq.com/blog/engineering/",
+      "published": "2026-07-29T23:59:08+00:00"
+    },
+    {
+      "title": "Grok Voice Think Fast 2.0 now available on AI Gateway",
+      "link": "https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:07+00:00"
+    },
+    {
+      "title": "Wednesday, July 29, 2026 Security Releases",
+      "link": "https://nodejs.org/en/blog/vulnerability/july-2026-security-releases",
+      "source_name": "Node.js",
+      "source_url": "https://nodejs.org/en/blog/",
+      "published": "2026-07-29T23:59:06+00:00"
+    },
+    {
+      "title": "AI Gateway adds unified fast mode support",
+      "link": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:05+00:00"
+    },
+    {
+      "title": "Discover and install eve integrations from the CLI",
+      "link": "https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-29T23:59:04+00:00"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-29T23:59:03+00:00"
+    },
+    {
+      "title": "Announcing v2.0 of the official MCP C# SDK",
+      "link": "https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/",
+      "source_name": ".NET",
+      "source_url": "https://blogs.msdn.microsoft.com/dotnet/",
+      "published": "2026-07-28T23:59:59+00:00"
+    },
+    {
+      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-28T23:59:58+00:00"
+    },
+    {
+      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-28T23:59:57+00:00"
+    },
+    {
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-28T23:59:56+00:00"
+    },
+    {
+      "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+      "link": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+      "source_name": "Airbnb",
+      "source_url": "https://medium.com/airbnb-engineering",
+      "published": "2026-07-28T23:59:55+00:00"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-28T23:59:54+00:00"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog",
+      "published": "2026-07-28T23:59:53+00:00"
+    },
+    {
+      "title": "Terraform AzureRM provider 5.0 now generally available",
+      "link": "https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available",
+      "source_name": "HashiCorp",
+      "source_url": "https://www.hashicorp.com/blog/",
+      "published": "2026-07-28T23:59:52+00:00"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog",
+      "published": "2026-07-28T23:59:51+00:00"
+    },
+    {
+      "title": "How Lyft keeps real people at the center of AI-driven decisions",
+      "link": "https://www.surveymonkey.com/curiosity/how-lyft-uses-data-and-customer-insights/?ut_source=rss",
+      "source_name": "SurveyMonkey",
+      "source_url": "https://engineering.surveymonkey.com/",
+      "published": "2026-07-28T23:59:50+00:00"
+    },
+    {
+      "title": "Managing Imports With Python's __all__",
+      "link": "https://realpython.com/courses/managing-imports-dunder-all/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-28T23:59:49+00:00"
+    },
+    {
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568",
+      "source_name": "Raymond Chen",
+      "source_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+      "published": "2026-07-28T23:59:48+00:00"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/discover/blog/",
+      "published": "2026-07-28T23:59:47+00:00"
+    },
+    {
+      "title": "The Orchestrator's Tax",
+      "link": "https://martinfowler.com/articles/orchestrator-tax.html",
+      "source_name": "Martin Fowler",
+      "source_url": "https://martinfowler.com/",
+      "published": "2026-07-28T23:59:46+00:00"
+    },
+    {
+      "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
+      "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-28T23:59:45+00:00"
+    },
+    {
+      "title": "Why I’m Writing Rachel’s Ramblings",
+      "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+      "source_name": "Martin Fowler",
+      "source_url": "https://martinfowler.com/",
+      "published": "2026-07-28T23:59:44+00:00"
+    },
+    {
+      "title": "8 slang words you’ll hear in France",
+      "link": "https://blog.duolingo.com/slang-words-in-france/",
+      "source_name": "Duolingo Engineering",
+      "source_url": "https://blog.duolingo.com/",
+      "published": "2026-07-28T23:59:43+00:00"
+    },
+    {
+      "title": "Fix Common Google Sheets Mistakes (and a Few Easy Wins)",
+      "link": "https://spin.atomicobject.com/common-google-sheets-mistakes/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-28T23:59:42+00:00"
+    },
+    {
+      "title": "Quiz: Managing Imports With Python's __all__",
+      "link": "https://realpython.com/quizzes/managing-imports-dunder-all/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-28T23:59:41+00:00"
+    },
+    {
+      "title": "The real AI risk is inside the labs",
+      "link": "http://antirez.com/news/172",
+      "source_name": "Antirez",
+      "source_url": "http://antirez.com/latest/0",
+      "published": "2026-07-28T23:59:40+00:00"
+    },
+    {
+      "title": "KotlinLLM is Going Open Source",
+      "link": "https://blog.jetbrains.com/research/2026/07/kotlinllm-open-source/",
+      "source_name": "Kotlin",
+      "source_url": "https://blog.jetbrains.com/kotlin/",
+      "published": "2026-07-28T23:59:39+00:00"
+    },
+    {
+      "title": "You need reliable AI context for your site reliability",
+      "link": "https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-28T23:59:38+00:00"
+    },
+    {
+      "title": "The grader is the reward: What we learned from reinforcement fine-tuning on Azure Foundry",
+      "link": "https://medium.com/data-science-at-microsoft/the-grader-is-the-reward-what-we-learned-from-reinforcement-fine-tuning-on-azure-foundry-16a6bbd1ac11?source=rss----a6e43238cdaf---4",
+      "source_name": "Data Science at Microsoft",
+      "source_url": "https://medium.com/data-science-at-microsoft",
+      "published": "2026-07-28T23:59:37+00:00"
+    },
+    {
+      "title": "Build a distributed RAG pipeline with Ray Data on OpenShift AI",
+      "link": "https://developers.redhat.com/articles/2026/07/28/build-distributed-rag-pipeline-ray-data-openshift-ai",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-28T23:59:36+00:00"
+    },
+    {
+      "title": "OSFT explained: Prevent catastrophic forgetting in LLM fine-tuning",
+      "link": "https://developers.redhat.com/articles/2026/07/28/osft-explained-prevent-catastrophic-forgetting-llm-fine-tuning",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-28T23:59:35+00:00"
+    },
+    {
+      "title": "Enrich OpenShift compliance results with custom metadata",
+      "link": "https://developers.redhat.com/articles/2026/07/28/enrich-openshift-compliance-results-custom-metadata",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-28T23:59:34+00:00"
+    },
+    {
+      "title": "What Happens After Every Company Becomes a Data Company?",
+      "link": "https://nordicapis.com/what-happens-after-every-company-becomes-a-data-company/",
+      "source_name": "Nordic APIs",
+      "source_url": "https://nordicapis.com/blog/",
+      "published": "2026-07-28T23:59:33+00:00"
+    },
+    {
+      "title": "CodeSOD: Convert Back, Way Back",
+      "link": "https://thedailywtf.com/articles/convert-back-way-back",
+      "source_name": "The Daily WTF",
+      "source_url": "http://thedailywtf.com/",
+      "published": "2026-07-28T23:59:32+00:00"
+    },
+    {
+      "title": "ASO AC delivers Recommended Draft RIR Governance Document to NRO EC",
+      "link": "https://blog.apnic.net/2026/07/28/aso-ac-delivers-recommended-draft-rir-governance-document-to-nro-ec/",
+      "source_name": "APNIC",
+      "source_url": "https://blog.apnic.net/",
+      "published": "2026-07-28T23:59:31+00:00"
+    },
+    {
+      "title": "Build a Flask App with Okta for Secure OIDC Login and Authorized API Calls",
+      "link": "https://developer.okta.com/blog/2026/07/28/flask-oauth-web-app",
+      "source_name": "Okta",
+      "source_url": "https://developer.okta.com/blog/",
+      "published": "2026-07-28T23:59:30+00:00"
+    },
+    {
+      "title": "What Needs To Retry",
+      "link": "https://glebbahmutov.com/blog/what-needs-to-retry/",
+      "source_name": "Gleb Bahmutov",
+      "source_url": "https://glebbahmutov.com/blog/",
+      "published": "2026-07-28T23:59:29+00:00"
+    },
+    {
+      "title": "Vercel Sandbox supports forking",
+      "link": "https://vercel.com/changelog/vercel-sandbox-supports-forking",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-28T23:59:28+00:00"
+    },
+    {
+      "title": "Hooray for the sockets interface",
+      "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "source_name": "APNIC",
+      "source_url": "https://blog.apnic.net/",
+      "published": "2026-07-28T23:59:27+00:00"
+    },
+    {
+      "title": "Chimed, I’m sure",
+      "link": "https://snook.ca/everything/chimed/",
+      "source_name": "Jonathan Snook",
+      "source_url": "https://snook.ca/",
+      "published": "2026-07-28T23:59:26+00:00"
+    },
+    {
+      "title": "The secure way to release an npm package in 2026",
+      "link": "https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package",
+      "source_name": "Evil Martians",
+      "source_url": "https://evilmartians.com/chronicles/",
+      "published": "2026-07-28T23:59:25+00:00"
+    },
+    {
+      "title": "A Lightweight Rich Text Component Without a Web View",
+      "link": "https://www.codenameone.com/blog/rich-text-without-webview/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-28T23:59:24+00:00"
+    },
+    {
+      "title": "Elastic Cloud Serverless: Ongoing multicontinent expansion",
+      "link": "https://www.elastic.co/blog/elastic-cloud-now-available-madrid-tokyo-sweden-sao-paulo",
+      "source_name": "Elastic",
+      "source_url": "https://www.elastic.co/blog/category/engineering",
+      "published": "2026-07-28T23:59:23+00:00"
+    },
+    {
+      "title": "The Generator Can't Be the Validator: What OpenAI's Hugging Face Incident Proves About AI Security",
+      "link": "https://snyk.io/blog/openai-hugging-face-incident/",
+      "source_name": "Snyk",
+      "source_url": "https://snyk.io/blog",
+      "published": "2026-07-28T23:59:22+00:00"
+    },
+    {
+      "title": "Proper logging in PHP with PSR-3",
+      "link": "https://ocramius.github.io/blog/php-logging-with-psr-3/",
+      "source_name": "Marco Pivetta",
+      "source_url": "http://ocramius.github.io/",
+      "published": "2026-07-28T23:59:21+00:00"
+    },
+    {
+      "title": "Vercel Connect now supports Custom Environments",
+      "link": "https://vercel.com/changelog/vercel-connect-now-supports-custom-environments",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-28T23:59:20+00:00"
+    },
+    {
+      "title": "How to Run AI Agents on Kubernetes with Pulumi",
+      "link": "https://www.pulumi.com/blog/ai-agents-on-kubernetes/",
+      "source_name": "Pulumi",
+      "source_url": "https://www.pulumi.com/blog/",
+      "published": "2026-07-28T23:59:19+00:00"
+    },
+    {
+      "title": "Building Galley House",
+      "link": "https://eviltrout.com/blog/2026-07-28-building-galley-house/",
+      "source_name": "Robin Ward",
+      "source_url": "https://eviltrout.com/",
+      "published": "2026-07-28T23:59:18+00:00"
+    },
+    {
+      "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
+      "link": "https://clickhouse.com/blog/fetch-agentic-analytics",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-28T23:59:17+00:00"
+    },
+    {
+      "title": "Why strict memory overcommit matters for Postgres",
+      "link": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-28T23:59:16+00:00"
+    },
+    {
+      "title": "Investigate every security event with an AI agent, without the frontier bill",
+      "link": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/",
+      "source_name": "Datadog Engineering",
+      "source_url": "https://www.datadoghq.com/blog/engineering/",
+      "published": "2026-07-28T23:59:15+00:00"
+    },
+    {
+      "title": "Engineering the Datadog Agent for FedRAMP High® Certification",
+      "link": "https://www.datadoghq.com/blog/engineering-the-datadog-agent-for-fedramp-high/",
+      "source_name": "Datadog Engineering",
+      "source_url": "https://www.datadoghq.com/blog/engineering/",
+      "published": "2026-07-28T23:59:14+00:00"
+    },
+    {
+      "title": "Queue-SQL: Run Mass Deletes and Updates Across Parallel Queue Jobs",
+      "link": "https://laravel-news.com/queue-sql-run-mass-deletes-and-updates-across-parallel-queue-jobs?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A&#43;laravelnews",
+      "source_name": "Laravel",
+      "source_url": "https://laravel-news.com/blog/",
+      "published": "2026-07-27T23:59:59+00:00"
+    },
+    {
+      "title": "Regional inference now available on AI Gateway",
+      "link": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:58+00:00"
+    },
+    {
+      "title": "Building a Multi-Theme Design System in Figma",
+      "link": "https://blog.apartment304.com/figma-design-system/",
+      "source_name": "Apartment 304",
+      "source_url": "https://blog.apartment304.com/",
+      "published": "2026-07-27T23:59:57+00:00"
+    },
+    {
+      "title": "Analyze MSBuild Binary Logs with Copilot in VS Code",
+      "link": "https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/",
+      "source_name": ".NET",
+      "source_url": "https://blogs.msdn.microsoft.com/dotnet/",
+      "published": "2026-07-27T23:59:56+00:00"
+    },
+    {
+      "title": "eve adds new Slack event hooks and session controls",
+      "link": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:55+00:00"
+    },
+    {
+      "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-27T23:59:54+00:00"
+    },
+    {
+      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-27T23:59:53+00:00"
+    },
+    {
+      "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-27T23:59:52+00:00"
+    },
+    {
+      "title": "Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest",
+      "link": "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss----4c5a5f6279b6---4",
+      "source_name": "Pinterest Engineering",
+      "source_url": "https://medium.com/pinterest-engineering",
+      "published": "2026-07-27T23:59:51+00:00"
+    },
+    {
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-27T23:59:50+00:00"
+    },
+    {
+      "title": "How Lawmatics Cut CI Compute Cost by 39.3% and Shortened Pipeline Time by 15.8%",
+      "link": "https://semaphore.io/blog/how-lawmatics-cut-ci-compute-cost-and-shortened-pipeline-time",
+      "source_name": "Semaphore Engineering",
+      "source_url": "http://semaphoreci.io/feed",
+      "published": "2026-07-27T23:59:49+00:00"
+    },
+    {
+      "title": "Introducing AI-powered container standardization",
+      "link": "https://medium.com/capital-one-tech/introducing-ai-powered-container-standardization-2f9314cde883?source=rss----3db3a67cb648---4",
+      "source_name": "Capital One Tech",
+      "source_url": "https://medium.com/capital-one-tech",
+      "published": "2026-07-27T23:59:48+00:00"
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+      "source_name": "AWS",
+      "source_url": "https://aws.amazon.com/blogs/aws/",
+      "published": "2026-07-27T23:59:47+00:00"
+    },
+    {
+      "title": "The Fellowship of Code: My Quest at Ruby for Good in Ghent",
+      "link": "https://engineering.freeagent.com/2026/07/27/the-fellowship-of-code-my-quest-at-ruby-for-good-in-ghent/",
+      "source_name": "FreeAgent",
+      "source_url": "https://engineering.freeagent.com/",
+      "published": "2026-07-27T23:59:46+00:00"
+    },
+    {
+      "title": "How Sandstone grew 40x in 147 days on Vercel",
+      "link": "https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:45+00:00"
+    },
+    {
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566",
+      "source_name": "Raymond Chen",
+      "source_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+      "published": "2026-07-27T23:59:44+00:00"
+    },
+    {
+      "title": "How to Use Google's Antigravity CLI for AI Code Assistance",
+      "link": "https://realpython.com/antigravity-cli/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-27T23:59:43+00:00"
+    },
+    {
+      "title": "Between Print and Digital: The Making of MERSI’s Website",
+      "link": "https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/",
+      "source_name": "Codrops",
+      "source_url": "https://tympanus.net/codrops/",
+      "published": "2026-07-27T23:59:42+00:00"
+    },
+    {
+      "title": "We’re open-sourcing our privacy proxy CLI",
+      "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-27T23:59:41+00:00"
+    },
+    {
+      "title": "Design Doesn’t Have A Finish Line",
+      "link": "https://spin.atomicobject.com/phased-design-no-finish-line/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-27T23:59:40+00:00"
+    },
+    {
+      "title": "Quiz: How to Use Google's Antigravity CLI for AI Code Assistance",
+      "link": "https://realpython.com/quizzes/antigravity-cli/",
+      "source_name": "Real Python",
+      "source_url": "https://realpython.com/blog/",
+      "published": "2026-07-27T23:59:39+00:00"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog",
+      "published": "2026-07-27T23:59:38+00:00"
+    },
+    {
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-27T23:59:37+00:00"
+    },
+    {
+      "title": "Modern Scrapy for experienced developers: A new series",
+      "link": "https://www.zyte.com/blog/modern-scrapy-for-experience-developers-part-1/",
+      "source_name": "Scrapinghub",
+      "source_url": "https://blog.scrapinghub.com/",
+      "published": "2026-07-27T23:59:36+00:00"
+    },
+    {
+      "title": "How we designed customizable dashboards in OpenShift",
+      "link": "https://developers.redhat.com/articles/2026/07/27/how-we-designed-customizable-dashboards-openshift",
+      "source_name": "Red Hat",
+      "source_url": "https://developers.redhat.com/blog/",
+      "published": "2026-07-27T23:59:35+00:00"
+    },
+    {
+      "title": "HTTP Message Signatures with curl",
+      "link": "https://daniel.haxx.se/blog/2026/07/27/http-message-signatures-with-curl/",
+      "source_name": "Daniel Stenberg",
+      "source_url": "https://daniel.haxx.se/blog/",
+      "published": "2026-07-27T23:59:34+00:00"
+    },
+    {
+      "title": "The Hard Goodbye",
+      "link": "https://thedailywtf.com/articles/the-hard-goodbye",
+      "source_name": "The Daily WTF",
+      "source_url": "http://thedailywtf.com/",
+      "published": "2026-07-27T23:59:33+00:00"
+    },
+    {
+      "title": "Secure by default: How ‘HSTS-Enforced’ could finally close the web’s oldest backdoor",
+      "link": "https://blog.apnic.net/2026/07/27/secure-by-default-how-hsts-enforced-could-finally-close-the-webs-oldest-backdoor/",
+      "source_name": "APNIC",
+      "source_url": "https://blog.apnic.net/",
+      "published": "2026-07-27T23:59:32+00:00"
+    },
+    {
+      "title": "DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities",
+      "link": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:31+00:00"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source_name": "OpenAI",
+      "source_url": "https://openai.com/news/",
+      "published": "2026-07-27T23:59:30+00:00"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-27T23:59:29+00:00"
+    },
+    {
+      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+      "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-27T23:59:28+00:00"
+    },
+    {
+      "title": "WebSocket support for OpenAI Responses API live on AI Gateway",
+      "link": "https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:27+00:00"
+    },
+    {
+      "title": "Sign in with Google for React Native",
+      "link": "https://feed.thoughtbot.com/link/24077/17387679/sign-in-with-google-for-react-native",
+      "source_name": "Thoughtbot",
+      "source_url": "https://robots.thoughtbot.com/",
+      "published": "2026-07-27T23:59:26+00:00"
+    },
+    {
+      "title": "The Self-Service Roadmap: Navigating the Auth0 Dashboard Subscriptions Tab",
+      "link": "https://auth0.com/blog/navigating-auth0-dashboard-subscriptions-tab/",
+      "source_name": "Auth0",
+      "source_url": "https://auth0.com/blog/",
+      "published": "2026-07-27T23:59:25+00:00"
+    },
+    {
+      "title": "Pure Codename One Text Editing Without Native Overlays",
+      "link": "https://www.codenameone.com/blog/text-input-without-native-overlay/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-27T23:59:24+00:00"
+    },
+    {
+      "title": "Enforce Access Token Expiry Policies in Pulumi Cloud",
+      "link": "https://www.pulumi.com/blog/access-token-expiry-policy/",
+      "source_name": "Pulumi",
+      "source_url": "https://www.pulumi.com/blog/",
+      "published": "2026-07-27T23:59:23+00:00"
+    },
+    {
+      "title": "From tool procurement to platform architecture: Rethinking the SOC for machine-speed threats",
+      "link": "https://www.elastic.co/blog/soc-platform-architecture-agentic-security",
+      "source_name": "Elastic",
+      "source_url": "https://www.elastic.co/blog/category/engineering",
+      "published": "2026-07-27T23:59:22+00:00"
+    },
+    {
+      "title": "What Is AI Pentesting and How Does It Work?",
+      "link": "https://snyk.io/blog/what-is-ai-pentesting/",
+      "source_name": "Snyk",
+      "source_url": "https://snyk.io/blog",
+      "published": "2026-07-27T23:59:21+00:00"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source_name": "Hugging Face",
+      "source_url": "https://huggingface.co/blog",
+      "published": "2026-07-27T23:59:20+00:00"
+    },
+    {
+      "title": "Elastic joins NVIDIA and industry leaders as inaugural member of the Open Secure AI Alliance for AI safety and security",
+      "link": "https://www.elastic.co/blog/elastic-nvidia-inaugural-partner-osaia",
+      "source_name": "Elastic",
+      "source_url": "https://www.elastic.co/blog/category/engineering",
+      "published": "2026-07-27T23:59:19+00:00"
+    },
+    {
+      "title": "Run Claude Managed Agents with Chat SDK",
+      "link": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:18+00:00"
+    },
+    {
+      "title": "Nuxt July 2026 security advisory",
+      "link": "https://vercel.com/changelog/nuxt-july-2026-security-advisory",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:17+00:00"
+    },
+    {
+      "title": "ClickHouse docs relaunch",
+      "link": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
+      "source_name": "Clickhouse",
+      "source_url": "https://clickhouse.com/blog",
+      "published": "2026-07-27T23:59:16+00:00"
+    },
+    {
+      "title": "Normalize security logs to Google SecOps UDM with Observability Pipelines",
+      "link": "https://www.datadoghq.com/blog/observability-pipelines-google-secops/",
+      "source_name": "Datadog Engineering",
+      "source_url": "https://www.datadoghq.com/blog/engineering/",
+      "published": "2026-07-27T23:59:15+00:00"
+    },
+    {
+      "title": "Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway",
+      "link": "https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-27T23:59:14+00:00"
+    },
+    {
+      "title": "It’s Not Up to You to Prove AI Makes You Faster",
+      "link": "https://spin.atomicobject.com/prove-ai-makes-you-faster/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-26T23:59:59+00:00"
+    },
+    {
+      "title": "Production ML-DSA Verification in 350 Lines of Python",
+      "link": "https://words.filippo.io/mldsa-py/",
+      "source_name": "Filippo Valsorda",
+      "source_url": "https://blog.filippo.io/",
+      "published": "2026-07-26T23:59:58+00:00"
+    },
+    {
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "source_name": "Berkeley AI Research (BAIR)",
+      "source_url": "https://bair.berkeley.edu/blog/",
+      "published": "2026-07-26T23:59:57+00:00"
+    },
+    {
+      "title": "Amazon is investing in the Lean Focused Research Organization",
+      "link": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization",
+      "source_name": "Amazon Science",
+      "source_url": "https://www.amazon.science/",
+      "published": "2026-07-26T23:59:56+00:00"
+    },
+    {
+      "title": "The circle of competence for developers",
+      "link": "https://tomassetti.me/the-circle-of-competence-for-developers/",
+      "source_name": "Federico Tomassetti",
+      "source_url": "https://tomassetti.me/",
+      "published": "2026-07-26T23:59:55+00:00"
+    },
+    {
+      "title": "Black Zone Dreams",
+      "link": "https://blog.rinesi.com/2026/07/black-zone-dreams",
+      "source_name": "Marcelo Rinesi",
+      "source_url": "https://blog.rinesi.com/",
+      "published": "2026-07-26T23:59:54+00:00"
+    },
+    {
+      "title": "Bluetooth Support Across Every Codename One Target",
+      "link": "https://www.codenameone.com/blog/bluetooth-beyond-ble/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-26T23:59:53+00:00"
+    },
+    {
+      "title": "RFC 9880 and the IoT Validation Problem",
+      "link": "https://blog.frankel.ch/rfc-9880-iot-validation-compiler/",
+      "source_name": "Nicolas Fränkel",
+      "source_url": "https://blog.frankel.ch/",
+      "published": "2026-07-26T23:59:52+00:00"
+    },
+    {
+      "title": "New Feature: Games",
+      "link": "https://joshtronic.com/2026/07/26/new-feature-games/",
+      "source_name": "Josh Sherman",
+      "source_url": "https://joshtronic.com/",
+      "published": "2026-07-26T23:59:51+00:00"
+    },
+    {
+      "title": "1,500 curl authors",
+      "link": "https://daniel.haxx.se/blog/2026/07/25/1500-curl-authors/",
+      "source_name": "Daniel Stenberg",
+      "source_url": "https://daniel.haxx.se/blog/",
+      "published": "2026-07-25T23:59:59+00:00"
+    },
+    {
+      "title": "Atomic Object Raleigh Is Now a Majority-Women Office",
+      "link": "https://spin.atomicobject.com/atomic-raleigh-majority-women/",
+      "source_name": "Atomic Object",
+      "source_url": "https://spin.atomicobject.com/",
+      "published": "2026-07-25T23:59:58+00:00"
+    },
+    {
+      "title": "Being Linux Torvalds",
+      "link": "http://antirez.com/news/171",
+      "source_name": "Antirez",
+      "source_url": "http://antirez.com/latest/0",
+      "published": "2026-07-25T23:59:57+00:00"
+    },
+    {
+      "title": "How to be useful as a software architect",
+      "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
+      "source_name": "Swizec Teller",
+      "source_url": "https://swizec.com/blog/",
+      "published": "2026-07-25T23:59:56+00:00"
+    },
+    {
+      "title": "Calendar API: Local Calendars, Cloud Sync, and Conflict Handling",
+      "link": "https://www.codenameone.com/blog/calendar-is-not-add-event/",
+      "source_name": "CodeName One",
+      "source_url": "http://www.codenameone.com/blog.html",
+      "published": "2026-07-25T23:59:55+00:00"
+    },
+    {
+      "title": "Collections",
+      "link": "https://snook.ca/everything/collections/",
+      "source_name": "Jonathan Snook",
+      "source_url": "https://snook.ca/",
+      "published": "2026-07-25T23:59:54+00:00"
+    },
+    {
+      "title": "Check out the New Node.js API Documentation Preview",
+      "link": "https://nodejs.org/en/blog/announcements/new-api-docs-beta",
+      "source_name": "Node.js",
+      "source_url": "https://nodejs.org/en/blog/",
+      "published": "2026-07-24T23:59:59+00:00"
+    },
+    {
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+      "source_name": "AWS Machine Learning",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "published": "2026-07-24T23:59:58+00:00"
+    },
+    {
+      "title": "Vercel WAF for Blob is now in beta",
+      "link": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
+      "source_name": "Vercel",
+      "source_url": "https://vercel.com/blog",
+      "published": "2026-07-24T23:59:57+00:00"
+    },
+    {
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
+      "source_name": "Cloudflare",
+      "source_url": "https://blog.cloudflare.com/",
+      "published": "2026-07-24T23:59:56+00:00"
+    },
+    {
+      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+      "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "source_name": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com/blog/",
+      "published": "2026-07-24T23:59:55+00:00"
+    },
+    {
+      "title": "No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?",
+      "link": "https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/",
+      "source_name": "Stack Overflow",
+      "source_url": "https://stackoverflow.blog/",
+      "published": "2026-07-24T23:59:54+00:00"
+    },
+    {
+      "title": "Stain the Page: How I Prototype with AI",
+      "link": "https://engineering.squarespace.com/blog/2026/stain-the-page-how-i-prototype-with-ai",
+      "source_name": "Squarespace",
+      "source_url": "https://engineering.squarespace.com/",
+      "published": "2026-07-24T23:59:53+00:00"
+    }
+  ]
+}

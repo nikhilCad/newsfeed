@@ -144,11 +144,15 @@ def build_rss(items, source_url: str) -> str:
 """
 
 
-def fetch_engblogs_rss(source_url: str) -> str:
+def fetch_html(source_url: str) -> str:
     req = Request(source_url, headers={"User-Agent": USER_AGENT})
     with urlopen(req, timeout=20) as resp:
         charset = resp.headers.get_content_charset() or "utf-8"
-        page_html = resp.read().decode(charset, errors="replace")
+        return resp.read().decode(charset, errors="replace")
+
+
+def fetch_engblogs_rss(source_url: str) -> str:
+    page_html = fetch_html(source_url)
     items = parse_page(page_html, source_url)
     return build_rss(items, source_url)
 
@@ -202,6 +206,45 @@ def build_reddit_rss(data: dict) -> str:
     <description>Reddit feeds refreshed locally by scripts/run_local.py.</description>
     <lastBuildDate>{format_datetime(now)}</lastBuildDate>
     <generator>scripts/run_local.py</generator>
+{body}
+  </channel>
+</rss>
+"""
+
+
+# ---------------------------------------------------------------------------
+# Engineering blogs data/engblogs.json (as written by scripts/blogs_fetch.py) -> RSS
+# ---------------------------------------------------------------------------
+
+def build_engblogs_rss(data: dict) -> str:
+    now = datetime.now(timezone.utc)
+    source_url = data.get("source_url", "")
+
+    items_xml = []
+    for item in data.get("items", []):
+        pub_dt = parse_reddit_pubdate(item.get("published", ""), now)
+        guid = escape_xml(item.get("link", ""))
+        display_title = f"{item.get('source_name', 'Unknown source')} - {item.get('title', '')}"
+        items_xml.append(
+            "    <item>\n"
+            f"      <title>{escape_xml(display_title)}</title>\n"
+            f"      <link>{guid}</link>\n"
+            f"      <guid isPermaLink=\"true\">{guid}</guid>\n"
+            f"      <pubDate>{format_datetime(pub_dt)}</pubDate>\n"
+            f"      <source url=\"{escape_xml(item.get('source_url', ''))}\">{escape_xml(item.get('source_name', ''))}</source>\n"
+            f"      <category>{escape_xml(item.get('source_name', ''))}</category>\n"
+            "    </item>"
+        )
+
+    body = "\n".join(items_xml)
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Engineering Blogs</title>
+    <link>{escape_xml(source_url)}</link>
+    <description>RSS feed generated from the Engineering Blogs aggregator page.</description>
+    <lastBuildDate>{format_datetime(now)}</lastBuildDate>
+    <generator>scripts/server.py</generator>
 {body}
   </channel>
 </rss>
