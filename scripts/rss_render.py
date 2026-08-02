@@ -186,12 +186,31 @@ def build_reddit_rss(data: dict) -> str:
         title = f"{feed_name} - {item.get('title', '')}"
         link = item.get("link", "")
         pub_dt = parse_reddit_pubdate(item.get("published", ""), now)
+        thumbnail = item.get("thumbnail", "")
+        selftext = item.get("selftext", "")
+
+        description_parts = []
+        if thumbnail:
+            description_parts.append(f'<img src="{thumbnail}" />')
+        if selftext:
+            description_parts.append(selftext)
+        description_xml = (
+            f"      <description>{escape_xml(''.join(description_parts))}</description>\n"
+            if description_parts
+            else ""
+        )
+        thumbnail_xml = (
+            f'      <media:thumbnail url="{escape_xml(thumbnail)}" />\n' if thumbnail else ""
+        )
+
         items_xml.append(
             "    <item>\n"
             f"      <title>{escape_xml(title)}</title>\n"
             f"      <link>{escape_xml(link)}</link>\n"
             f"      <guid isPermaLink=\"true\">{escape_xml(link)}</guid>\n"
             f"      <pubDate>{format_datetime(pub_dt)}</pubDate>\n"
+            f"{description_xml}"
+            f"{thumbnail_xml}"
             f"      <source url=\"{escape_xml(source_url)}\">{escape_xml(feed_name)}</source>\n"
             f"      <category>{escape_xml(feed_name)}</category>\n"
             "    </item>"
@@ -199,7 +218,7 @@ def build_reddit_rss(data: dict) -> str:
 
     body = "\n".join(items_xml)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{escape_xml(category_title)}</title>
     <link>https://github.com/</link>

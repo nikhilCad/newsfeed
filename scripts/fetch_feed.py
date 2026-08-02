@@ -16,12 +16,22 @@ Usage:
 """
 import json
 import os
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 USER_AGENT = "newsfeed-reddit-bridge/1.0"
+
+# Reddit wraps a post's selftext (if any) in these markers inside <content>,
+# e.g. <!-- SC_OFF --><div class="md">...</div><!-- SC_ON -->. Image/gallery
+# posts without a text body, and pure link posts, don't have this block at all.
+SELFTEXT_RE = re.compile(
+    r'<!--\s*SC_OFF\s*-->\s*<div class="md">(?P<body>.*?)</div>\s*<!--\s*SC_ON\s*-->',
+    re.DOTALL,
+)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FEEDS_JSON = os.path.join(ROOT, "feeds.json")
@@ -83,6 +93,18 @@ def describe_parse_error(xml_text, content_type, error):
     )
 
 
+def extract_selftext(content_html):
+    """Pull a post's selftext body (if any) out of its <content> HTML.
+
+    Image/gallery posts without a caption, and pure link posts, have no
+    SC_OFF/SC_ON block at all, so this returns "" for those.
+    """
+    if not content_html:
+        return ""
+    match = SELFTEXT_RE.search(content_html)
+    return match.group("body").strip() if match else ""
+
+
 def parse_entries(xml_text):
     root = ET.fromstring(xml_text)
     items = []
@@ -98,7 +120,20 @@ def parse_entries(xml_text):
         )
         if not title or not link:
             continue
-        items.append({"title": title, "link": link, "author": author, "published": published})
+
+        thumbnail_el = entry.find(f"{MEDIA_NS}thumbnail")
+        thumbnail = thumbnail_el.get("url") if thumbnail_el is not None else ""
+        content_html = entry.findtext(f"{ATOM_NS}content") or ""
+        selftext = extract_selftext(content_html)
+
+        items.append({
+            "title": title,
+            "link": link,
+            "author": author,
+            "published": published,
+            "thumbnail": thumbnail,
+            "selftext": selftext,
+        })
     return items
 
 
