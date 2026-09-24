@@ -1,0 +1,26 @@
+name = "newsfeed"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+
+# Tick frequency, not fetch frequency: every 3 minutes stays comfortably
+# under Reddit's ~1 req/min rate limit, but most ticks are no-ops -- actual
+# fetch pacing is controlled by REDDIT_CYCLE_HOURS/ENGBLOGS_REFRESH_HOURS
+# below, checked against KV-stored due-times in src/index.ts.
+[triggers]
+crons = ["*/3 * * * *"]
+
+[[kv_namespaces]]
+binding = "NEWSFEED_KV"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+SOURCE_URL = "https://engineeringblogs.xyz/"
+# How long a full round-robin over ALL reddit feeds should take (spread
+# evenly, however many feeds there are in config:feeds).
+REDDIT_CYCLE_HOURS = "6"
+# How often the engineering-blogs aggregator page is proactively re-fetched.
+ENGBLOGS_REFRESH_HOURS = "3"
+# Fallback cache TTL for the /blogs route when it's hit before the cron's
+# own ENGBLOGS_REFRESH_HOURS-paced fetch has ever run (e.g. right after
+# first deploy) -- keeps a request storm from each triggering its own fetch.
+CACHE_SECONDS = "900"
