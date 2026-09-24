@@ -99,7 +99,7 @@ The shape is unchanged from the repo-root `feeds.json`:
 {
   "categories": [
     { "key": "reddittext", "title": "Reddit Text", "feeds": [
-      { "name": "...", "url": "...", "category": "Reddit Text" }
+      { "name": "...", "url": "..." }
     ] }
   ]
 }

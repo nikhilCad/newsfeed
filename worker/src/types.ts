@@ -9,7 +9,6 @@ export interface Env {
 export interface Feed {
   name: string;
   url: string;
-  category: string;
 }
 
 export interface FeedCategory {
