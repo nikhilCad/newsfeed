@@ -1,8 +1,19 @@
 import type { Env, RedditCategoryData } from "./types";
-import { flatten, getFeedsConfig, loadNextDueAt, loadNextIndex, saveNextDueAt, saveNextIndex } from "./feedsConfig";
+import {
+  flatten,
+  getFeedsConfig,
+  loadAttempts,
+  loadNextDueAt,
+  loadNextIndex,
+  saveAttempts,
+  saveNextDueAt,
+  saveNextIndex,
+} from "./feedsConfig";
 import { fetchAtom, parseAtomEntries, mergeCategoryData, loadCategoryData } from "./reddit";
 import { buildRedditRss, buildEngblogsRss } from "./rss";
 import { getEngblogsData, refreshEngblogsIfDue } from "./blogs";
+
+const MAX_FETCH_ATTEMPTS = 3;
 
 async function renderRedditRoute(env: Env, categoryKey: string): Promise<Response> {
   const data = await loadCategoryData(env, categoryKey);
@@ -29,8 +40,7 @@ async function handleFetch(request: Request, env: Env): Promise<Response> {
 
   if (path === "/blogs") {
     try {
-      const forceRefresh = url.searchParams.has("refresh");
-      const data = await getEngblogsData(env, env.SOURCE_URL, forceRefresh);
+      const data = await getEngblogsData(env, env.SOURCE_URL);
       return new Response(buildEngblogsRss(data), {
         headers: { "Content-Type": "application/rss+xml; charset=utf-8" },
       });
@@ -56,9 +66,11 @@ async function handleFetch(request: Request, env: Env): Promise<Response> {
 // cheap no-op unless a fetch is actually due. Pacing is time-based rather
 // than "one feed per tick": REDDIT_CYCLE_HOURS is spread evenly across all
 // feeds, so a full round-robin (every feed refreshed once) takes that long
-// in total, however many feeds there are. A failed fetch doesn't advance
-// the index or the due time, so the same feed is retried on the very next
-// tick instead of waiting a full interval.
+// in total, however many feeds there are. A failed fetch is retried on the
+// very next tick (rather than waiting a full interval) up to
+// MAX_FETCH_ATTEMPTS times, after which the round-robin gives up on that
+// feed for this cycle and moves on -- so one permanently broken feed can't
+// get hit forever or stall every feed behind it in the queue.
 async function runRedditCycleIfDue(env: Env): Promise<void> {
   const config = await getFeedsConfig(env);
   const order = flatten(config);
@@ -82,9 +94,19 @@ async function runRedditCycleIfDue(env: Env): Promise<void> {
     await mergeCategoryData(env, categoryKey, categoryTitle, feed, items);
     await saveNextIndex(env, (slot + 1) % order.length);
     await saveNextDueAt(env, nextDueAt + intervalMs);
+    await saveAttempts(env, 0);
     console.log(`Slot ${slot}: fetched '${feed.name}' (${items.length} items) -> data:${categoryKey}`);
   } catch (err) {
-    console.error(`Slot ${slot}: fetch failed for '${feed.name}', will retry next tick:`, err);
+    const attempts = (await loadAttempts(env)) + 1;
+    if (attempts >= MAX_FETCH_ATTEMPTS) {
+      console.error(`Slot ${slot}: fetch failed for '${feed.name}' ${attempts} times, giving up for this cycle:`, err);
+      await saveNextIndex(env, (slot + 1) % order.length);
+      await saveNextDueAt(env, nextDueAt + intervalMs);
+      await saveAttempts(env, 0);
+    } else {
+      console.error(`Slot ${slot}: fetch failed for '${feed.name}' (attempt ${attempts}/${MAX_FETCH_ATTEMPTS}), will retry next tick:`, err);
+      await saveAttempts(env, attempts);
+    }
   }
 }
 

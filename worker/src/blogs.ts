@@ -100,15 +100,13 @@ async function fetchAndStoreEngblogs(env: Env, sourceUrl: string): Promise<Engbl
 
 // Mirrors server.py's BlogsCache: fetch+parse the aggregator page at most
 // once per CACHE_SECONDS, backed by KV instead of an in-process lock.
-export async function getEngblogsData(env: Env, sourceUrl: string, forceRefresh: boolean): Promise<EngblogsData> {
+export async function getEngblogsData(env: Env, sourceUrl: string): Promise<EngblogsData> {
   const ttlSeconds = parseInt(env.CACHE_SECONDS, 10) || 900;
 
-  if (!forceRefresh) {
-    const cached = (await env.NEWSFEED_KV.get(CACHE_KEY, "json")) as EngblogsData | null;
-    if (cached) {
-      const age = (Date.now() - new Date(cached.fetched_at).getTime()) / 1000;
-      if (age <= ttlSeconds) return cached;
-    }
+  const cached = (await env.NEWSFEED_KV.get(CACHE_KEY, "json")) as EngblogsData | null;
+  if (cached) {
+    const age = (Date.now() - new Date(cached.fetched_at).getTime()) / 1000;
+    if (age <= ttlSeconds) return cached;
   }
 
   return fetchAndStoreEngblogs(env, sourceUrl);

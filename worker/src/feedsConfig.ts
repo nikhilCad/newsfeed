@@ -36,6 +36,7 @@ const DEFAULT_FEEDS: FeedsConfig = {
 const FEEDS_KEY = "config:feeds";
 const STATE_KEY = "state:fetch_index";
 const NEXT_DUE_KEY = "state:fetch_next_due_at";
+const ATTEMPTS_KEY = "state:fetch_attempts";
 
 export async function getFeedsConfig(env: Env): Promise<FeedsConfig> {
   const stored = await env.NEWSFEED_KV.get(FEEDS_KEY, "json");
@@ -71,4 +72,16 @@ export async function loadNextDueAt(env: Env): Promise<number> {
 
 export async function saveNextDueAt(env: Env, epochMs: number): Promise<void> {
   await env.NEWSFEED_KV.put(NEXT_DUE_KEY, String(epochMs));
+}
+
+// Consecutive failed attempts for whatever feed is at the current slot.
+// Reset to 0 on success, or once MAX_FETCH_ATTEMPTS is hit and the
+// round-robin gives up on that feed for this cycle.
+export async function loadAttempts(env: Env): Promise<number> {
+  const raw = await env.NEWSFEED_KV.get(ATTEMPTS_KEY);
+  return raw ? parseInt(raw, 10) || 0 : 0;
+}
+
+export async function saveAttempts(env: Env, attempts: number): Promise<void> {
+  await env.NEWSFEED_KV.put(ATTEMPTS_KEY, String(attempts));
 }
