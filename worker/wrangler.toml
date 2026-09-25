@@ -24,3 +24,7 @@ ENGBLOGS_REFRESH_HOURS = "3"
 # own ENGBLOGS_REFRESH_HOURS-paced fetch has ever run (e.g. right after
 # first deploy) -- keeps a request storm from each triggering its own fetch.
 CACHE_SECONDS = "900"
+
+[observability.logs]
+enabled = true
+invocation_logs = true
