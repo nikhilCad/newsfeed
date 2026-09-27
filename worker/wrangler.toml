@@ -1,5 +1,5 @@
 name = "newsfeed"
-main = "src/index.ts"
+main = "src/entry-workers.ts"
 compatibility_date = "2026-09-01"
 
 # Tick frequency, not fetch frequency: every 3 minutes stays comfortably

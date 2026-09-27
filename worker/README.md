@@ -5,24 +5,35 @@ entirely on the free tier: a Cron Trigger replaces `run_local.py`'s loop, KV
 replaces `data/*.json` + `feeds.json` + git as the state store, and the
 `fetch` handler replaces `server.py`.
 
+This same source also runs as a plain local Node process (KV backed by
+SQLite instead of Cloudflare) -- see the repo-root `README.md` for that path.
+Business logic is shared between both; only `src/entry-workers.ts` is
+Workers-specific.
+
 ## Layout
 
-- `src/feedsConfig.ts` - reads/writes `feeds.json`-equivalent config from KV
-  (key `config:feeds`), the round-robin index (`state:fetch_index`), and the
-  next-due timestamp for the reddit cycle (`state:fetch_next_due_at`). Seeds
-  KV with the current `feeds.json` contents on first read.
-- `src/reddit.ts` - fetches one Reddit Atom feed and merges it into
+- `src/core/feedsConfig.ts` - reads/writes `feeds.json`-equivalent config
+  from KV (key `config:feeds`), the round-robin index
+  (`state:fetch_index`), and the next-due timestamp for the reddit cycle
+  (`state:fetch_next_due_at`). Seeds KV with the current `feeds.json`
+  contents on first read.
+- `src/core/reddit.ts` - fetches one Reddit Atom feed and merges it into
   `data:<category>` in KV (regex-based Atom parsing -- Workers has no XML
   DOM parser, unlike the Python version's `xml.etree`).
-- `src/blogs.ts` - fetches + parses the Engineering Blogs aggregator page.
-  `getEngblogsData` is the lazy path used by `/blogs` (KV-cached for
+- `src/core/blogs.ts` - fetches + parses the Engineering Blogs aggregator
+  page. `getEngblogsData` is the lazy path used by `/blogs` (KV-cached for
   `CACHE_SECONDS`, same as `server.py`'s `BlogsCache`); `refreshEngblogsIfDue`
   is the proactive path called from the cron tick, paced by
   `ENGBLOGS_REFRESH_HOURS` via its own `state:engblogs_next_due_at`.
-- `src/rss.ts` - renders RSS 2.0 XML from the KV data, ported from
+- `src/core/rss.ts` - renders RSS 2.0 XML from the KV data, ported from
   `rss_render.py`.
-- `src/index.ts` - `fetch` handler (one route per category key in
-  `config:feeds`, plus `/blogs` and `/`) and `scheduled` handler.
+- `src/core/app.ts` - `handleFetch` (one route per category key in
+  `config:feeds`, plus `/blogs` and `/`) and `handleScheduled`, shared by
+  both entrypoints below.
+- `src/entry-workers.ts` - Workers `fetch`/`scheduled` export, wraps
+  `core/app.ts` with the real `NEWSFEED_KV` binding.
+- `src/entry-local.ts`, `src/kv/`, `src/admin/` - the local Node path; see
+  the repo-root `README.md`.
 
 ## Fetch cadence
 

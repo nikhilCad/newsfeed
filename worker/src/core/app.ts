@@ -116,9 +116,4 @@ async function handleScheduled(env: Env): Promise<void> {
   await refreshEngblogsIfDue(env, env.SOURCE_URL, refreshHours);
 }
 
-export default {
-  fetch: (request: Request, env: Env) => handleFetch(request, env),
-  scheduled: (_event: ScheduledEvent, env: Env, ctx: ExecutionContext) => {
-    ctx.waitUntil(handleScheduled(env));
-  },
-};
+export { handleFetch, handleScheduled };

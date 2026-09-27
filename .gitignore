@@ -1,2 +1,4 @@
-*.pyc 
+*.pyc
 node_modules/
+worker/dist/
+worker/data/
