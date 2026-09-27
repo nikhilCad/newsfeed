@@ -1,6 +1,5 @@
-// Structural subset of Cloudflare's KVNamespace that this project actually
-// calls -- get(key), get(key, "json"), put(key, value). Cloudflare's real
-// KVNamespace satisfies this as-is; the local Node build backs it with sqlite.
+// Minimal key-value interface this project actually calls -- get(key),
+// get(key, "json"), put(key, value). Backed by a `kv` table in postgres.
 export interface KVStore {
   get(key: string): Promise<string | null>;
   get(key: string, type: "json"): Promise<unknown>;

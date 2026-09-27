@@ -1,7 +1,7 @@
 import type { Env, Feed, RedditCategoryData, RedditItem } from "./types";
 import { cleanText, htmlUnescape } from "./util";
 
-const USER_AGENT = "cloudflare-worker:newsfeed-reddit-bridge:1.0 (by /u/a_username_not_taken948329)";
+const USER_AGENT = "script:newsfeed-reddit-bridge:1.0 (by /u/a_username_not_taken948329)";
 
 // Reddit wraps a post's selftext (if any) in these markers inside <content>,
 // e.g. <!-- SC_OFF --><div class="md">...</div><!-- SC_ON -->. Image/gallery

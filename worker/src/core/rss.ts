@@ -57,7 +57,7 @@ export function buildRedditRss(data: RedditCategoryData): string {
   <channel>
     <title>${escapeXml(categoryTitle)}</title>
     <link>https://github.com/</link>
-    <description>Reddit feeds refreshed by a Cloudflare Worker cron trigger.</description>
+    <description>Reddit feeds refreshed by a periodic cron tick.</description>
     <lastBuildDate>${formatRfc2822(now)}</lastBuildDate>
     <generator>newsfeed-worker</generator>
 ${itemsXml.join("\n")}

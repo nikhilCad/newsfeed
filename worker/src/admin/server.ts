@@ -1,18 +1,19 @@
 import http from "node:http";
-import { openDb, writeRaw } from "../kv/sqliteKv";
+import { openDb, ensureSchema, writeRaw } from "../kv/pgKv";
 
-const DB_PATH = process.env.NEWSFEED_DB_PATH || "./data/newsfeed.db";
+const DATABASE_URL = process.env.DATABASE_URL;
+if (!DATABASE_URL) throw new Error("DATABASE_URL env var is required (postgres connection string)");
 const PORT = parseInt(process.env.ADMIN_PORT || "8788", 10);
 const HOST = process.env.ADMIN_HOST || "127.0.0.1";
 
-const db = openDb(DB_PATH);
+const db = openDb(DATABASE_URL);
 
 function escapeHtml(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function renderPage(): string {
-  const rows = db.prepare("SELECT key, value FROM kv ORDER BY key").all() as { key: string; value: string }[];
+async function renderPage(): Promise<string> {
+  const { rows } = await db.query<{ key: string; value: string }>("SELECT key, value FROM kv ORDER BY key");
   const rowsHtml = rows
     .map(
       (r) => `
@@ -39,9 +40,9 @@ function renderPage(): string {
 </head>
 <body>
 <h1>newsfeed admin</h1>
-<p>Rows prefixed <code>var:</code> are the old wrangler.toml [vars] (SOURCE_URL, REDDIT_CYCLE_HOURS, ...);
-everything else mirrors what used to live in Cloudflare KV (config:feeds, data:*, state:*).
-Edits here write straight to the sqlite file the local server/cron read from -- next request or tick picks them up, no restart needed.</p>
+<p>Rows prefixed <code>var:</code> are the config vars (SOURCE_URL, REDDIT_CYCLE_HOURS, ...);
+everything else is app state (config:feeds, data:*, state:*).
+Edits here write straight to the postgres <code>kv</code> table the local server/cron read from -- next request or tick picks them up, no restart needed.</p>
 ${rowsHtml}
 <h2>Add / overwrite key</h2>
 <form method="post" action="/save" class="row">
@@ -62,14 +63,14 @@ async function readBody(req: http.IncomingMessage): Promise<URLSearchParams> {
 const server = http.createServer(async (req, res) => {
   if (req.method === "GET" && req.url === "/") {
     res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
-    res.end(renderPage());
+    res.end(await renderPage());
     return;
   }
   if (req.method === "POST" && req.url === "/save") {
     const body = await readBody(req);
     const key = body.get("key");
     const value = body.get("value") ?? "";
-    if (key) writeRaw(db, key, value);
+    if (key) await writeRaw(db, key, value);
     res.writeHead(302, { Location: "/" });
     res.end();
     return;
@@ -78,4 +79,9 @@ const server = http.createServer(async (req, res) => {
   res.end("Not found");
 });
 
-server.listen(PORT, HOST, () => console.log(`newsfeed admin listening on http://${HOST}:${PORT}`));
+ensureSchema(db)
+  .then(() => server.listen(PORT, HOST, () => console.log(`newsfeed admin listening on http://${HOST}:${PORT}`)))
+  .catch((err) => {
+    console.error("failed to initialize database:", err);
+    process.exit(1);
+  });
