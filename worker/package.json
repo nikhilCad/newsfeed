@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "build:local": "esbuild src/entry-local.ts --bundle --platform=node --format=esm --outfile=dist/local.mjs",
-    "build:admin": "esbuild src/admin/server.ts --bundle --platform=node --format=esm --outfile=dist/admin.mjs",
+    "build:local": "esbuild src/entry-local.ts --bundle --packages=external --platform=node --format=esm --outfile=dist/local.mjs",
+    "build:admin": "esbuild src/admin/server.ts --bundle --packages=external --platform=node --format=esm --outfile=dist/admin.mjs",
     "build": "npm run build:local && npm run build:admin",
     "postinstall": "npm run build",
     "start:local": "node dist/local.mjs",
