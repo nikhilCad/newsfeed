@@ -99,12 +99,12 @@ async function runRedditCycleIfDue(env: Env): Promise<void> {
   } catch (err) {
     const attempts = (await loadAttempts(env)) + 1;
     if (attempts >= MAX_FETCH_ATTEMPTS) {
-      console.error(`Slot ${slot}: fetch failed for '${feed.name}' ${attempts} times, giving up for this cycle:`, err);
+      console.error(`Slot ${slot}: fetch failed for '${feed.name}' ${attempts} times, giving up for this cycle: ${(err as Error).message}`);
       await saveNextIndex(env, (slot + 1) % order.length);
       await saveNextDueAt(env, nextDueAt + intervalMs);
       await saveAttempts(env, 0);
     } else {
-      console.error(`Slot ${slot}: fetch failed for '${feed.name}' (attempt ${attempts}/${MAX_FETCH_ATTEMPTS}), will retry next tick:`, err);
+      console.error(`Slot ${slot}: fetch failed for '${feed.name}' (attempt ${attempts}/${MAX_FETCH_ATTEMPTS}), will retry next tick: ${(err as Error).message}`);
       await saveAttempts(env, attempts);
     }
   }

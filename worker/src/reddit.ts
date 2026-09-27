@@ -1,7 +1,7 @@
 import type { Env, Feed, RedditCategoryData, RedditItem } from "./types";
 import { cleanText, htmlUnescape } from "./util";
 
-const USER_AGENT = "newsfeed-reddit-bridge/1.0";
+const USER_AGENT = "cloudflare-worker:newsfeed-reddit-bridge:1.0 (by /u/a_username_not_taken948329)";
 
 // Reddit wraps a post's selftext (if any) in these markers inside <content>,
 // e.g. <!-- SC_OFF --><div class="md">...</div><!-- SC_ON -->. Image/gallery
@@ -60,9 +60,20 @@ export function parseAtomEntries(xmlText: string): RedditItem[] {
 }
 
 export async function fetchAtom(url: string): Promise<string> {
-  const resp = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  let resp: Response;
+  try {
+    resp = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  } catch (err) {
+    const cause = (err as Error & { cause?: unknown }).cause;
+    throw new Error(
+      `Fetch threw for ${url}: ${(err as Error).name}: ${(err as Error).message}${cause ? ` (cause: ${cause})` : ""}`,
+    );
+  }
   if (!resp.ok) {
-    throw new Error(`Fetch failed for ${url}: HTTP ${resp.status}`);
+    const body = await resp.text().catch(() => "<unreadable body>");
+    throw new Error(
+      `Fetch failed for ${url}: HTTP ${resp.status} ${resp.statusText}, retry-after=${resp.headers.get("retry-after") ?? "none"}, body=${body.slice(0, 300)}`,
+    );
   }
   return resp.text();
 }
