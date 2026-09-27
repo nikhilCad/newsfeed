@@ -6,18 +6,19 @@
     "build:local": "esbuild src/entry-local.ts --bundle --platform=node --format=esm --outfile=dist/local.mjs",
     "build:admin": "esbuild src/admin/server.ts --bundle --platform=node --format=esm --outfile=dist/admin.mjs",
     "build": "npm run build:local && npm run build:admin",
+    "postinstall": "npm run build",
     "start:local": "node dist/local.mjs",
     "start:local:cron": "node dist/local.mjs --cron",
     "start:admin": "node dist/admin.mjs",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "esbuild": "^0.24.0",
     "pg": "^8.13.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
     "@types/pg": "^8.11.0",
-    "esbuild": "^0.24.0",
     "typescript": "^5.5.4"
   }
 }
