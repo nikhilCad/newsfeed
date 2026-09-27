@@ -1,10 +1,13 @@
 import { DatabaseSync } from "node:sqlite";
+import { mkdirSync } from "node:fs";
+import { dirname } from "node:path";
 import type { KVStore } from "../core/types";
 
 // WAL mode lets the local server and the admin server (two separate
 // processes) read/write the same file concurrently without lock errors --
 // the default rollback-journal mode takes an exclusive lock per write.
 export function openDb(path: string): DatabaseSync {
+  mkdirSync(dirname(path), { recursive: true });
   const db = new DatabaseSync(path);
   db.exec(`PRAGMA journal_mode = WAL`);
   db.exec(`CREATE TABLE IF NOT EXISTS kv (key TEXT PRIMARY KEY, value TEXT NOT NULL)`);
